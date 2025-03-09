@@ -1,0 +1,1695 @@
+{
+  "showTitleScreen": false,
+  "titleScreen": {
+    "titleScreenIntroduction": "<p style=\"text-align:center\"></p>"
+  },
+  "gamemapSteps": {
+    "backgroundImageSettings": {
+      "backgroundImage": {
+        "path": "../../../images/Fatiha3.png",
+        "mime": "image/png",
+        "copyright": {
+          "license": "U"
+        },
+        "width": 52,
+        "height": 52
+      }
+    },
+    "gamemap": {
+      "elements": [
+        {
+          "id": "80673ca2-f4e8-4c7f-b6d5-3574edca2627",
+          "label": "المعرفة الأساسية",
+          "content": {
+            "params": {},
+            "dom": {
+              "count": 0
+            }
+          },
+          "telemetry": {
+            "x": "14.693316575417404",
+            "y": "22.166559528295615",
+            "width": "4.375",
+            "height": "12.257495284039955"
+          },
+          "neighbors": [
+            "1"
+          ],
+          "canBeStartStage": true,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": false
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافقون لا يرون النعمة الحقيقية في المطر.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>النعمة الحقيقية للمطر.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! المنافقون يلفت انتباههم البرق والرعد.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>البرق والرعد.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافقون يغفلون عن جزاء التكاليف في الآخرة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>جزاء التكاليف في الآخرة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافقون لا يرون نور الإيمان بسبب ظلمات قلوبهم.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>نور الإيمان.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما الذي يلفت انتباه المنافقين حسب النص؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما الذي يلفت انتباه المنافقين حسب النص؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما الذي يلفت انتباه المنافقين حسب النص؟"
+                  },
+                  "subContentId": "847353c7-1bc6-4433-913c-4e54e68653bf"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافقون لا يرون الدنيا كفرصة للتقرب إلى الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>يرون الدنيا كفرصة للتقرب إلى الله.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! المنافقون يخافون من زوال متع الدنيا.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>يخافون من زوال متع الدنيا.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافقون لا يؤمنون بالآخرة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>يؤمنون بالآخرة أكثر من الدنيا.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافقون لا يرون في الدنيا وسيلة لتحقيق النعيم الدائم.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>يرون في الدنيا وسيلة لتحقيق النعيم الدائم.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو الموقف الذي يصفه النص تجاه المنافقين ومتع الدنيا؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو الموقف الذي يصفه النص تجاه المنافقين ومتع الدنيا؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو الموقف الذي يصفه النص تجاه المنافقين ومتع الدنيا؟"
+                  },
+                  "subContentId": "f3e3bdb8-8a1c-47b9-a60b-f8ac1236b429"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>البرق يخطف أبصارهم ولكن ليس هذا ما يمنعهم من رؤية نور الإيمان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>البرق الذي يخطف أبصارهم.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! ظلمات قلوبهم تمنعهم من رؤية نور الإيمان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>ظلمات قلوبهم.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هناك نور في الدنيا ولكنهم لا يرونه بسبب ظلمات قلوبهم.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>عدم وجود نور في الدنيا.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>آيات الله موجودة ولكنهم لا يرونها بسبب ظلمات قلوبهم.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>عدم وجود آيات الله.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما الذي يمنع المنافقين من رؤية نور الإيمان؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما الذي يمنع المنافقين من رؤية نور الإيمان؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما الذي يمنع المنافقين من رؤية نور الإيمان؟"
+                  },
+                  "subContentId": "77683af8-d856-4f4b-b4f9-896c65759c3b"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": false,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              },
+              "poolSize": 3
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "title": "Beginner",
+              "authors": [],
+              "changes": [],
+              "extraTitle": "Beginner"
+            },
+            "subContentId": "de162491-8e5e-427c-8c1f-516f54924c08"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        },
+        {
+          "id": "4cb317bc-53d0-40b2-b11b-359aa36361e8",
+          "label": "الفهم التطبيقي",
+          "content": {
+            "params": {},
+            "dom": {
+              "count": 0
+            }
+          },
+          "telemetry": {
+            "x": "31.647143393206715",
+            "y": "22.166559528295615",
+            "width": "4.375",
+            "height": "12.257495284039955"
+          },
+          "neighbors": [
+            "0",
+            "2"
+          ],
+          "canBeStartStage": false,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": false
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! المنافقون يركزون على الظواهر الوقتية مثل البرق والرعد.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنهم يركزون على الظواهر الوقتية.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافقون يؤمنون بوجود الله ولكنهم لا يعبدونه حق عبادته.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنهم لا يؤمنون بوجود الله.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافقون لا يعتقدون أن المطر يجلب الشر.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنهم يعتقدون أن المطر يجلب الشر.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافقون يحتاجون إلى الماء ولكنهم لا يرون النعمة الحقيقية فيه.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنهم لا يحتاجون إلى الماء.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>لماذا لا يستطيع المنافقون رؤية النعمة الحقيقية في المطر؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "لماذا لا يستطيع المنافقون رؤية النعمة الحقيقية في المطر؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "لماذا لا يستطيع المنافقون رؤية النعمة الحقيقية في المطر؟"
+                  },
+                  "subContentId": "357b4869-e89d-4893-bb0c-81c08b4faea3"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الخطف يتم دون إرادة صاحبه وليس بإذنه.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الخطف يتم بإذن صاحبه بينما الغصب يتم دون إذن.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الخطف يتم دون إرادة صاحبه بينما الغصب يتم باستخدام القوة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الخطف يتم دون إرادة صاحبه بينما الغصب يتم باستخدام القوة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الخطف يتم دون إرادة صاحبه وليس باستخدام القوة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الخطف يتم باستخدام القوة بينما الغصب يتم دون إرادة صاحبه.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هناك فرق واضح بين الخطف والغصب حسب النص.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لا يوجد فرق بين الخطف والغصب.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو الفرق بين الخطف والغصب حسب النص؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو الفرق بين الخطف والغصب حسب النص؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو الفرق بين الخطف والغصب حسب النص؟"
+                  },
+                  "subContentId": "ca756dd7-eb1c-40b8-afd1-6d7d88c9041c"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>البرق قد يخطف الأبصار ولكن ليس هذا ما يريد الله أن يلفتنا إليه.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن البرق قادر على إيذاء الناس.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الله يريد أن يلفتنا إلى أن المنافقين لا يرون إلا الظواهر الوقتية.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن المنافقين لا يرون إلا الظواهر الوقتية.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>البرق ليس مصدر النور الوحيد.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن البرق هو مصدر النور الوحيد.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>البرق لا يمنع الناس من رؤية الآخرة ولكن المنافقين لا يرونها بسبب ظلمات قلوبهم.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن البرق يمنع الناس من رؤية الآخرة.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما الذي يريد الله أن يلفتنا إليه من خلال قوله تعالى: {يَكَادُ البرق يَخْطَفُ أَبْصَارَهُمْ}؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما الذي يريد الله أن يلفتنا إليه من خلال قوله تعالى: {يَكَادُ البرق يَخْطَفُ أَبْصَارَهُمْ}؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما الذي يريد الله أن يلفتنا إليه من خلال قوله تعالى: {يَكَادُ البرق يَخْطَفُ أَبْصَارَهُمْ}؟"
+                  },
+                  "subContentId": "f6fdf538-b82c-4951-abf9-a59abd7319bd"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": false,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              }
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "title": "الفهم التطبيقي",
+              "authors": [],
+              "changes": [],
+              "extraTitle": "الفهم التطبيقي"
+            },
+            "subContentId": "aff61c90-c525-4200-af1e-02145bbcf26f"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        },
+        {
+          "id": "ba260514-915e-44c3-95bd-a8328ac249b1",
+          "label": "التحليل والتفكير النقدي",
+          "content": {
+            "params": {},
+            "dom": {}
+          },
+          "telemetry": {
+            "x": "49.731225332181985",
+            "y": "22.166559528295615",
+            "width": "4.375",
+            "height": "12.257495284039955"
+          },
+          "neighbors": [
+            "1",
+            "3"
+          ],
+          "canBeStartStage": false,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": false
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذا التفسير حرفي ولا يعكس المعنى المقصود.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنهم لا يستطيعون السمع أو الكلام أو الرؤية بشكل حرفي.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! المنافقون لا يرون آيات الله ولا يسمعونها ولا يعقلونها.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنهم لا يرون آيات الله ولا يسمعونها ولا يعقلونها.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافقون لم يفقدوا حواسهم ولكنهم لا يستخدمونها الاستخدام الإيماني المطلوب.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنهم فقدوا حواسهم بسبب الكفر.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافقون يستخدمون حواسهم ولكن ليس للاستخدام الإيماني المطلوب.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنهم يختارون عدم استخدام حواسهم.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو التفسير الصحيح لقوله تعالى: {صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لاَ يَرْجِعُونَ} في سياق الحديث عن المنافقين؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو التفسير الصحيح لقوله تعالى: {صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لاَ يَرْجِعُونَ} في سياق الحديث عن المنافقين؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو التفسير الصحيح لقوله تعالى: {صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لاَ يَرْجِعُونَ} في سياق الحديث عن المنافقين؟"
+                  },
+                  "subContentId": "bb189177-438c-4540-b7d3-900bbf0fb5c0"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الله قادر على سلب حواس المنافقين ولكنه لم يشأ ذلك.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن الله قادر على سلب حواس المنافقين ولكنه لم يشأ ذلك.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافقون لم يفقدوا حواسهم ولكنهم لا يستخدمونها الاستخدام الإيماني المطلوب.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن المنافقين فقدوا حواسهم بسبب كفرهم.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الله لم يسلب حواس المنافقين كعقاب.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن الله يريد أن يعاقب المنافقين بسلب حواسهم.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافقون يستحقون أن يروا ويسمعوا ولكنهم لا يستخدمون حواسهم الاستخدام الإيماني المطلوب.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن المنافقين لا يستحقون أن يروا أو يسمعوا.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>كيف يمكن تفسير قوله تعالى: {وَلَوْ شَآءَ الله لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَارِهِمْ} في سياق الحديث عن المنافقين؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "كيف يمكن تفسير قوله تعالى: {وَلَوْ شَآءَ الله لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَارِهِمْ} في سياق الحديث عن المنافقين؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "كيف يمكن تفسير قوله تعالى: {وَلَوْ شَآءَ الله لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَارِهِمْ} في سياق الحديث عن المنافقين؟"
+                  },
+                  "subContentId": "861e25ad-7674-4e27-bf12-17a6060a1b3c"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافقون لا يستخدمون وسائل الإدراك لزيادة إيمانهم.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنهم يستخدمون وسائل الإدراك لزيادة إيمانهم.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! المنافقون لا يستخدمون وسائل الإدراك الاستخدام الإيماني المطلوب.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنهم لا يستخدمون وسائل الإدراك الاستخدام الإيماني المطلوب.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافقون لم يفقدوا وسائل الإدراك ولكنهم لا يستخدمونها الاستخدام الإيماني المطلوب.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنهم فقدوا وسائل الإدراك بسبب الكفر.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافقون لا يرفضون استخدام وسائل الإدراك ولكنهم لا يستخدمونها الاستخدام الإيماني المطلوب.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنهم يرفضون استخدام وسائل الإدراك.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو الموقف الذي يصفه النص تجاه المنافقين ووسائل الإدراك؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو الموقف الذي يصفه النص تجاه المنافقين ووسائل الإدراك؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو الموقف الذي يصفه النص تجاه المنافقين ووسائل الإدراك؟"
+                  },
+                  "subContentId": "009f34cf-2980-4e52-97e7-c07e753ad796"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": false,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              }
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "title": "Untitled Question Set",
+              "authors": [],
+              "changes": [],
+              "extraTitle": "Untitled Question Set"
+            },
+            "subContentId": "2f596ed4-4a47-4463-a643-03b16009839e"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        },
+        {
+          "id": "00f1ed49-e8b3-4b73-8ed1-bd26e9638794",
+          "label": "التطبيق الواقعي",
+          "content": {
+            "params": {},
+            "dom": {
+              "count": 0
+            }
+          },
+          "telemetry": {
+            "x": "65.55479702878534",
+            "y": "22.166559528295615",
+            "width": "4.375",
+            "height": "12.257495284039955"
+          },
+          "neighbors": [
+            "2"
+          ],
+          "canBeStartStage": false,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": false
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الخوف من البرق والرعد قد يكون طبيعيًا ولكن هذا ليس التفسير المقصود.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>خوفه طبيعي لأن البرق والرعد مخيفان.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! خوفه يدل على عدم إيمانه بالنعمة الحقيقية للمطر.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>خوفه يدل على عدم إيمانه بالنعمة الحقيقية للمطر.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافقون لا يؤمنون بالآخرة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>خوفه يدل على إيمانه بالآخرة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافقون لا يتمتعون بقوة إيمان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>خوفه يدل على قوة إيمانه.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>إذا رأى شخص منافق البرق والرعد وخاف منهما، كيف يمكن تفسير موقفه بناءً على النص؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "إذا رأى شخص منافق البرق والرعد وخاف منهما، كيف يمكن تفسير موقفه بناءً على النص؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "إذا رأى شخص منافق البرق والرعد وخاف منهما، كيف يمكن تفسير موقفه بناءً على النص؟"
+                  },
+                  "subContentId": "526083c3-ab7e-4b67-9ffb-6cac3d1cfa2f"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المؤمن الحقيقي يقوم بواجبات الإسلام.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مؤمن حقيقي.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الشخص الذي يريد أن يأخذ خير الإسلام دون أن يقوم بواجباته يوصف بأنه منافق.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>منافق.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الكافر لا يؤمن بالإسلام أصلاً.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>كافر.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المشرك يعبد غير الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مشرك.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>إذا كان شخص ما يريد أن يأخذ خير الإسلام دون أن يقوم بواجباته، كيف يمكن وصفه بناءً على النص؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "إذا كان شخص ما يريد أن يأخذ خير الإسلام دون أن يقوم بواجباته، كيف يمكن وصفه بناءً على النص؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "إذا كان شخص ما يريد أن يأخذ خير الإسلام دون أن يقوم بواجباته، كيف يمكن وصفه بناءً على النص؟"
+                  },
+                  "subContentId": "d4727fd9-8e8e-43ad-83a3-4b08d263564b"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الدنيا ليست وسيلة لتحقيق النعيم الدائم.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>موقفه صحيح لأن الدنيا وسيلة لتحقيق النعيم الدائم.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! النعيم الدائم في الآخرة وليس في الدنيا.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>موقفه خاطئ لأن النعيم الدائم في الآخرة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>رؤية الدنيا كوسيلة لتحقيق النعيم الدائم لا تدل على الإيمان بالآخرة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>موقفه يدل على إيمانه بالآخرة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>رؤية الدنيا كوسيلة لتحقيق النعيم الدائم لا تدل على الكفر.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>موقفه يدل على كفره.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>إذا كان شخص ما يرى في الدنيا وسيلة لتحقيق النعيم الدائم، كيف يمكن تفسير موقفه بناءً على النص؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "إذا كان شخص ما يرى في الدنيا وسيلة لتحقيق النعيم الدائم، كيف يمكن تفسير موقفه بناءً على النص؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "إذا كان شخص ما يرى في الدنيا وسيلة لتحقيق النعيم الدائم، كيف يمكن تفسير موقفه بناءً على النص؟"
+                  },
+                  "subContentId": "84d6ea1e-d162-4817-9f45-3bc09f9708ae"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": false,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              }
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "title": "Untitled Question Set",
+              "authors": [],
+              "changes": [],
+              "extraTitle": "Untitled Question Set"
+            },
+            "subContentId": "9e71786a-5a85-48e1-ada9-ebf0db4b03b2"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        }
+      ]
+    }
+  },
+  "endScreen": {
+    "noSuccess": {
+      "endScreenTextNoSuccess": "<p style=\"text-align:center\"></p>"
+    },
+    "success": {
+      "endScreenTextSuccess": "<p style=\"text-align:center\"></p>"
+    },
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100
+      }
+    ]
+  },
+  "visual": {
+    "stages": {
+      "colorStage": "rgba(250, 223, 10, 0.7)",
+      "colorStageLocked": "rgba(153, 0, 0, 0.7)",
+      "colorStageCleared": "rgba(0, 130, 0, 0.7)"
+    },
+    "paths": {
+      "displayPaths": true,
+      "style": {
+        "colorPath": "rgba(250, 243, 243, 0.7)",
+        "colorPathCleared": "rgba(14, 15, 14, 0.7)",
+        "pathWidth": "0.2",
+        "pathStyle": "dotted"
+      }
+    },
+    "misc": {
+      "useAnimation": true
+    }
+  },
+  "audio": {
+    "backgroundMusic": {
+      "muteDuringExercise": true
+    },
+    "ambient": {}
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "map": {
+      "showLabels": true,
+      "roaming": "free"
+    }
+  },
+  "l10n": {
+    "start": "Start",
+    "continue": "Continue",
+    "restart": "Restart",
+    "showSolutions": "Show solutions",
+    "completedMap": "You have completed the map!",
+    "fullScoreButnoLivesLeft": "You have achieved full score, but lost all your lifes!",
+    "fullScoreButTimeout": "You have achieved full score, but ran out of time!",
+    "confirmFinishHeader": "Finish map?",
+    "confirmFinishDialog": "If you finish now, you will not be able to explore the map any longer.",
+    "confirmFinishDialogSubmission": "Your score will be submitted.",
+    "confirmFinishDialogQuestion": "Do you really want to finish the map?",
+    "confirmAccessDeniedHeader": "Stage locked",
+    "confirmAccessDeniedDialog": "This stage requires you to meet some goals before it can be opened.",
+    "confirmAccessDeniedMinScore": "You need at least a certain number of points: @minscore",
+    "yes": "Yes",
+    "no": "No",
+    "confirmGameOverHeader": "Game over!",
+    "confirmGameOverDialog": "You have lost all your lives. Please try again!",
+    "confirmGameOverDialogTimeout": "You have run out of time. Please try again!",
+    "confirmTimeoutHeader": "Time out!",
+    "confirmTimeoutDialog": "You ran out of time.",
+    "confirmTimeoutDialogLostLife": "You ran out of time and lost a life.",
+    "confirmScoreIncompleteHeader": "Not full score!",
+    "confirmIncompleteScoreDialogLostLife": "You did not achieve full score and lost a life.",
+    "confirmFullScoreHeader": "You achieved full score!",
+    "confirmFullScoreDialog": "You have collected enough points to finish this map with a full score, but you are free to explore the rest if you wish to.",
+    "confirmFullScoreDialogLoseLivesAmendmend": "But beware! You may still lose lives!",
+    "ok": "OK",
+    "noBackground": "No background image was set for the map.",
+    "noStages": "No valid stages were set for the map."
+  },
+  "a11y": {
+    "buttonFinish": "Finish the map",
+    "buttonAudioActive": "Mute audio. Currently unmuted.",
+    "buttonAudioInactive": "Unmute audio. Currently muted.",
+    "close": "Close",
+    "yourResult": "You got @score out of @total points",
+    "mapWasOpened": "The map was opened.",
+    "mapSolutionsWasOpened": "The map was opened in solutions mode.",
+    "startScreenWasOpened": "The title screen was opened.",
+    "endScreenWasOpened": "The end screen was opened.",
+    "exerciseLabel": ". Exercise for @stagelabel",
+    "stageButtonLabel": "Stage: @stagelabel",
+    "adjacentStageLabel": "Adjacent stage of @stagelabelOrigin: @stagelabelNeighbor",
+    "locked": "Locked",
+    "cleared": "Cleared",
+    "applicationInstructions": "Use space or enter key to activate current stage. Use arrow keys to select adjacent stage. Use space or enter key on adjacent stage to navigate there.",
+    "applicationDescription": "Map",
+    "movedToStage": "Moved to @stagelabel",
+    "stageUnlocked": "Stage @stagelabel was unlocked.",
+    "toolbarFallbackLabel": "Game Map",
+    "enterFullscreen": "Enter fullscreen mode",
+    "exitFullscreen": "Exit fullscreen mode"
+  },
+  "headline": "📌 **تحليل النظرة المادية للمنافقين وعدم إدراكهم للنعم الحقيقية**"
+}

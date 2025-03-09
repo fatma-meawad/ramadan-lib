@@ -1,0 +1,1695 @@
+{
+  "showTitleScreen": false,
+  "titleScreen": {
+    "titleScreenIntroduction": "<p style=\"text-align:center\"></p>"
+  },
+  "gamemapSteps": {
+    "backgroundImageSettings": {
+      "backgroundImage": {
+        "path": "../../../images/Fatiha3.png",
+        "mime": "image/png",
+        "copyright": {
+          "license": "U"
+        },
+        "width": 52,
+        "height": 52
+      }
+    },
+    "gamemap": {
+      "elements": [
+        {
+          "id": "80673ca2-f4e8-4c7f-b6d5-3574edca2627",
+          "label": "المعرفة الأساسية",
+          "content": {
+            "params": {},
+            "dom": {
+              "count": 0
+            }
+          },
+          "telemetry": {
+            "x": "14.693316575417404",
+            "y": "22.166559528295615",
+            "width": "4.375",
+            "height": "12.257495284039955"
+          },
+          "neighbors": [
+            "1"
+          ],
+          "canBeStartStage": true,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": false
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الهدف ليس محصورًا في الدفء فقط.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>للحصول على الدفء فقط.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الهدف ليس محصورًا في الضوء فقط.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>للحصول على الضوء فقط.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! إيقاد النار يمكن أن يكون لأهداف متعددة مثل الدفء أو الطهي أو الضوء.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لتحقيق هدف معين مثل الدفء أو الطهي أو الضوء.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الآية لم تذكر أن الهدف هو إظهار القوة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لإظهار القوة والهيمنة.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو الهدف من إيقاد النار كما ورد في الآية الكريمة؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو الهدف من إيقاد النار كما ورد في الآية الكريمة؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو الهدف من إيقاد النار كما ورد في الآية الكريمة؟"
+                  },
+                  "subContentId": "aa0a7c7b-5472-4244-bc5d-7e3cade6cf94"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الانصراف عن الإيمان لا يزيد النور.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>زاد نورهم.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! عندما انصرفوا عن نور الإيمان، ذهب الله بنورهم.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>ذهب الله بنورهم.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الانصراف عن الإيمان لا يزيد الإيمان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أصبحوا أكثر إيمانًا.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>لم يحصلوا على الأمان الدنيوي بل فقدوا نور الإيمان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>حصلوا على الأمان الدنيوي.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما الذي حدث عندما انصرف المنافقون عن نور الإيمان؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما الذي حدث عندما انصرف المنافقون عن نور الإيمان؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما الذي حدث عندما انصرف المنافقون عن نور الإيمان؟"
+                  },
+                  "subContentId": "621569a4-9298-4668-a9bd-e30c66882ec8"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الضوء أقوى من النور ويأتي من إشعاع ذاتي.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الضوء أقوى من النور.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>النور ليس أقوى من الضوء.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>النور أقوى من الضوء.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هناك فرق بين الضوء والنور.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لا فرق بينهما.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الضوء يأتي من الشمس والنور من القمر.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الضوء يأتي من القمر والنور من الشمس.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما الفرق بين الضوء والنور كما ورد في القرآن؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما الفرق بين الضوء والنور كما ورد في القرآن؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما الفرق بين الضوء والنور كما ورد في القرآن؟"
+                  },
+                  "subContentId": "b8089c47-8a45-437c-95a2-0e4d2065fab0"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": false,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              },
+              "poolSize": 3
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "title": "Beginner",
+              "authors": [],
+              "changes": [],
+              "extraTitle": "Beginner"
+            },
+            "subContentId": "de162491-8e5e-427c-8c1f-516f54924c08"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        },
+        {
+          "id": "4cb317bc-53d0-40b2-b11b-359aa36361e8",
+          "label": "الفهم التطبيقي",
+          "content": {
+            "params": {},
+            "dom": {
+              "count": 0
+            }
+          },
+          "telemetry": {
+            "x": "31.647143393206715",
+            "y": "22.166559528295615",
+            "width": "4.375",
+            "height": "12.257495284039955"
+          },
+          "neighbors": [
+            "0",
+            "2"
+          ],
+          "canBeStartStage": false,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": false
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الظلمات تشير إلى ظلام مركب وليس بسيط.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>للدلالة على الظلام البسيط.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الظلمات تشير إلى ظلام متراكم ومركب.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>للدلالة على الظلام المتراكم والمركب.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>القرآن يستخدم الكلمات بدقة وليس لسهولة النطق.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنها أسهل في النطق.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الظلمات لا تعني الظلام المؤقت.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنها تعني الظلام المؤقت.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>لماذا استخدم القرآن كلمة 'ظلمات' بدلاً من 'ظلام'؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "لماذا استخدم القرآن كلمة 'ظلمات' بدلاً من 'ظلام'؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "لماذا استخدم القرآن كلمة 'ظلمات' بدلاً من 'ظلام'؟"
+                  },
+                  "subContentId": "21e6c345-a139-49f9-ab1b-4ca421a6f0dd"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>قلب المنافق ليس فيه نور وإيمان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>النور والإيمان.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! قلب المنافق مليء بالظلمات المتعددة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الظلمات المتعددة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافق ليس في قلبه فرح وسعادة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الفرح والسعادة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المنافق ليس في قلبه سلام وطمأنينة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>السلام والطمأنينة.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما الذي يميز قلب المنافق حسب النص؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما الذي يميز قلب المنافق حسب النص؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما الذي يميز قلب المنافق حسب النص؟"
+                  },
+                  "subContentId": "934ede5e-58d3-480c-9249-7f16ce69bced"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>طلب الآخرة لا يؤدي إلى الظلمات.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>طلب الآخرة.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! طلب الدنيا هو سبب ظلمات قلب المنافق.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>طلب الدنيا.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإيمان بالله لا يؤدي إلى الظلمات.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الإيمان بالله.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>التقوى والورع لا يؤديان إلى الظلمات.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>التقوى والورع.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو سبب ظلمات قلب المنافق؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو سبب ظلمات قلب المنافق؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو سبب ظلمات قلب المنافق؟"
+                  },
+                  "subContentId": "66c364ee-c56a-4045-a2e2-40a0ff72f251"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": false,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              }
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "title": "الفهم التطبيقي",
+              "authors": [],
+              "changes": [],
+              "extraTitle": "الفهم التطبيقي"
+            },
+            "subContentId": "aff61c90-c525-4200-af1e-02145bbcf26f"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        },
+        {
+          "id": "ba260514-915e-44c3-95bd-a8328ac249b1",
+          "label": "التحليل والتفكير النقدي",
+          "content": {
+            "params": {},
+            "dom": {}
+          },
+          "telemetry": {
+            "x": "49.731225332181985",
+            "y": "22.166559528295615",
+            "width": "4.375",
+            "height": "12.257495284039955"
+          },
+          "neighbors": [
+            "1",
+            "3"
+          ],
+          "canBeStartStage": false,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": false
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هناك فرق بين النور والضوء.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لا فرق بينهما.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الضوء أقوى من النور ولكن ليس هذا الفرق المقصود.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الضوء أقوى من النور.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الضوء يعكس النور ولكن ليس هذا الفرق المقصود.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الضوء يعكس النور.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! ذهاب النور يعني فقدان النور والضوء معًا.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>ذهب الله بنورهم يعني فقدان النور والضوء.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو الفرق بين 'ذهب الله بنورهم' و 'ذهب الله بضوئهم'؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو الفرق بين 'ذهب الله بنورهم' و 'ذهب الله بضوئهم'؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو الفرق بين 'ذهب الله بنورهم' و 'ذهب الله بضوئهم'؟"
+                  },
+                  "subContentId": "723177ed-e760-4419-97f9-865c7969565f"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! قلب المنافق مليء بالحقد والحسد.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الحقد والحسد.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الفرح والسعادة ليسا من صفات قلب المنافق.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الفرح والسعادة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإيمان والتقوى ليسا من صفات قلب المنافق.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الإيمان والتقوى.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>السلام والطمأنينة ليسا من صفات قلب المنافق.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>السلام والطمأنينة.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هي الظلمات التي تملأ قلب المنافق؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هي الظلمات التي تملأ قلب المنافق؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هي الظلمات التي تملأ قلب المنافق؟"
+                  },
+                  "subContentId": "9b5daff2-fbab-4ec3-885d-fd9e9bc1d9db"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>طلب الآخرة لا يؤدي إلى الانصراف عن الإيمان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>طلب الآخرة.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! طلب الدنيا هو سبب انصراف المنافقين عن نور الإيمان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>طلب الدنيا.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإيمان بالله لا يؤدي إلى الانصراف عن الإيمان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الإيمان بالله.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>التقوى والورع لا يؤديان إلى الانصراف عن الإيمان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>التقوى والورع.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو سبب انصراف المنافقين عن نور الإيمان؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو سبب انصراف المنافقين عن نور الإيمان؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو سبب انصراف المنافقين عن نور الإيمان؟"
+                  },
+                  "subContentId": "d3ca28c1-d18e-4c62-a33b-339419fe2085"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": false,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              }
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "title": "Untitled Question Set",
+              "authors": [],
+              "changes": [],
+              "extraTitle": "Untitled Question Set"
+            },
+            "subContentId": "2f596ed4-4a47-4463-a643-03b16009839e"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        },
+        {
+          "id": "00f1ed49-e8b3-4b73-8ed1-bd26e9638794",
+          "label": "التطبيق الواقعي",
+          "content": {
+            "params": {},
+            "dom": {
+              "count": 0
+            }
+          },
+          "telemetry": {
+            "x": "65.55479702878534",
+            "y": "22.166559528295615",
+            "width": "4.375",
+            "height": "12.257495284039955"
+          },
+          "neighbors": [
+            "2"
+          ],
+          "canBeStartStage": false,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": false
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المؤمن الحقيقي ليس في قلبه حقد وحسد.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>هو مؤمن حقيقي.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! هذا الشخص منافق.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>هو منافق.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الشخص التقي ليس في قلبه حقد وحسد.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>هو شخص تقي.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الشخص السعيد ليس في قلبه حقد وحسد.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>هو شخص سعيد.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>إذا رأيت شخصًا يظهر الإيمان ولكن قلبه مليء بالحقد والحسد، كيف تفسر ذلك بناءً على النص؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "إذا رأيت شخصًا يظهر الإيمان ولكن قلبه مليء بالحقد والحسد، كيف تفسر ذلك بناءً على النص؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "إذا رأيت شخصًا يظهر الإيمان ولكن قلبه مليء بالحقد والحسد، كيف تفسر ذلك بناءً على النص؟"
+                  },
+                  "subContentId": "e36a4e1b-9c12-474f-9919-b3424e45c160"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المؤمن الحقيقي يهتم بالآخرة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>هو مؤمن حقيقي.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! هذا الشخص منافق.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>هو منافق.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الشخص التقي يهتم بالآخرة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>هو شخص تقي.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الشخص السعيد يهتم بالآخرة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>هو شخص سعيد.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>إذا رأيت شخصًا يطلب الدنيا فقط ولا يهتم بالآخرة، ما هو التفسير الصحيح لحالته؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "إذا رأيت شخصًا يطلب الدنيا فقط ولا يهتم بالآخرة، ما هو التفسير الصحيح لحالته؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "إذا رأيت شخصًا يطلب الدنيا فقط ولا يهتم بالآخرة، ما هو التفسير الصحيح لحالته؟"
+                  },
+                  "subContentId": "99761434-fc95-4d0c-b4b7-a068c64700f9"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المؤمن الحقيقي ليس في قلبه كراهية وبغضاء.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>هو مؤمن حقيقي.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! هذا الشخص منافق.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>هو منافق.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الشخص التقي ليس في قلبه كراهية وبغضاء.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>هو شخص تقي.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الشخص السعيد ليس في قلبه كراهية وبغضاء.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>هو شخص سعيد.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>إذا رأيت شخصًا يظهر الإيمان ولكن قلبه مليء بالكراهية والبغضاء، كيف تفسر ذلك بناءً على النص؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "إذا رأيت شخصًا يظهر الإيمان ولكن قلبه مليء بالكراهية والبغضاء، كيف تفسر ذلك بناءً على النص؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "إذا رأيت شخصًا يظهر الإيمان ولكن قلبه مليء بالكراهية والبغضاء، كيف تفسر ذلك بناءً على النص؟"
+                  },
+                  "subContentId": "92e63734-acdd-4829-b2f3-1bd6aa5e28c2"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": false,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              }
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "title": "Untitled Question Set",
+              "authors": [],
+              "changes": [],
+              "extraTitle": "Untitled Question Set"
+            },
+            "subContentId": "9e71786a-5a85-48e1-ada9-ebf0db4b03b2"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        }
+      ]
+    }
+  },
+  "endScreen": {
+    "noSuccess": {
+      "endScreenTextNoSuccess": "<p style=\"text-align:center\"></p>"
+    },
+    "success": {
+      "endScreenTextSuccess": "<p style=\"text-align:center\"></p>"
+    },
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100
+      }
+    ]
+  },
+  "visual": {
+    "stages": {
+      "colorStage": "rgba(250, 223, 10, 0.7)",
+      "colorStageLocked": "rgba(153, 0, 0, 0.7)",
+      "colorStageCleared": "rgba(0, 130, 0, 0.7)"
+    },
+    "paths": {
+      "displayPaths": true,
+      "style": {
+        "colorPath": "rgba(250, 243, 243, 0.7)",
+        "colorPathCleared": "rgba(14, 15, 14, 0.7)",
+        "pathWidth": "0.2",
+        "pathStyle": "dotted"
+      }
+    },
+    "misc": {
+      "useAnimation": true
+    }
+  },
+  "audio": {
+    "backgroundMusic": {
+      "muteDuringExercise": true
+    },
+    "ambient": {}
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "map": {
+      "showLabels": true,
+      "roaming": "free"
+    }
+  },
+  "l10n": {
+    "start": "Start",
+    "continue": "Continue",
+    "restart": "Restart",
+    "showSolutions": "Show solutions",
+    "completedMap": "You have completed the map!",
+    "fullScoreButnoLivesLeft": "You have achieved full score, but lost all your lifes!",
+    "fullScoreButTimeout": "You have achieved full score, but ran out of time!",
+    "confirmFinishHeader": "Finish map?",
+    "confirmFinishDialog": "If you finish now, you will not be able to explore the map any longer.",
+    "confirmFinishDialogSubmission": "Your score will be submitted.",
+    "confirmFinishDialogQuestion": "Do you really want to finish the map?",
+    "confirmAccessDeniedHeader": "Stage locked",
+    "confirmAccessDeniedDialog": "This stage requires you to meet some goals before it can be opened.",
+    "confirmAccessDeniedMinScore": "You need at least a certain number of points: @minscore",
+    "yes": "Yes",
+    "no": "No",
+    "confirmGameOverHeader": "Game over!",
+    "confirmGameOverDialog": "You have lost all your lives. Please try again!",
+    "confirmGameOverDialogTimeout": "You have run out of time. Please try again!",
+    "confirmTimeoutHeader": "Time out!",
+    "confirmTimeoutDialog": "You ran out of time.",
+    "confirmTimeoutDialogLostLife": "You ran out of time and lost a life.",
+    "confirmScoreIncompleteHeader": "Not full score!",
+    "confirmIncompleteScoreDialogLostLife": "You did not achieve full score and lost a life.",
+    "confirmFullScoreHeader": "You achieved full score!",
+    "confirmFullScoreDialog": "You have collected enough points to finish this map with a full score, but you are free to explore the rest if you wish to.",
+    "confirmFullScoreDialogLoseLivesAmendmend": "But beware! You may still lose lives!",
+    "ok": "OK",
+    "noBackground": "No background image was set for the map.",
+    "noStages": "No valid stages were set for the map."
+  },
+  "a11y": {
+    "buttonFinish": "Finish the map",
+    "buttonAudioActive": "Mute audio. Currently unmuted.",
+    "buttonAudioInactive": "Unmute audio. Currently muted.",
+    "close": "Close",
+    "yourResult": "You got @score out of @total points",
+    "mapWasOpened": "The map was opened.",
+    "mapSolutionsWasOpened": "The map was opened in solutions mode.",
+    "startScreenWasOpened": "The title screen was opened.",
+    "endScreenWasOpened": "The end screen was opened.",
+    "exerciseLabel": ". Exercise for @stagelabel",
+    "stageButtonLabel": "Stage: @stagelabel",
+    "adjacentStageLabel": "Adjacent stage of @stagelabelOrigin: @stagelabelNeighbor",
+    "locked": "Locked",
+    "cleared": "Cleared",
+    "applicationInstructions": "Use space or enter key to activate current stage. Use arrow keys to select adjacent stage. Use space or enter key on adjacent stage to navigate there.",
+    "applicationDescription": "Map",
+    "movedToStage": "Moved to @stagelabel",
+    "stageUnlocked": "Stage @stagelabel was unlocked.",
+    "toolbarFallbackLabel": "Game Map",
+    "enterFullscreen": "Enter fullscreen mode",
+    "exitFullscreen": "Exit fullscreen mode"
+  },
+  "headline": "📌 **تحليل النص حول المنافقين ونور الإيمان**"
+}

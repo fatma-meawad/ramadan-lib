@@ -8,10 +8,14 @@ const data = [
         "sections": [{
             "title": "الأيات: 1 - 5",
             "subsections": baqra1_sections
+        }, {
+            "title": "الأيات:6 - 18",
+            "subsections": baqra2
         }],
         "image": "./images/Fatiha2.webp",
         "questions": "39"
-    }/*,
+    }
+    /*,
 
     {
         "title": "العقيدة والإعجاز - الدرس تمهيد - علة وجود الإنسان 1",

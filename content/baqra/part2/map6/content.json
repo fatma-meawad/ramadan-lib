@@ -1,0 +1,1695 @@
+{
+  "showTitleScreen": false,
+  "titleScreen": {
+    "titleScreenIntroduction": "<p style=\"text-align:center\"></p>"
+  },
+  "gamemapSteps": {
+    "backgroundImageSettings": {
+      "backgroundImage": {
+        "path": "../../../images/Fatiha3.png",
+        "mime": "image/png",
+        "copyright": {
+          "license": "U"
+        },
+        "width": 52,
+        "height": 52
+      }
+    },
+    "gamemap": {
+      "elements": [
+        {
+          "id": "80673ca2-f4e8-4c7f-b6d5-3574edca2627",
+          "label": "المعرفة الأساسية",
+          "content": {
+            "params": {},
+            "dom": {
+              "count": 0
+            }
+          },
+          "telemetry": {
+            "x": "14.693316575417404",
+            "y": "22.166559528295615",
+            "width": "4.375",
+            "height": "12.257495284039955"
+          },
+          "neighbors": [
+            "1"
+          ],
+          "canBeStartStage": true,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": false
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإيمان بوجود الله هو جزء من التوحيد، لكن التوحيد يشمل أيضًا عبادة الله وحده.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الإيمان بوجود الله فقط.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! التوحيد يعني عبادة الله وحده دون شريك.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>عبادة الله وحده دون شريك.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإيمان بالأنبياء والرسل جزء من الإيمان، لكنه ليس تعريف التوحيد.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الإيمان بالأنبياء والرسل.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>التصديق باليوم الآخر جزء من الإيمان، لكنه ليس تعريف التوحيد.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>التصديق باليوم الآخر.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو المعنى الأساسي للتوحيد كما ورد في النص؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو المعنى الأساسي للتوحيد كما ورد في النص؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو المعنى الأساسي للتوحيد كما ورد في النص؟"
+                  },
+                  "subContentId": "859f36e1-c311-4452-a240-889638b9deb1"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذا جزء من المثل، لكن هناك أمثلة أخرى.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مثل الرجل المملوك لسيد واحد.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذا جزء من المثل، لكن هناك أمثلة أخرى.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مثل الرجل المملوك لشركاء متشاكسين.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذا جزء من المثل، لكن هناك أمثلة أخرى.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مثل الرجل الأبكم الذي لا يقدر على شيء.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! جميع الأمثلة المذكورة توضح الفرق بين العابد لله وحده والمشرك.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>جميع ما سبق.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو المثل الذي ضربه الله ليوضح الفرق بين العابد لله وحده والمشرك؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو المثل الذي ضربه الله ليوضح الفرق بين العابد لله وحده والمشرك؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو المثل الذي ضربه الله ليوضح الفرق بين العابد لله وحده والمشرك؟"
+                  },
+                  "subContentId": "6b6b4499-9199-4056-9e70-1f4bd2c94895"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>نور الشمس قوي، لكنه ليس المثل الذي ضربه الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>نور الشمس.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>نور القمر جميل، لكنه ليس المثل الذي ضربه الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>نور القمر.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الله يشبه نوره بالمصباح في المشكاة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>نور المصباح في المشكاة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>نور النجوم بعيد، لكنه ليس المثل الذي ضربه الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>نور النجوم.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو النور الذي يشبه الله به نوره في القرآن؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو النور الذي يشبه الله به نوره في القرآن؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو النور الذي يشبه الله به نوره في القرآن؟"
+                  },
+                  "subContentId": "dac91a01-a79a-4529-be4f-1cc565a0d9eb"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": false,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              },
+              "poolSize": 3
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "title": "Beginner",
+              "authors": [],
+              "changes": [],
+              "extraTitle": "Beginner"
+            },
+            "subContentId": "de162491-8e5e-427c-8c1f-516f54924c08"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        },
+        {
+          "id": "4cb317bc-53d0-40b2-b11b-359aa36361e8",
+          "label": "الفهم التطبيقي",
+          "content": {
+            "params": {},
+            "dom": {
+              "count": 0
+            }
+          },
+          "telemetry": {
+            "x": "31.647143393206715",
+            "y": "22.166559528295615",
+            "width": "4.375",
+            "height": "12.257495284039955"
+          },
+          "neighbors": [
+            "0",
+            "2"
+          ],
+          "canBeStartStage": false,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": false
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذا صحيح، لكن هناك أسباب أخرى.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنه يتبع أمرًا واحدًا ونهيًا واحدًا.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذا صحيح، لكن هناك أسباب أخرى.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنه لا يحتاج إلى التفكير كثيرًا.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذا صحيح، لكن هناك أسباب أخرى.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنه يعيش في نعمة ورحمة.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! جميع الأسباب المذكورة تجعل العابد لسيد واحد أكثر راحة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>جميع ما سبق.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>لماذا يعتبر العابد لسيد واحد أكثر راحة من العابد لشركاء متشاكسين؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "لماذا يعتبر العابد لسيد واحد أكثر راحة من العابد لشركاء متشاكسين؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "لماذا يعتبر العابد لسيد واحد أكثر راحة من العابد لشركاء متشاكسين؟"
+                  },
+                  "subContentId": "6d390507-543c-4c7b-a566-9bb30c53b322"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! هذا المثل يوضح غباء فكر المشركين الذين يعبدون الأصنام.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مثل الرجل الأبكم الذي لا يقدر على شيء.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذا المثل يوضح الفرق بين العابد لله وحده والمشرك، لكنه لا يوضح غباء فكر المشركين.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مثل الرجل المملوك لشركاء متشاكسين.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذا المثل يوضح نور الله، لكنه لا يوضح غباء فكر المشركين.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مثل النور في المشكاة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذا المثل يوضح الجنة، لكنه لا يوضح غباء فكر المشركين.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مثل الجنة التي وعد المتقون.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو المثل الذي ضربه الله ليوضح غباء فكر المشركين؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو المثل الذي ضربه الله ليوضح غباء فكر المشركين؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو المثل الذي ضربه الله ليوضح غباء فكر المشركين؟"
+                  },
+                  "subContentId": "5fe7ca2b-9d3f-4f2d-b598-a279244d3665"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذا المثل يوضح الفرق بين العابد لله وحده والمشرك، لكنه لا يوضح نور الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مثل الرجل المملوك لسيد واحد.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذا المثل يوضح غباء فكر المشركين، لكنه لا يوضح نور الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مثل الرجل الأبكم الذي لا يقدر على شيء.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! هذا المثل يوضح نور الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مثل النور في المشكاة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذا المثل يوضح الجنة، لكنه لا يوضح نور الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مثل الجنة التي وعد المتقون.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو المثل الذي ضربه الله ليوضح نوره؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو المثل الذي ضربه الله ليوضح نوره؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو المثل الذي ضربه الله ليوضح نوره؟"
+                  },
+                  "subContentId": "2b11b1f1-be35-46e2-be2e-cd805507fac5"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": false,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              }
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "title": "الفهم التطبيقي",
+              "authors": [],
+              "changes": [],
+              "extraTitle": "الفهم التطبيقي"
+            },
+            "subContentId": "aff61c90-c525-4200-af1e-02145bbcf26f"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        },
+        {
+          "id": "ba260514-915e-44c3-95bd-a8328ac249b1",
+          "label": "التحليل والتفكير النقدي",
+          "content": {
+            "params": {},
+            "dom": {}
+          },
+          "telemetry": {
+            "x": "49.731225332181985",
+            "y": "22.166559528295615",
+            "width": "4.375",
+            "height": "12.257495284039955"
+          },
+          "neighbors": [
+            "1",
+            "3"
+          ],
+          "canBeStartStage": false,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": false
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح جزئيًا، لكنه يعكس مذهب السلف فقط.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>إثبات الصفات كما وردت دون تأويل أو تشبيه.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح جزئيًا، لكنه يعكس مذهب الأشاعرة والمعتزلة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>تأويل الصفات بطريقة رمزية تنفي التشبيه.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح جزئيًا، وهو رأي بعض الفلاسفة والمتكلمين.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>رفض الحديث عن الصفات تمامًا بحجة عدم إدراكها.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! هناك عدة مدارس فكرية في تفسير الصفات الإلهية.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>جميع ما سبق يعكس اتجاهات مختلفة لعلماء العقيدة.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو الخلاف الأساسي بين علماء العقيدة حول تفسير صفات الله؟"
+                  },
+                  "subContentId": "4375b777-69ca-46bc-aeee-4005a9605ccd"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذا المثل يوضح الفرق بين العابد لله وحده والمشرك، لكنه لا يوضح الجنة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مثل الرجل المملوك لسيد واحد.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذا المثل يوضح غباء فكر المشركين، لكنه لا يوضح الجنة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مثل الرجل الأبكم الذي لا يقدر على شيء.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذا المثل يوضح نور الله، لكنه لا يوضح الجنة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مثل النور في المشكاة.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! هذا المثل يوضح الجنة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مثل الجنة التي وعد المتقون.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو المثل الذي ضربه الله ليوضح الجنة؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو المثل الذي ضربه الله ليوضح الجنة؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو المثل الذي ضربه الله ليوضح الجنة؟"
+                  },
+                  "subContentId": "58bfd984-7242-4fd5-aa69-f271af92996d"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! هذا المثل يوضح اضطراب وذبذبة قلوب المنافقين.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مثل الرجل المملوك لشركاء متشاكسين.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذا المثل يوضح غباء فكر المشركين، لكنه لا يوضح اضطراب وذبذبة قلوب المنافقين.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مثل الرجل الأبكم الذي لا يقدر على شيء.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذا المثل يوضح نور الله، لكنه لا يوضح اضطراب وذبذبة قلوب المنافقين.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مثل النور في المشكاة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذا المثل يوضح الجنة، لكنه لا يوضح اضطراب وذبذبة قلوب المنافقين.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>مثل الجنة التي وعد المتقون.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو المثل الذي ضربه الله ليوضح اضطراب وذبذبة قلوب المنافقين؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو المثل الذي ضربه الله ليوضح اضطراب وذبذبة قلوب المنافقين؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو المثل الذي ضربه الله ليوضح اضطراب وذبذبة قلوب المنافقين؟"
+                  },
+                  "subContentId": "2eea42f1-d35f-4018-8a00-8cda518a9160"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": false,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              }
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "title": "Untitled Question Set",
+              "authors": [],
+              "changes": [],
+              "extraTitle": "Untitled Question Set"
+            },
+            "subContentId": "2f596ed4-4a47-4463-a643-03b16009839e"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        },
+        {
+          "id": "00f1ed49-e8b3-4b73-8ed1-bd26e9638794",
+          "label": "التطبيق الواقعي",
+          "content": {
+            "params": {},
+            "dom": {
+              "count": 0
+            }
+          },
+          "telemetry": {
+            "x": "65.55479702878534",
+            "y": "22.166559528295615",
+            "width": "4.375",
+            "height": "12.257495284039955"
+          },
+          "neighbors": [
+            "2"
+          ],
+          "canBeStartStage": false,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": false
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>. العبادة يجب أن تكون لله وحده بلا وسطاء.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>يجوز التبرك لأنها وسيلة للتقرب إلى الله.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! التوحيد يقتضي عبادة الله فقط.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>يجب عبادة الله وحده دون وسطاء.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>. العقيدة الإسلامية تحدد ضوابط العبادة بوضوح.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>يمكن اعتبار التبرك جزءًا من الثقافة وليس العقيدة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p> النصوص الشرعية واضحة في النهي عن التوسل البدعي.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لا يوجد حكم شرعي واضح في المسألة.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>أحد الأشخاص يعتقد أن زيارة الأضرحة والتبرك بها جزء من العقيدة الصحيحة. ما هو الرد الصحيح بناءً على التوحيد؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "أحد الأشخاص يعتقد أن زيارة الأضرحة والتبرك بها جزء من العقيدة الصحيحة. ما هو الرد الصحيح بناءً على التوحيد؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "أحد الأشخاص يعتقد أن زيارة الأضرحة والتبرك بها جزء من العقيدة الصحيحة. ما هو الرد الصحيح بناءً على التوحيد؟"
+                  },
+                  "subContentId": "672f33d1-98a9-421a-a78c-59863d1cda53"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإيمان القلبي مهم، لكنه لا يكفي دون الأعمال الصالحة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الإيمان القلبي يكفي دون الحاجة إلى الأعمال.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الأعمال الصالحة هي جزء لا يتجزأ من الإيمان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الأعمال الصالحة هي جزء لا يتجزأ من الإيمان.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الأعمال الصالحة ضرورية لتعزيز الإيمان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الأعمال الصالحة ليست ضرورية إذا كان الإيمان قويًا.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>النصوص الشرعية واضحة في أهمية الأعمال الصالحة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لا يوجد حكم شرعي واضح في المسألة.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>رجل يقول إن الأفعال الاختيارية مثل الصلاة والصيام ليست ضرورية طالما أن القلب صادق في الإيمان. كيف ترد عليه وفقًا للعقيدة الإسلامية؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "رجل يقول إن الأفعال الاختيارية مثل الصلاة والصيام ليست ضرورية طالما أن القلب صادق في الإيمان. كيف ترد عليه وفقًا للعقيدة الإسلامية؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "رجل يقول إن الأفعال الاختيارية مثل الصلاة والصيام ليست ضرورية طالما أن القلب صادق في الإيمان. كيف ترد عليه وفقًا للعقيدة الإسلامية؟"
+                  },
+                  "subContentId": "2ff764cc-c809-4eb4-aa42-95cd0fde7707"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإيمان بالله مهم، لكنه لا يكفي دون اتباع منهج الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الإيمان بالله يكفي دون الحاجة إلى اتباع منهج الله.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! اتباع منهج الله ضروري لتحقيق الإيمان الكامل.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>اتباع منهج الله ضروري لتحقيق الإيمان الكامل.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>اتباع منهج الله ضروري لتعزيز الإيمان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>اتباع منهج الله ليس ضروريًا إذا كان الإيمان قويًا.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>النصوص الشرعية واضحة في أهمية اتباع منهج الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لا يوجد حكم شرعي واضح في المسألة.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>أحد الأشخاص يعتقد أن الإيمان بالله يكفي دون الحاجة إلى اتباع منهج الله. ما هو الرد الصحيح بناءً على العقيدة الإسلامية؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "أحد الأشخاص يعتقد أن الإيمان بالله يكفي دون الحاجة إلى اتباع منهج الله. ما هو الرد الصحيح بناءً على العقيدة الإسلامية؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "أحد الأشخاص يعتقد أن الإيمان بالله يكفي دون الحاجة إلى اتباع منهج الله. ما هو الرد الصحيح بناءً على العقيدة الإسلامية؟"
+                  },
+                  "subContentId": "e590e365-5af1-4fce-8ec3-c1a813ed50a8"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": false,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              }
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "title": "Untitled Question Set",
+              "authors": [],
+              "changes": [],
+              "extraTitle": "Untitled Question Set"
+            },
+            "subContentId": "9e71786a-5a85-48e1-ada9-ebf0db4b03b2"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        }
+      ]
+    }
+  },
+  "endScreen": {
+    "noSuccess": {
+      "endScreenTextNoSuccess": "<p style=\"text-align:center\"></p>"
+    },
+    "success": {
+      "endScreenTextSuccess": "<p style=\"text-align:center\"></p>"
+    },
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100
+      }
+    ]
+  },
+  "visual": {
+    "stages": {
+      "colorStage": "rgba(250, 223, 10, 0.7)",
+      "colorStageLocked": "rgba(153, 0, 0, 0.7)",
+      "colorStageCleared": "rgba(0, 130, 0, 0.7)"
+    },
+    "paths": {
+      "displayPaths": true,
+      "style": {
+        "colorPath": "rgba(250, 243, 243, 0.7)",
+        "colorPathCleared": "rgba(14, 15, 14, 0.7)",
+        "pathWidth": "0.2",
+        "pathStyle": "dotted"
+      }
+    },
+    "misc": {
+      "useAnimation": true
+    }
+  },
+  "audio": {
+    "backgroundMusic": {
+      "muteDuringExercise": true
+    },
+    "ambient": {}
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "map": {
+      "showLabels": true,
+      "roaming": "free"
+    }
+  },
+  "l10n": {
+    "start": "Start",
+    "continue": "Continue",
+    "restart": "Restart",
+    "showSolutions": "Show solutions",
+    "completedMap": "You have completed the map!",
+    "fullScoreButnoLivesLeft": "You have achieved full score, but lost all your lifes!",
+    "fullScoreButTimeout": "You have achieved full score, but ran out of time!",
+    "confirmFinishHeader": "Finish map?",
+    "confirmFinishDialog": "If you finish now, you will not be able to explore the map any longer.",
+    "confirmFinishDialogSubmission": "Your score will be submitted.",
+    "confirmFinishDialogQuestion": "Do you really want to finish the map?",
+    "confirmAccessDeniedHeader": "Stage locked",
+    "confirmAccessDeniedDialog": "This stage requires you to meet some goals before it can be opened.",
+    "confirmAccessDeniedMinScore": "You need at least a certain number of points: @minscore",
+    "yes": "Yes",
+    "no": "No",
+    "confirmGameOverHeader": "Game over!",
+    "confirmGameOverDialog": "You have lost all your lives. Please try again!",
+    "confirmGameOverDialogTimeout": "You have run out of time. Please try again!",
+    "confirmTimeoutHeader": "Time out!",
+    "confirmTimeoutDialog": "You ran out of time.",
+    "confirmTimeoutDialogLostLife": "You ran out of time and lost a life.",
+    "confirmScoreIncompleteHeader": "Not full score!",
+    "confirmIncompleteScoreDialogLostLife": "You did not achieve full score and lost a life.",
+    "confirmFullScoreHeader": "You achieved full score!",
+    "confirmFullScoreDialog": "You have collected enough points to finish this map with a full score, but you are free to explore the rest if you wish to.",
+    "confirmFullScoreDialogLoseLivesAmendmend": "But beware! You may still lose lives!",
+    "ok": "OK",
+    "noBackground": "No background image was set for the map.",
+    "noStages": "No valid stages were set for the map."
+  },
+  "a11y": {
+    "buttonFinish": "Finish the map",
+    "buttonAudioActive": "Mute audio. Currently unmuted.",
+    "buttonAudioInactive": "Unmute audio. Currently muted.",
+    "close": "Close",
+    "yourResult": "You got @score out of @total points",
+    "mapWasOpened": "The map was opened.",
+    "mapSolutionsWasOpened": "The map was opened in solutions mode.",
+    "startScreenWasOpened": "The title screen was opened.",
+    "endScreenWasOpened": "The end screen was opened.",
+    "exerciseLabel": ". Exercise for @stagelabel",
+    "stageButtonLabel": "Stage: @stagelabel",
+    "adjacentStageLabel": "Adjacent stage of @stagelabelOrigin: @stagelabelNeighbor",
+    "locked": "Locked",
+    "cleared": "Cleared",
+    "applicationInstructions": "Use space or enter key to activate current stage. Use arrow keys to select adjacent stage. Use space or enter key on adjacent stage to navigate there.",
+    "applicationDescription": "Map",
+    "movedToStage": "Moved to @stagelabel",
+    "stageUnlocked": "Stage @stagelabel was unlocked.",
+    "toolbarFallbackLabel": "Game Map",
+    "enterFullscreen": "Enter fullscreen mode",
+    "exitFullscreen": "Exit fullscreen mode"
+  },
+  "headline": "📌 **مقارنة بين الإيمان والشرك ومثل النور الإلهي**"
+}
