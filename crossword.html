@@ -24,10 +24,22 @@
 <body>
     <div id="h5p-container"></div>
     <script>
+
+    function getQueryParam(name) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(name);
+        }
+
+        // Extract variable from URL
+        const variableValue = getQueryParam("map");
+
+        console.log("Received Variable:", variableValue); // Debugging to check if value is correct
+
+
         const el = document.getElementById('h5p-container');
         const options = {
             h5pJsonPath: 'Asmaa',
-            contentJsonPath: './content', //content is on same folder level as h5p.json
+            contentJsonPath: `./content/${variableValue}`, //content is on same folder level as h5p.json
             frameJs: 'https://cdn.jsdelivr.net/npm/h5p-standalone@3.8.0/dist/frame.bundle.js',
             frameCss: 'https://cdn.jsdelivr.net/npm/h5p-standalone@3.8.0/dist/styles/h5p.css',
             debug: true

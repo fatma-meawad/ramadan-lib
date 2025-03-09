@@ -4,7 +4,7 @@ const sidebar = document.getElementById("sidebar-content");
 sidebar.innerHTML = ""; // Clear previous content
 
 // Function to dynamically load H5P content
-function loadContent(title, link, summary, keywords, h5pPath) {
+function loadContent(title, link, summary, keywords, htmlPath) {
     const contentArea = document.getElementById("content-area");
     contentArea.innerHTML = `
         <h2>${title}</h2>
@@ -12,26 +12,13 @@ function loadContent(title, link, summary, keywords, h5pPath) {
         <p>📂 <a href="${summary}" target="_blank">تحميل الملخص</a></p>
         <h3>🔑 الكلمات المفتاحية:</h3>
         <ul>${keywords}</ul>
-        <div id="h5p-container" class="h5p-frame"></div>
-    `;
-    h5pPath="Asmaa"
-    if (h5pPath) {
-        const h5pContainer = document.getElementById("h5p-container");
-       // h5pContainer.innerHTML = "جارٍ تحميل المحتوى...";
+        <iframe src="${htmlPath}" width="100%" height="600px" style="border:none; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;"></iframe>
 
-        const script = document.createElement("script");
-        //script.src = "https://cdn.jsdelivr.net/npm/h5p-standalone@3.6.0'";
-        script.onload = function () {
-            new H5PStandalone.H5P(h5pContainer, {
-                h5pJsonPath: h5pPath,
-                frameJs: "https://cdn.jsdelivr.net/npm/h5p-standalone@3.6.0/dist/frame.bundle.js",
-                frameCss: "https://cdn.jsdelivr.net/npm/h5p-standalone@3.6.0/dist/styles/h5p.css",
-                debug: true
-            });
-        };
+    `;
+   
         document.body.appendChild(script);
     }
-}
+
 
 data.forEach(item => {
     let sectionsHTML = "";
@@ -44,7 +31,7 @@ data.forEach(item => {
 
             subsectionsHTML += `
                 <div class="sub-expandable-section">
-                    <button class="sub-expand-btn" onclick="loadContent('${subsection.title}', '${subsection.link}', '${subsection.summary_file}', '${keywordsList}', './Asmaa')">📖 ${subsection.title}</button>
+                    <button class="sub-expand-btn" onclick="loadContent('${subsection.title}', '${subsection.link}', '${subsection.summary_file}', '${keywordsList}', 'crossword.html?map=${subsection.link}')">📖 ${subsection.title}</button>
                 </div>
             `;
         });

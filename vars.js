@@ -2,7 +2,7 @@
 const data = [
     {
         "title": "تفسير الشعراوي : سورة الفاتحة",
-        "link": "https://app.quizwhizzer.com/play?code=51174",
+        "link": "",
         "reference": "https://shamela.ws/book/1083/1",
         "sections": [
             {
@@ -10,7 +10,7 @@ const data = [
        "subsections": [
             {
                 "title": "الحمد لله وعدل الله في الكون",
-                "link": "https://example.com/section3",
+                "link": "section3",
                 "keywords": ["",""],
                 "summary_file": "https://example.com/summary3.pdf"
             }
@@ -41,7 +41,7 @@ const data = [
        "subsections": [
             {
                 "title": "الحمد لله وعدل الله في الكون",
-                "link": "https://example.com/section3",
+                "link": "",
                 "keywords": ["",""],
                 "summary_file": "https://example.com/summary3.pdf"
             }
