@@ -24,7 +24,7 @@ function loadContent(item_title, s_title, title, link, summary, keywords, htmlPa
                 if (window.marked) {
                     document.getElementById("markdown-content").innerHTML = marked.parse(markdown);
                 } else {
-                    document.getElementById("markdown-content").innerHTML = `<pre>${markdown}</pre>`;
+                    document.getElementById("markdown-content").innerHTML = `${markdown}`;
                 }
             })
             .catch(error => {
