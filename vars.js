@@ -11,7 +11,7 @@ const data = [
         }],
         "image": "./images/Fatiha2.webp",
         "questions": "39"
-    },
+    }/*,
 
     {
         "title": "العقيدة والإعجاز - الدرس تمهيد - علة وجود الإنسان 1",
@@ -52,7 +52,7 @@ const data = [
         ],
         "image": "./images/Fatiha1.webp",
         "questions": 72
-    }
+    }*/
 ];
 
 
