@@ -1730,7 +1730,7 @@
     "enableSolutionsButton": true,
     "map": {
       "showLabels": true,
-      "roaming": "success"
+      "roaming": "free"
     },
     "lives": 1
   },
