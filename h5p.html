@@ -58,6 +58,14 @@
             debug: true
         }
         new H5PStandalone.H5P(el, options);
+
+        setTimeout(() => {
+            const iframe = document.querySelector(".h5p-iframe-wrapper iframe");
+            if (iframe) {
+                iframe.style.width = "100%";
+                iframe.style.height = "100%";
+            }
+        }, 1000);
     </script>
 </body>
 

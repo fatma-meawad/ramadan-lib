@@ -20,13 +20,7 @@ function loadContent(item_title, s_title, title, link, summary, keywords, htmlPa
     const iframe = document.getElementById("content-iframe");
 
     // Automatically adjust iframe height
-    iframe.onload = function () {
-        setTimeout(() => {
-            if (iframe.contentWindow.document.body) {
-                iframe.style.height = iframe.contentWindow.document.body.scrollHeight + "px";
-            }
-        }, 500);
-    };
+
     // Load and render Markdown content
     if (markdownPath) {
         fetch(markdownPath)

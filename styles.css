@@ -262,15 +262,25 @@ body {
 #h5p-container {
     width: 80%;
     max-width: 900px;
-    /* Prevents it from becoming too wide on large screens */
+    /* Prevents it from being too wide */
     height: 80vh;
+    /* Increases height */
+    min-height: 500px;
+    /* Ensures it has a good minimum height */
     margin: 40px auto;
-    /* Top & Bottom spacing */
     background: white;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-    /* Soft shadow for a lifted effect */
     border-radius: 8px;
     padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Fix iframe inside H5P */
+.h5p-iframe-wrapper {
+    width: 100% !important;
+    height: 100% !important;
     display: flex;
     justify-content: center;
     align-items: center;
