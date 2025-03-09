@@ -18,17 +18,16 @@
     "gamemap": {
       "elements": [
         {
-          "id": "48a94ff3-3935-4af3-b992-54bbed1e5373",
+          "id": "00a85ce6-ef84-4bca-8cc8-7bab4a6de26f",
           "type": "stage",
           "label": "1.5-Beginner Question Set",
           "telemetry": {
-            "x": "16.81",
-            "y": "48.66",
+            "x": "13.35",
+            "y": "50.22",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            10,
             1
           ],
           "canBeStartStage": true,
@@ -145,7 +144,7 @@
                     "changes": [],
                     "extraTitle": "ما المقصود بالحروف المقطعة في بداية بعض سور القرآن؟"
                   },
-                  "subContentId": "c1f92652-36ea-4ca7-8011-8bcb1fa7180b"
+                  "subContentId": "d41e51e5-e6dd-4d67-ad7e-f7c9d38052f5"
                 },
                 {
                   "params": {
@@ -246,7 +245,7 @@
                     "changes": [],
                     "extraTitle": "لماذا يعتبر نطق الرسول صلى الله عليه وسلم بالحروف المقطعة إعجازًا؟"
                   },
-                  "subContentId": "c85925b0-2492-456b-9d1f-28a681aec911"
+                  "subContentId": "f8d2e974-ff0f-4762-a2b3-b69e18b98f18"
                 },
                 {
                   "params": {
@@ -347,7 +346,7 @@
                     "changes": [],
                     "extraTitle": "ما الفرق بين نطق الحروف المقطعة في بداية السور ونطقها في الآيات الأخرى؟"
                   },
-                  "subContentId": "6997b42c-ec71-440f-825c-a282c17c8a45"
+                  "subContentId": "5111f4fe-6004-4466-a3ab-2ea28c0926e3"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -401,23 +400,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "1c47ef6f-de3d-4a76-85ff-ac1d9fd5af45"
+            "subContentId": "40c9a76e-d783-4ca8-8729-29250f4a6d38"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "7af099be-cd0c-4792-be19-728818fcd7db",
+          "id": "4f7f7f96-6088-4f75-9198-1de388e20b37",
           "type": "stage",
           "label": "1.5-Beginner Question Set",
           "telemetry": {
-            "x": "18.34",
-            "y": "30.19",
+            "x": "15.50",
+            "y": "35.29",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            10,
             2
           ],
           "canBeStartStage": false,
@@ -534,7 +532,7 @@
                     "changes": [],
                     "extraTitle": "لماذا تختلف كتابة بعض الكلمات في القرآن مثل 'بسم الله الرحمن الرحيم'؟"
                   },
-                  "subContentId": "5a8ddfcf-a1e0-4364-8640-c8be5bf669e9"
+                  "subContentId": "e2664db8-3559-4260-b04c-ea4be4336740"
                 },
                 {
                   "params": {
@@ -635,7 +633,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الغرض من الحروف المقطعة في بداية بعض سور القرآن؟"
                   },
-                  "subContentId": "4572542f-bbe3-4649-a883-d9fab7f31a00"
+                  "subContentId": "b9c3a139-959c-4b2a-88b5-4cf50fc98f4d"
                 },
                 {
                   "params": {
@@ -736,7 +734,7 @@
                     "changes": [],
                     "extraTitle": "ما هو موقف العلماء من تفسير الحروف المقطعة في القرآن؟"
                   },
-                  "subContentId": "30edb1a2-d50f-4204-83a8-9dcdaa83f964"
+                  "subContentId": "477e58a9-7c7f-40d9-84dd-f7f9fa5b04cc"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -790,23 +788,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "caf5cf10-7bb1-4f82-90dc-e8f92a745ef8"
+            "subContentId": "c05fe14f-f72b-42f9-af2e-d13fcf221ca1"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "46abc0b9-0586-4a73-b99e-b43499cd1bc9",
+          "id": "633aa516-d8d9-4105-9372-ddeac74034ee",
           "type": "stage",
           "label": "1.5-Beginner Question Set",
           "telemetry": {
-            "x": "12.62",
-            "y": "42.13",
+            "x": "17.56",
+            "y": "54.00",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            10,
             3
           ],
           "canBeStartStage": false,
@@ -923,7 +920,7 @@
                     "changes": [],
                     "extraTitle": "ما هي الآية التي تؤكد حفظ القرآن الكريم؟"
                   },
-                  "subContentId": "c8881ae9-8f9f-423d-a356-56b8be339840"
+                  "subContentId": "6f6917b4-a236-4bbf-a29f-a090de626122"
                 },
                 {
                   "params": {
@@ -1024,7 +1021,7 @@
                     "changes": [],
                     "extraTitle": "ما هو المقصود بالإعجاز في القرآن الكريم؟"
                   },
-                  "subContentId": "3ca6ab3c-4494-424d-a78f-e9071adb27f3"
+                  "subContentId": "d61ff84d-53bc-4761-b3b6-0eae36bfceb5"
                 },
                 {
                   "params": {
@@ -1125,7 +1122,7 @@
                     "changes": [],
                     "extraTitle": "ما هو أول أساسيات المنهج الذي جاء به القرآن؟"
                   },
-                  "subContentId": "4a4f345f-9496-476c-8b56-97e3a7686bdd"
+                  "subContentId": "09c86fe9-2887-44b9-8c30-515fe389d3e0"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -1179,23 +1176,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "80ef24d5-9934-47c1-adc4-e13aa705d57f"
+            "subContentId": "0a016611-6b7c-4d7b-a450-81c06f2d07b1"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "744d4f25-a54d-42de-81de-8fd4ea752279",
+          "id": "dffee654-451e-4382-bbea-26bfaa6a8e38",
           "type": "stage",
           "label": "1.5-Beginner Question Set",
           "telemetry": {
-            "x": "5.62",
-            "y": "31.36",
+            "x": "6.60",
+            "y": "42.46",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            10,
             4
           ],
           "canBeStartStage": false,
@@ -1312,7 +1308,7 @@
                     "changes": [],
                     "extraTitle": "ما هو التحدي الذي وضعه الله للإنس والجن في القرآن؟"
                   },
-                  "subContentId": "268348b0-e796-44c7-b928-2e89dba285f3"
+                  "subContentId": "a377c578-c2a3-4678-a2b0-46102ce85e81"
                 },
                 {
                   "params": {
@@ -1413,7 +1409,7 @@
                     "changes": [],
                     "extraTitle": "ما هي إحدى خصائص القرآن التي ذكرت في الآيات؟"
                   },
-                  "subContentId": "011e7bb5-0315-42ed-be4a-273cc728e352"
+                  "subContentId": "71d01887-8e61-4b8f-a923-8388f5ab23e3"
                 },
                 {
                   "params": {
@@ -1514,7 +1510,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الغرض من ذكر قصص الأنبياء في القرآن؟"
                   },
-                  "subContentId": "d56ca7e8-6b08-4e7e-a447-356749471823"
+                  "subContentId": "ca7e7f78-6df7-4514-b926-c19f9b917ebd"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -1568,23 +1564,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "9a9f3600-84ff-4c0a-aa09-77d07e92049a"
+            "subContentId": "ea79b2de-91d0-4d76-af83-c8ba89af1d31"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "538e4242-7f30-4b3a-ac82-41f1c6854a24",
+          "id": "0f4dd7ad-3a98-49dc-b9b1-38c3dc8847f7",
           "type": "stage",
           "label": "1.5-Beginner Question Set",
           "telemetry": {
-            "x": "12.97",
-            "y": "20.85",
+            "x": "10.04",
+            "y": "31.85",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            10,
             5
           ],
           "canBeStartStage": false,
@@ -1701,7 +1696,7 @@
                     "changes": [],
                     "extraTitle": "ما هو المعنى الأساسي لكلمة 'هدى الله' كما ورد في النص؟"
                   },
-                  "subContentId": "c6cfc73f-9ba9-4e9b-ab09-a70377bc0ff5"
+                  "subContentId": "0ff639a5-bb86-4a44-91f2-983f060699b3"
                 },
                 {
                   "params": {
@@ -1802,7 +1797,7 @@
                     "changes": [],
                     "extraTitle": "ما هي الغاية من الهدى الذي حدده الله لخلقه؟"
                   },
-                  "subContentId": "aac33fbf-a795-4301-84ec-2e97821343c9"
+                  "subContentId": "61813607-87df-4000-98c0-2b5f67cb56ec"
                 },
                 {
                   "params": {
@@ -1903,7 +1898,7 @@
                     "changes": [],
                     "extraTitle": "ما هو دور القرآن الكريم في حياة الإنسان حسب النص؟"
                   },
-                  "subContentId": "18adf659-b539-48d3-ab9b-df44dfaa8882"
+                  "subContentId": "d37e09f9-3b75-43a0-a4d4-55755dbc43eb"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -1957,23 +1952,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "01e1470e-a5bc-4f32-be2b-a55e557bb24f"
+            "subContentId": "26f30c9f-43b6-4312-825f-70958dd4412b"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "f3d58a92-3046-41b2-9ecf-3ad21196ae0b",
+          "id": "6fb26549-700a-4b10-ba22-f3dc6559edc3",
           "type": "stage",
           "label": "1.5-Beginner Question Set",
           "telemetry": {
-            "x": "11.34",
-            "y": "27.04",
+            "x": "16.01",
+            "y": "44.03",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            10,
             6
           ],
           "canBeStartStage": false,
@@ -2090,7 +2084,7 @@
                     "changes": [],
                     "extraTitle": "ما المقصود بـ 'الجهة منفكة' في تفسير الآية {وَمَا رَمَيْتَ إِذْ رَمَيْتَ ولكن الله رمى}؟"
                   },
-                  "subContentId": "d678ebb0-7efb-4dcb-ae23-beaf2f03016c"
+                  "subContentId": "e5fc24a7-17bc-4ab5-a6f4-f298b71bf764"
                 },
                 {
                   "params": {
@@ -2191,7 +2185,7 @@
                     "changes": [],
                     "extraTitle": "ما هي أول صفة للمتقين كما ذكرت في الآية {الذين يُؤْمِنُونَ بالغيب}؟"
                   },
-                  "subContentId": "8365ad26-8633-44af-9cba-ab3d5fc2d4c3"
+                  "subContentId": "0bad1d3b-d951-42d2-989b-6fd07d39bde8"
                 },
                 {
                   "params": {
@@ -2292,7 +2286,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الغيب وفقًا للتعريف الوارد في النص؟"
                   },
-                  "subContentId": "e28d8c3f-7057-42b2-a561-db51358246ab"
+                  "subContentId": "90e9f769-6325-44b5-b5e8-bcd1a7712aa4"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -2346,23 +2340,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "2e850943-09c6-4f7e-865d-b30e5d5bb846"
+            "subContentId": "b099428f-e5b9-4026-ad13-7b1de5c4f661"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "de84e62d-c326-425e-ac81-7ead7818152e",
+          "id": "d1995a6a-153f-44d1-be35-a108700fbb78",
           "type": "stage",
           "label": "1.5-Beginner Question Set",
           "telemetry": {
-            "x": "15.81",
-            "y": "55.08",
+            "x": "8.36",
+            "y": "60.47",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            10,
             7
           ],
           "canBeStartStage": false,
@@ -2479,7 +2472,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الغيب وفقًا للآيات المذكورة؟"
                   },
-                  "subContentId": "56bbdb50-8e82-4e33-acd5-d40139580d94"
+                  "subContentId": "6f650439-b23e-4fee-9fc2-c55f9e6e4d09"
                 },
                 {
                   "params": {
@@ -2580,7 +2573,7 @@
                     "changes": [],
                     "extraTitle": "ما هي قمة الإيمان بالغيب؟"
                   },
-                  "subContentId": "141b359e-38c8-4105-9455-b8ffd2d9fdf6"
+                  "subContentId": "120ae150-1556-48de-bc91-3f07cdc1726b"
                 },
                 {
                   "params": {
@@ -2681,7 +2674,7 @@
                     "changes": [],
                     "extraTitle": "ما الذي يجعلنا نؤمن بالملائكة واليوم الآخر؟"
                   },
-                  "subContentId": "9f713e73-1e00-4598-be5d-b6bcb9be73f4"
+                  "subContentId": "b0981bd6-fb13-43a7-9e82-cf8651f6afff"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -2735,23 +2728,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "7a5f15c1-798b-4364-a96d-10cc583a14d1"
+            "subContentId": "a4b17494-8ae0-4c8c-a0e1-941c9d658ec9"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "a9ae0a07-cbb1-449d-bc45-19131a698c77",
+          "id": "dd47f5a2-6eb1-473f-8b09-942c2fd81914",
           "type": "stage",
           "label": "1.5-Beginner Question Set",
           "telemetry": {
-            "x": "11.39",
-            "y": "50.78",
+            "x": "11.24",
+            "y": "40.12",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            10,
             8
           ],
           "canBeStartStage": false,
@@ -2868,7 +2860,7 @@
                     "changes": [],
                     "extraTitle": "ما هو المعنى الذي تشير إليه الآية الكريمة: {وَلَمَّا جَآءَهُمْ كِتَابٌ مِّنْ عِندِ الله مُصَدِّقٌ لِّمَا مَعَهُمْ وَكَانُواْ مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى الذين كَفَرُواْ فَلَمَّا جَآءَهُمْ مَّا عَرَفُواْ كَفَرُواْ بِهِ فَلَعْنَةُ الله عَلَى الكافرين}؟"
                   },
-                  "subContentId": "9e6e0cdf-defc-4064-94b1-38ac6d26fa84"
+                  "subContentId": "e53d9c5e-1fcd-46f7-8de8-f855645583f7"
                 },
                 {
                   "params": {
@@ -2969,7 +2961,7 @@
                     "changes": [],
                     "extraTitle": "ما الذي أكده الله سبحانه وتعالى في القرآن الكريم بخصوص الإيمان باليوم الآخر؟"
                   },
-                  "subContentId": "7955681d-5322-4b5f-bdda-0d9ea121aaee"
+                  "subContentId": "77d7d94f-fbc0-4304-8529-288f7c68f8e2"
                 },
                 {
                   "params": {
@@ -3070,7 +3062,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الفلاح الذي ذكره الله سبحانه وتعالى في الآية: {أولئك على هُدًى مِّن رَّبِّهِمْ وأولئك هُمُ المفلحون}؟"
                   },
-                  "subContentId": "116ac46d-b129-48cf-9b79-5fff9f172a69"
+                  "subContentId": "a6a72694-6a46-45cf-bde5-19f1cd7ea4fb"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -3124,23 +3116,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "8d041b0c-0df1-42f8-bd82-60b356d6184d"
+            "subContentId": "866c0bef-74c5-4626-97cd-d2ac1b9aba88"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "5b54ceea-828d-4207-b60a-651d3ba4cb02",
+          "id": "0ff10e82-4b6c-46b5-9344-f8a8961bf081",
           "type": "stage",
           "label": "1.5-Beginner Question Set",
           "telemetry": {
-            "x": "6.30",
-            "y": "60.16",
+            "x": "6.33",
+            "y": "49.31",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            10,
             9
           ],
           "canBeStartStage": false,
@@ -3257,7 +3248,7 @@
                     "changes": [],
                     "extraTitle": "ما هي المهمة الأساسية للإنسان في عملية الزراعة وفقًا للنص القرآني؟"
                   },
-                  "subContentId": "85e5d659-9c57-49a9-85c7-60b6f0a3b8f5"
+                  "subContentId": "4582f24e-5910-4d2a-8e3e-c1d09059c064"
                 },
                 {
                   "params": {
@@ -3358,7 +3349,7 @@
                     "changes": [],
                     "extraTitle": "ما الذي يحدث للحبة عندما توضع في الأرض؟"
                   },
-                  "subContentId": "dc9d4d30-d85e-4a65-9cb2-4874db275605"
+                  "subContentId": "f2175e70-75b7-4cb1-a061-3af68b4bd9dd"
                 },
                 {
                   "params": {
@@ -3459,7 +3450,7 @@
                     "changes": [],
                     "extraTitle": "ما هو المعنى المقصود بـ 'المفلحون' في القرآن؟"
                   },
-                  "subContentId": "0885461f-1c87-4793-9196-cd01e7b5b353"
+                  "subContentId": "44ef31c0-61a1-4e7f-91bd-e5b694e04e61"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -3513,23 +3504,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "c873b89f-8c09-403b-8b20-93a594183d5e"
+            "subContentId": "b8258c2d-a7b4-4d7c-a036-0d25b030e17f"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "8bdfcfcc-b2e9-45ae-bd4c-c95bb817a314",
+          "id": "5a761aa0-5925-4ae2-85ac-6dab3bc3d1bc",
           "type": "stage",
           "label": "1.5-Beginner Question Set",
           "telemetry": {
-            "x": "18.04",
-            "y": "42.08",
+            "x": "9.91",
+            "y": "25.33",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            10,
             10
           ],
           "canBeStartStage": false,
@@ -3646,7 +3636,7 @@
                     "changes": [],
                     "extraTitle": "ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟"
                   },
-                  "subContentId": "e1bc8e5d-1635-41df-9b48-70c05d585278"
+                  "subContentId": "7a3846d8-1e26-4459-b774-14857b8db67a"
                 },
                 {
                   "params": {
@@ -3747,7 +3737,7 @@
                     "changes": [],
                     "extraTitle": "ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟"
                   },
-                  "subContentId": "da264ac5-f8bc-4a15-8c1a-074656704a52"
+                  "subContentId": "9fd8ffae-d0ce-4c3b-831c-4ec8badccebd"
                 },
                 {
                   "params": {
@@ -3848,7 +3838,7 @@
                     "changes": [],
                     "extraTitle": "ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟"
                   },
-                  "subContentId": "7ea7b0cc-eafd-4918-b5a1-b2712da7d59b"
+                  "subContentId": "ea5e1815-6c38-4d34-a934-b3560d7672e4"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -3902,23 +3892,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "0f6f24fb-86ff-4609-ae8c-1ebed9796855"
+            "subContentId": "74f6a337-889f-4135-9ca0-1ce491f23364"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "8e601409-69ab-479c-a1a5-c3257c32d60e",
+          "id": "1a290ae3-6aa2-4cbf-8b50-8a6b49a4a709",
           "type": "stage",
           "label": "3-Intermediate Question Set",
           "telemetry": {
-            "x": "43.79",
-            "y": "77.61",
+            "x": "29.32",
+            "y": "83.98",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            20,
             11
           ],
           "canBeStartStage": false,
@@ -4035,7 +4024,7 @@
                     "changes": [],
                     "extraTitle": "ما الحكمة من بناء الحروف المقطعة في بداية السور على الوقف؟"
                   },
-                  "subContentId": "c2d13565-19bf-41fd-a678-30000d5d20bb"
+                  "subContentId": "86d39665-f2aa-4b0d-bec4-c15d62b38c65"
                 },
                 {
                   "params": {
@@ -4136,7 +4125,7 @@
                     "changes": [],
                     "extraTitle": "ما الذي يدل عليه اختلاف عدد الحروف المقطعة في بداية السور؟"
                   },
-                  "subContentId": "5fc54d9e-3eaf-4ee1-bd32-ca6d67b72727"
+                  "subContentId": "22ccfb5f-aabd-4455-97dd-7e6ec4f78541"
                 },
                 {
                   "params": {
@@ -4237,7 +4226,7 @@
                     "changes": [],
                     "extraTitle": "ما الفرق بين حروف المبنى وحروف المعنى؟"
                   },
-                  "subContentId": "59dd5234-8f25-4123-a067-2cd361cc155e"
+                  "subContentId": "63cde7c8-9a0d-42ce-9754-8c777cfeb190"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -4291,23 +4280,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "d334d548-2f60-4891-97ff-918b3dba4db8"
+            "subContentId": "e0be5246-4b74-4edc-af63-019d810b212b"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "421b3df8-fdea-4817-8d2f-044329368449",
+          "id": "9929ed39-f8c0-4de5-98ca-fee40057d13f",
           "type": "stage",
           "label": "3-Intermediate Question Set",
           "telemetry": {
-            "x": "34.99",
-            "y": "70.23",
+            "x": "41.80",
+            "y": "84.55",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            20,
             12
           ],
           "canBeStartStage": false,
@@ -4424,7 +4412,7 @@
                     "changes": [],
                     "extraTitle": "كيف يمكن أن نستفيد من الحروف المقطعة في القرآن دون فهم معناها؟"
                   },
-                  "subContentId": "1e6e09c1-858c-4c80-b629-767cdaa86a3c"
+                  "subContentId": "0a0fcd52-9b1f-418d-925d-d75401ac7296"
                 },
                 {
                   "params": {
@@ -4525,7 +4513,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الدليل على أن العرب فهموا الحروف المقطعة في القرآن؟"
                   },
-                  "subContentId": "193dd902-c7c4-4c38-8a62-0cc7e5159ab9"
+                  "subContentId": "ed619a24-9d35-4748-879b-afb14a31cacf"
                 },
                 {
                   "params": {
@@ -4626,7 +4614,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الموقف الصحيح من المتشابهات في القرآن؟"
                   },
-                  "subContentId": "74a15e7e-d15c-44b7-a5e0-1611d19a9ba2"
+                  "subContentId": "504dde04-838d-4818-a5aa-c3fbb2d7e437"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -4680,23 +4668,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "3aa26df6-0431-4cbd-b22f-3df99962fcd8"
+            "subContentId": "b21e16e7-29dd-4333-9752-bc40aecd18ab"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "41896e4e-1b5f-461f-b90b-51392323f2ee",
+          "id": "86d62270-dd7f-4fe7-bd63-009430824e48",
           "type": "stage",
           "label": "3-Intermediate Question Set",
           "telemetry": {
-            "x": "26.49",
-            "y": "73.20",
+            "x": "49.19",
+            "y": "78.08",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            20,
             13
           ],
           "canBeStartStage": false,
@@ -4813,7 +4800,7 @@
                     "changes": [],
                     "extraTitle": "لماذا يعتبر القرآن معجزة؟"
                   },
-                  "subContentId": "e92798b1-5a03-4b79-ac40-d09e4d9a3ea0"
+                  "subContentId": "1893594c-681a-457d-9bc5-b76c7c28c3f8"
                 },
                 {
                   "params": {
@@ -4914,7 +4901,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الرد على من يعتقد أن القرآن ليس من عند الله لأنه نزل على بشر؟"
                   },
-                  "subContentId": "796f1f79-9c2c-4104-a363-155a0f19f9ee"
+                  "subContentId": "fbf8959d-bcce-40f3-9ba8-34cdfba6840d"
                 },
                 {
                   "params": {
@@ -5015,7 +5002,7 @@
                     "changes": [],
                     "extraTitle": "ما هو المقصود بقوله تعالى: {لاَ رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ}؟"
                   },
-                  "subContentId": "7eea9339-16c5-4804-a460-e714eca315f6"
+                  "subContentId": "a429fd53-8ef6-48f8-ab29-1b3710a293a5"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -5069,23 +5056,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "4466e19c-635a-4add-87b1-c8c432b2c582"
+            "subContentId": "1df6e1c2-0978-4240-b041-857862a397de"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "744727e3-34d2-4472-b4be-3531a1ba4188",
+          "id": "dadf590c-4ea5-42d3-bc6e-8e9bc634850d",
           "type": "stage",
           "label": "3-Intermediate Question Set",
           "telemetry": {
-            "x": "38.78",
-            "y": "82.41",
+            "x": "41.84",
+            "y": "76.23",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            20,
             14
           ],
           "canBeStartStage": false,
@@ -5202,7 +5188,7 @@
                     "changes": [],
                     "extraTitle": "ما هو المعنى المقصود من قوله تعالى: {الر كِتَابٌ أُحْكِمَتْ آيَاتُهُ ثُمَّ فُصِّلَتْ مِن لَّدُنْ حَكِيمٍ خَبِيرٍ}؟"
                   },
-                  "subContentId": "c9351803-e224-460e-b220-70bdee917ff5"
+                  "subContentId": "82ee607c-8704-45c1-988e-1c8ed9042093"
                 },
                 {
                   "params": {
@@ -5303,7 +5289,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الدور الرئيسي للقرآن كما ورد في الآيات؟"
                   },
-                  "subContentId": "464ba7bc-f0cf-473b-9bcf-82f721bcd920"
+                  "subContentId": "7c8eadcc-679d-462a-bc00-9433c830b21f"
                 },
                 {
                   "params": {
@@ -5404,7 +5390,7 @@
                     "changes": [],
                     "extraTitle": "ما هي العبرة من قصص الأنبياء في القرآن؟"
                   },
-                  "subContentId": "dbcbb0bd-7838-4e47-8f8d-180a468636e9"
+                  "subContentId": "636bb0dd-2053-4d04-adff-f8e28c34ad64"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -5458,23 +5444,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "3635636f-f473-47cd-8e92-71175d1f5b08"
+            "subContentId": "2dda662b-30b0-4a1e-ae9d-feacd97de622"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "5caf3568-610c-421c-a62a-bd7ea8c38e78",
+          "id": "7cc5d214-fa47-4cb5-a19b-91617f5f8662",
           "type": "stage",
           "label": "3-Intermediate Question Set",
           "telemetry": {
-            "x": "32.41",
-            "y": "77.02",
+            "x": "30.05",
+            "y": "71.88",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            20,
             15
           ],
           "canBeStartStage": false,
@@ -5591,7 +5576,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الفرق بين هداية الدلالة وهداية المعونة حسب النص؟"
                   },
-                  "subContentId": "4f4c10a3-4e0b-4834-becb-2ab6bbd1816e"
+                  "subContentId": "d1824975-17e4-4076-8b14-bbdaf50d0e25"
                 },
                 {
                   "params": {
@@ -5692,7 +5677,7 @@
                     "changes": [],
                     "extraTitle": "ما هو سبب قصور قوانين البشر في تحديد أهدافهم وطريقة الوصول إليها؟"
                   },
-                  "subContentId": "b091ff2c-e346-4509-aae4-7205e7e6dd67"
+                  "subContentId": "5fb0bd52-c0b9-4cf0-81b5-a3dd0d0f5097"
                 },
                 {
                   "params": {
@@ -5793,7 +5778,7 @@
                     "changes": [],
                     "extraTitle": "ما هو معنى 'اتقوا الله' حسب النص؟"
                   },
-                  "subContentId": "8df56d6a-5ddd-4388-9b3e-864c71712cac"
+                  "subContentId": "8d105b21-4dcc-40df-95da-a50bebcaeef2"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -5847,23 +5832,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "8f920d5c-733d-412a-98aa-c7dcf8e35482"
+            "subContentId": "5f8f5e56-0d86-45e1-9044-14f1e13a9276"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "4443ae3a-b3d1-41a8-b26b-a9e91c3093b3",
+          "id": "d72cb8fb-98b7-4732-8273-0de94eddaaa2",
           "type": "stage",
           "label": "3-Intermediate Question Set",
           "telemetry": {
-            "x": "25.57",
-            "y": "82.19",
+            "x": "37.43",
+            "y": "70.16",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            20,
             16
           ],
           "canBeStartStage": false,
@@ -5980,7 +5964,7 @@
                     "changes": [],
                     "extraTitle": "كيف يمكن تفسير قول الله تعالى: {وَإِنَّكَ لتهدي إلى صِرَاطٍ مُّسْتَقِيمٍ} في سياق هداية الدلالة؟"
                   },
-                  "subContentId": "0b0f87b1-5375-4887-96af-9de22da3d490"
+                  "subContentId": "e2b70759-3c84-4f92-982f-c2d0ceef7387"
                 },
                 {
                   "params": {
@@ -6081,7 +6065,7 @@
                     "changes": [],
                     "extraTitle": "ما الفرق بين الغيب والعلم المكتسب وفقًا للنص؟"
                   },
-                  "subContentId": "fd1130e0-055f-4c62-a8a5-fa665cde701b"
+                  "subContentId": "4a245832-e9ec-4587-b384-1c288fcde224"
                 },
                 {
                   "params": {
@@ -6182,7 +6166,7 @@
                     "changes": [],
                     "extraTitle": "ما هو دور النبي في الهداية وفقًا للآية {إِنَّكَ لاَ تَهْدِي مَنْ أَحْبَبْتَ ولكن الله يَهْدِي مَن يَشَآءُ}؟"
                   },
-                  "subContentId": "718271f2-c4b4-4cec-a05a-353a120a2993"
+                  "subContentId": "090c748f-eae4-4ee3-adf3-c7ec2f27c75d"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -6236,23 +6220,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "1c29f54e-ca84-4767-9fc0-655a76c32903"
+            "subContentId": "3753da62-a00e-49b4-8f1c-bb7d8155f216"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "7a9304cd-7437-4ea8-9b70-521a9d049efe",
+          "id": "e96e1f47-2c5b-4d19-bf59-d41eacb35f0c",
           "type": "stage",
           "label": "3-Intermediate Question Set",
           "telemetry": {
-            "x": "45.17",
-            "y": "72.54",
+            "x": "25.87",
+            "y": "78.96",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            20,
             17
           ],
           "canBeStartStage": false,
@@ -6369,7 +6352,7 @@
                     "changes": [],
                     "extraTitle": "لماذا لا يمكن للإنسان أن يدرك الله بحواسه؟"
                   },
-                  "subContentId": "fb566dc9-fc0a-4810-9448-6a24c1f51889"
+                  "subContentId": "b2a07ea8-5b73-4bc3-ad39-2d202d4876a0"
                 },
                 {
                   "params": {
@@ -6470,7 +6453,7 @@
                     "changes": [],
                     "extraTitle": "ما الذي يدل على وجود الروح في الجسد؟"
                   },
-                  "subContentId": "43d5efbc-9612-4843-bc7e-cc5b046dbd28"
+                  "subContentId": "0505f644-1b37-4a4f-8a3e-e00fc8c25059"
                 },
                 {
                   "params": {
@@ -6571,7 +6554,7 @@
                     "changes": [],
                     "extraTitle": "ما الذي يدل على أن الكون له خالق؟"
                   },
-                  "subContentId": "bbb066b6-896a-45a2-b30c-1b4ffc526efe"
+                  "subContentId": "db7db895-1a23-4637-bf6e-73da471a5f1a"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -6625,23 +6608,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "7292bd3e-2ad4-420a-9e88-efc241ca497d"
+            "subContentId": "8663c31e-68dd-40f8-80bb-7df0825a306b"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "aa6701a7-8f5a-4f8a-bc06-6b84754a1110",
+          "id": "fb575d83-213b-4467-a1e0-1092d49be661",
           "type": "stage",
           "label": "3-Intermediate Question Set",
           "telemetry": {
-            "x": "30.95",
-            "y": "84.63",
+            "x": "32.64",
+            "y": "79.45",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            20,
             18
           ],
           "canBeStartStage": false,
@@ -6758,7 +6740,7 @@
                     "changes": [],
                     "extraTitle": "لماذا استخدم الله سبحانه وتعالى كلمة {أولئك} مرتين في الآية: {أولئك على هُدًى مِّن رَّبِّهِمْ وأولئك هُمُ المفلحون}؟"
                   },
-                  "subContentId": "5dc52926-a790-41cd-9ab3-78cee5284abc"
+                  "subContentId": "ca3b3ece-34c6-4e5c-817f-bbea332dc0b6"
                 },
                 {
                   "params": {
@@ -6859,7 +6841,7 @@
                     "changes": [],
                     "extraTitle": "ما هو المعنى الذي تشير إليه كلمة {على} في الآية: {على هُدًى}؟"
                   },
-                  "subContentId": "192f0f1f-13ba-454e-a1a9-c77c8bf5a9a5"
+                  "subContentId": "888b6608-1275-4667-aac8-6bfec70825f2"
                 },
                 {
                   "params": {
@@ -6960,7 +6942,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الفرق بين الهدى والضلال كما ورد في القرآن الكريم؟"
                   },
-                  "subContentId": "97721177-04d1-4c79-83d4-10a731dba5a0"
+                  "subContentId": "a6911062-49b6-4629-9584-77ce0f6abdbf"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -7014,23 +6996,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "96f4cb9c-250c-4e11-a603-13a319d16449"
+            "subContentId": "aea6b1d3-c6d0-49b7-86a1-784f1634d14b"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "41806fcf-ce24-4458-83e7-f9560c098e93",
+          "id": "7134eb37-774d-4f35-8c46-35a58b6547ff",
           "type": "stage",
           "label": "3-Intermediate Question Set",
           "telemetry": {
-            "x": "37.72",
-            "y": "75.44",
+            "x": "37.04",
+            "y": "82.77",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            20,
             19
           ],
           "canBeStartStage": false,
@@ -7147,7 +7128,7 @@
                     "changes": [],
                     "extraTitle": "لماذا يشبه الله الإنفاق في سبيله بالبذرة التي تنتج سبع سنابل؟"
                   },
-                  "subContentId": "c67264fd-375b-4f3f-8719-69ca29061c82"
+                  "subContentId": "23341355-3b0a-4aed-9fc7-556841dd079d"
                 },
                 {
                   "params": {
@@ -7248,7 +7229,7 @@
                     "changes": [],
                     "extraTitle": "ما هو سبب تسمية الكافرين بهذا الاسم؟"
                   },
-                  "subContentId": "089f1a55-63c2-4bef-9699-ec5edd5e1133"
+                  "subContentId": "688b5451-4a25-427a-8638-e46cc4175cfa"
                 },
                 {
                   "params": {
@@ -7349,7 +7330,7 @@
                     "changes": [],
                     "extraTitle": "ما الذي يميز المؤمنين عن الكافرين وفقًا للنص؟"
                   },
-                  "subContentId": "f6cd01b9-fbbc-46f3-9af2-c9ca7cb3652c"
+                  "subContentId": "4c1c4001-8a4b-4cb4-a7a7-9e162c2c237f"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -7403,23 +7384,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "dfd2bfaf-6b83-44a9-a492-c9392a3139c7"
+            "subContentId": "c66ffa32-24bf-4718-9ce6-7c19ed0ec20a"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "225db556-e85e-4c56-918b-c89942a670b4",
+          "id": "d9ab60dc-3a16-4559-b5f2-87fca71625cd",
           "type": "stage",
           "label": "3-Intermediate Question Set",
           "telemetry": {
-            "x": "46.37",
-            "y": "83.40",
+            "x": "48.59",
+            "y": "71.48",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            20,
             20
           ],
           "canBeStartStage": false,
@@ -7536,7 +7516,7 @@
                     "changes": [],
                     "extraTitle": "لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟"
                   },
-                  "subContentId": "890c9543-eee5-4636-b835-4867f01a8af8"
+                  "subContentId": "e14f3710-7184-4ae3-9a31-6fd5c42bc925"
                 },
                 {
                   "params": {
@@ -7637,7 +7617,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟"
                   },
-                  "subContentId": "ecdc5f80-1fed-4403-9139-aa707a018672"
+                  "subContentId": "9e2c130c-b9b5-45d4-9f7d-37b13ed9a750"
                 },
                 {
                   "params": {
@@ -7738,7 +7718,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الغرض من وجود المتغيرات في حياة الإنسان؟"
                   },
-                  "subContentId": "6c91b4f8-570d-46ed-a24a-85dd6dce05fb"
+                  "subContentId": "b61c64a1-c312-42ff-a666-c5372f62a5f9"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -7792,23 +7772,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "71dab8c3-fadb-480e-a056-7f3532e62a71"
+            "subContentId": "3b894761-40f7-443d-b0d9-fc86c67c8218"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "bf199b05-bbf3-4832-b520-90bf06ce123b",
+          "id": "84f1006e-bdb5-4c26-a07f-e1b375442647",
           "type": "stage",
           "label": "4.5-Advanced Question Set",
           "telemetry": {
-            "x": "59.35",
-            "y": "71.62",
+            "x": "59.26",
+            "y": "81.57",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            30,
             21
           ],
           "canBeStartStage": false,
@@ -7925,7 +7904,7 @@
                     "changes": [],
                     "extraTitle": "ما الدليل على أن الحروف المقطعة ليست مجرد رموز بلا معنى؟"
                   },
-                  "subContentId": "93bf8312-b9ec-4ad8-8282-75dc36a134e3"
+                  "subContentId": "bbdaeafa-cb8c-4ed5-9295-518e44ac6b06"
                 },
                 {
                   "params": {
@@ -8026,7 +8005,7 @@
                     "changes": [],
                     "extraTitle": "ما الذي يمكن استنتاجه من حديث الرسول صلى الله عليه وسلم عن ثواب قراءة الحروف المقطعة؟"
                   },
-                  "subContentId": "38b62e4a-0343-47b6-b57c-8e621dbfa9f3"
+                  "subContentId": "fca41b76-6139-4300-bff0-40cdfeb218e3"
                 },
                 {
                   "params": {
@@ -8127,7 +8106,7 @@
                     "changes": [],
                     "extraTitle": "ما الذي يدل عليه تنوع الحروف المقطعة في بداية السور من حيث العدد والترتيب؟"
                   },
-                  "subContentId": "5de3398e-483c-4d31-b4b4-865bafd37151"
+                  "subContentId": "db57dc07-50c1-4b24-8d06-5c5ca4e4d06e"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -8181,23 +8160,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "e7a22251-c986-443b-8fff-140bfc80f39d"
+            "subContentId": "e908457c-ee24-40fb-9cc2-fb266eef93a5"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "8c52e6c2-8623-457f-b047-f0f0b890786f",
+          "id": "4994eabe-61db-4c09-808d-5f552687dc80",
           "type": "stage",
           "label": "4.5-Advanced Question Set",
           "telemetry": {
-            "x": "66.68",
-            "y": "73.57",
+            "x": "68.44",
+            "y": "70.45",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            30,
             22
           ],
           "canBeStartStage": false,
@@ -8314,7 +8292,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الفرق بين المحكمات والمتشابهات في القرآن؟"
                   },
-                  "subContentId": "ad41b8d1-cb2e-443c-9749-235c224f264b"
+                  "subContentId": "26d11525-a2a1-428a-bb3e-08c0100416de"
                 },
                 {
                   "params": {
@@ -8415,7 +8393,7 @@
                     "changes": [],
                     "extraTitle": "لماذا لم يوضح الله معاني الحروف المقطعة بشكل مباشر؟"
                   },
-                  "subContentId": "aa831a86-657a-4f74-bdc9-04df14b21294"
+                  "subContentId": "2be6c30d-4152-429c-b25a-402f1432fc29"
                 },
                 {
                   "params": {
@@ -8516,7 +8494,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الموقف من العلماء الذين حاولوا تفسير الحروف المقطعة؟"
                   },
-                  "subContentId": "2789e051-c1a8-4efa-9efe-c685b8a67d69"
+                  "subContentId": "dc4b3126-0ded-41f2-ac1a-ef0949ea4153"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -8570,23 +8548,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "611ab6c4-3235-4d0e-8cdd-c500dddd6be7"
+            "subContentId": "32bee807-d63c-4e9e-965f-d19cc94e623c"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "85598794-984e-4d73-bc6d-3a8b382dbec1",
+          "id": "b362997f-88ad-4a9e-b753-d844feb41b94",
           "type": "stage",
           "label": "4.5-Advanced Question Set",
           "telemetry": {
-            "x": "67.19",
-            "y": "81.22",
+            "x": "60.78",
+            "y": "76.42",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            30,
             23
           ],
           "canBeStartStage": false,
@@ -8703,7 +8680,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الفرق بين القرآن والكتب السماوية السابقة؟"
                   },
-                  "subContentId": "0c7e27cd-a486-4cb8-b9ae-56d28e08c64b"
+                  "subContentId": "6e677d2b-dfb0-43c8-bcf2-08193d12cd2c"
                 },
                 {
                   "params": {
@@ -8804,7 +8781,7 @@
                     "changes": [],
                     "extraTitle": "ما هو المقصود بقوله تعالى: {واتل مَآ أُوْحِيَ إِلَيْكَ مِن كِتَابِ رَبِّكَ لاَ مُبَدِّلَ لِكَلِمَاتِهِ وَلَن تَجِدَ مِن دُونِهِ مُلْتَحَداً}؟"
                   },
-                  "subContentId": "b53c343b-74b6-4c92-afff-ba853d9503c4"
+                  "subContentId": "7dafde54-c2fa-43a1-ad0a-514f3517eecf"
                 },
                 {
                   "params": {
@@ -8905,7 +8882,7 @@
                     "changes": [],
                     "extraTitle": "ما هو المقصود بقوله تعالى: {المص كِتَابٌ أُنزِلَ إِلَيْكَ فَلاَ يَكُنْ فِي صَدْرِكَ حَرَجٌ مِّنْهُ لِتُنذِرَ بِهِ وذكرى لِلْمُؤْمِنِينَ}؟"
                   },
-                  "subContentId": "f4f8f652-0c9b-401f-9446-a07b586bd25d"
+                  "subContentId": "62fcb1ba-c4bb-445f-b1b6-5fd46320be5c"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -8959,23 +8936,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "b0ffe84f-86d6-4301-8cb9-c514d34a661d"
+            "subContentId": "e9821f9e-1b7c-4520-92d1-a8190622c053"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "93679c22-0a0e-4f0e-b73d-9083470d9c1d",
+          "id": "c6d3a4d9-e31d-40b5-8512-80c46fef6f8a",
           "type": "stage",
           "label": "4.5-Advanced Question Set",
           "telemetry": {
-            "x": "55.54",
-            "y": "76.81",
+            "x": "66.44",
+            "y": "79.64",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            30,
             24
           ],
           "canBeStartStage": false,
@@ -9092,7 +9068,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الإعجاز في قوله تعالى: {الر كِتَابٌ أُحْكِمَتْ آيَاتُهُ ثُمَّ فُصِّلَتْ مِن لَّدُنْ حَكِيمٍ خَبِيرٍ}؟"
                   },
-                  "subContentId": "5f5899a4-acc3-4cd5-89a8-2bd700921ffe"
+                  "subContentId": "6c0b978e-50c5-4165-a1c5-a5a81e79c126"
                 },
                 {
                   "params": {
@@ -9193,7 +9169,7 @@
                     "changes": [],
                     "extraTitle": "ما هو التفسير الصحيح لقوله تعالى: {الر تِلْكَ آيَاتُ الكتاب المبين}؟"
                   },
-                  "subContentId": "76e46f1c-fbc1-4d34-aa21-d55bb624dcbc"
+                  "subContentId": "737d18a2-d0ff-4de2-8015-78fb2a2408ec"
                 },
                 {
                   "params": {
@@ -9294,7 +9270,7 @@
                     "changes": [],
                     "extraTitle": "ما هو المعنى المقصود من قوله تعالى: {الر كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ الناس مِنَ الظلمات إِلَى النور}؟"
                   },
-                  "subContentId": "d4288cd2-d308-41b0-946b-c96e9e7f43cd"
+                  "subContentId": "a6097784-8858-437d-9c18-142907fd6852"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -9348,23 +9324,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "6548d683-a895-4304-b08b-9153e0b8dfd4"
+            "subContentId": "cd2e0d15-9f5a-4cc8-b4e9-ba9ef1fc8ea1"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "521c3541-91ec-4c02-b006-afd34e53088a",
+          "id": "0d8a41fd-711c-4265-ab42-b8020567f8ac",
           "type": "stage",
           "label": "4.5-Advanced Question Set",
           "telemetry": {
-            "x": "61.23",
-            "y": "77.53",
+            "x": "60.02",
+            "y": "71.29",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            30,
             25
           ],
           "canBeStartStage": false,
@@ -9481,7 +9456,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الفرق بين صفات الجلال وصفات الجمال لله حسب النص؟"
                   },
-                  "subContentId": "a684848b-6db4-47ef-b9a9-249510edda61"
+                  "subContentId": "5ee02fa5-cca5-454d-bb39-ec90a5711cd7"
                 },
                 {
                   "params": {
@@ -9582,7 +9557,7 @@
                     "changes": [],
                     "extraTitle": "ما هو سبب تجلي الجبار بالمغفرة في آخر ليلة من رمضان حسب النص؟"
                   },
-                  "subContentId": "419ffb42-3742-4010-8190-fb38278f4574"
+                  "subContentId": "3df8d82e-310d-4857-b516-c0257f745d96"
                 },
                 {
                   "params": {
@@ -9683,7 +9658,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الفرق بين هداية الدلالة وهداية المعونة حسب النص؟"
                   },
-                  "subContentId": "9668b5e8-4b6f-4570-b361-621502193b95"
+                  "subContentId": "b2812594-bebd-4ac3-af9a-73bb625cc802"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -9737,23 +9712,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "7b09b0cb-b444-47de-b829-2f91afb41bb0"
+            "subContentId": "38af6ddc-62e6-4cce-9c83-02b009a31d2e"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "959eb6c3-fb30-464a-9195-6e90f311fbe3",
+          "id": "ccacf773-a0e7-4ae7-b167-e003ee024c2d",
           "type": "stage",
           "label": "4.5-Advanced Question Set",
           "telemetry": {
-            "x": "56.18",
-            "y": "82.78",
+            "x": "69.23",
+            "y": "84.72",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            30,
             26
           ],
           "canBeStartStage": false,
@@ -9870,7 +9844,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الخطأ في القول بأن ما لا يدرك بالحواس البشرية الظاهرة هو غيب؟"
                   },
-                  "subContentId": "935f0f1a-3a01-4200-b7da-46e9607146e2"
+                  "subContentId": "61ebae6b-bccc-492d-8095-6e67fa51af28"
                 },
                 {
                   "params": {
@@ -9971,7 +9945,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الفرق بين الغيب والعلم المكتسب وفقًا للنص؟"
                   },
-                  "subContentId": "e8555c0a-cfbb-48b8-a0c3-3b70e0fe2752"
+                  "subContentId": "d1b2095f-0ff7-4e1e-addd-71a9f7f840ae"
                 },
                 {
                   "params": {
@@ -10072,7 +10046,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الخطأ في القول بأن العلماء الذين يكتشفون أسرار الكون قد أطلعوا على الغيب؟"
                   },
-                  "subContentId": "3204c78d-0a97-4dff-ad62-ac2e57dd004b"
+                  "subContentId": "1f2734b2-a968-4bce-a95c-5c7af9496c45"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -10126,23 +10100,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "824bb208-46de-4b8f-a325-caff9965f80b"
+            "subContentId": "b0f71c90-0d66-4b9c-ace0-8d7e83c86630"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "66287349-e7e9-426c-aeab-348cada04bec",
+          "id": "52ee15c9-189d-4d22-8e7f-82127ab0f4c7",
           "type": "stage",
           "label": "4.5-Advanced Question Set",
           "telemetry": {
-            "x": "65.72",
-            "y": "84.52",
+            "x": "55.13",
+            "y": "75.30",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            30,
             27
           ],
           "canBeStartStage": false,
@@ -10259,7 +10232,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الفرق بين وجود الشيء وإدراك وجوده؟"
                   },
-                  "subContentId": "82db92be-10c2-432e-a4fe-daea4e9f13fd"
+                  "subContentId": "96f9ccea-5ee6-4c7f-a803-2881936822ba"
                 },
                 {
                   "params": {
@@ -10360,7 +10333,7 @@
                     "changes": [],
                     "extraTitle": "ما الذي يدل على أن الرسل لا يعلمون الغيب؟"
                   },
-                  "subContentId": "58e7a398-1de2-4477-beb1-9c3eab41b9ba"
+                  "subContentId": "fffcc9ae-6e22-44d7-b95c-b72b49a17d39"
                 },
                 {
                   "params": {
@@ -10461,7 +10434,7 @@
                     "changes": [],
                     "extraTitle": "ما الذي يدل على أن الكون لم يوجد بالصدفة؟"
                   },
-                  "subContentId": "00fc8b17-6af2-4a10-b969-7cdb2b59d8e5"
+                  "subContentId": "4aff8ac2-c4fa-4710-859e-09c2c10ead8b"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -10515,23 +10488,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "bfd3d555-41f2-4cea-beaf-419afcf15e38"
+            "subContentId": "2ed2ef4b-f389-4ecc-9ee3-f802cbe88924"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "dd688628-b93d-421e-80c0-7f2cf7cda868",
+          "id": "9ef8d6e4-46f3-4342-b6b0-071594f213c6",
           "type": "stage",
           "label": "4.5-Advanced Question Set",
           "telemetry": {
-            "x": "63.57",
-            "y": "77.35",
+            "x": "55.05",
+            "y": "84.90",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            30,
             28
           ],
           "canBeStartStage": false,
@@ -10648,7 +10620,7 @@
                     "changes": [],
                     "extraTitle": "ما هو التفسير الصحيح لقول الله تعالى: {وَإِنَّآ أَوْ إِيَّاكُمْ لعلى هُدًى أَوْ فِي ضَلاَلٍ مُّبِينٍ}؟"
                   },
-                  "subContentId": "6de44bb5-3e69-471a-9d52-93ff57d7bb18"
+                  "subContentId": "d72f906e-2b44-43ec-b850-8dfb303f82c8"
                 },
                 {
                   "params": {
@@ -10749,7 +10721,7 @@
                     "changes": [],
                     "extraTitle": "ما هو المعنى الذي تشير إليه كلمة {في} في قول الله تعالى: {في ضَلاَلٍ مُّبِينٍ}؟"
                   },
-                  "subContentId": "a721e27a-7aca-4526-b0df-97064b949664"
+                  "subContentId": "251e974b-64e1-42e5-a44f-02677f43e7ea"
                 },
                 {
                   "params": {
@@ -10850,7 +10822,7 @@
                     "changes": [],
                     "extraTitle": "ما هو المعنى الذي تشير إليه الآية الكريمة: {بلى مَن كَسَبَ سَيِّئَةً وَأَحَاطَتْ بِهِ خطيائته فأولئك أَصْحَابُ النار هُمْ فِيهَا خَالِدُونَ}؟"
                   },
-                  "subContentId": "2e3b7f91-6bf5-40bd-8dfb-8ee2a76cc6c8"
+                  "subContentId": "0325d54e-a901-4e22-980e-1c3711f5e271"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -10904,23 +10876,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "e7b1fa97-ea2e-45c1-b52c-385df4d25bd7"
+            "subContentId": "df7aba55-21fa-4065-9f30-e8b9d72c7d97"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "a3122d83-84d3-4252-8017-f30a4c572b04",
+          "id": "5646dc29-12a3-478b-b3d3-bfdef8c57e67",
           "type": "stage",
           "label": "4.5-Advanced Question Set",
           "telemetry": {
-            "x": "67.14",
-            "y": "82.35",
+            "x": "69.43",
+            "y": "73.63",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            30,
             29
           ],
           "canBeStartStage": false,
@@ -11037,7 +11008,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الدليل على أن الكفر طارئ على الوجود؟"
                   },
-                  "subContentId": "f2e6721b-34b2-4de1-a0dd-5add13422312"
+                  "subContentId": "d5b40f70-03af-4edc-b6fc-f6a76e69c79c"
                 },
                 {
                   "params": {
@@ -11138,7 +11109,7 @@
                     "changes": [],
                     "extraTitle": "كيف يمكن أن نستدل على وجود الله من خلال عملية الزراعة؟"
                   },
-                  "subContentId": "a9965a13-fef9-438f-984a-2e3153a50957"
+                  "subContentId": "ad3d8bbe-9d1e-49a8-baf1-9dba56a39f34"
                 },
                 {
                   "params": {
@@ -11239,7 +11210,7 @@
                     "changes": [],
                     "extraTitle": "ما هو سبب تسمية الكافرين بـ 'المستفيدين من الكفر'؟"
                   },
-                  "subContentId": "268f3672-dcbe-4dd6-a62e-91026e29e912"
+                  "subContentId": "9e14a1a9-6620-493a-9c18-38733bae353b"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -11293,23 +11264,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "4cc6a979-0122-4eb3-96d2-9c1323e8973b"
+            "subContentId": "e3231f8f-93e7-4c83-acf4-1530e5df52f4"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "6830f08a-a613-4134-a47d-5df944918397",
+          "id": "eee24729-604a-470d-8b47-137c1945296b",
           "type": "stage",
           "label": "4.5-Advanced Question Set",
           "telemetry": {
-            "x": "61.57",
-            "y": "73.02",
+            "x": "61.39",
+            "y": "81.46",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            30,
             30
           ],
           "canBeStartStage": false,
@@ -11426,7 +11396,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟"
                   },
-                  "subContentId": "ac28c0cb-ac6d-4634-be92-4ef297142705"
+                  "subContentId": "537a1e64-1509-4679-9c8f-2f32eabb46f8"
                 },
                 {
                   "params": {
@@ -11527,7 +11497,7 @@
                     "changes": [],
                     "extraTitle": "ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟"
                   },
-                  "subContentId": "751bd586-df5e-4d8e-8432-2b2dca68766c"
+                  "subContentId": "3cdb1551-b693-49d9-928b-89760265cce6"
                 },
                 {
                   "params": {
@@ -11628,7 +11598,7 @@
                     "changes": [],
                     "extraTitle": "ما هو معنى 'الختم على القلب' كما ورد في النص؟"
                   },
-                  "subContentId": "aad5c721-a124-4a1d-8fff-b5856772cd12"
+                  "subContentId": "518f691f-aa85-4f5e-8b72-7e599de85331"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -11682,23 +11652,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "dea39ac4-429f-486d-8091-a136b264b264"
+            "subContentId": "74aa2b49-48bb-49db-917f-c430cc882e45"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "d58c99f8-0577-4411-8fa2-89362c2add13",
+          "id": "0a55a683-f307-4977-b4e2-30112bfc5296",
           "type": "stage",
           "label": "6-Scenario-based Question Set",
           "telemetry": {
-            "x": "89.86",
-            "y": "47.43",
+            "x": "88.88",
+            "y": "51.22",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            40,
             31
           ],
           "canBeStartStage": false,
@@ -11815,7 +11784,7 @@
                     "changes": [],
                     "extraTitle": "إذا قال شخص إن الحروف المقطعة في القرآن لا معنى لها لأنها غير مفهومة، كيف ترد عليه؟"
                   },
-                  "subContentId": "53dd287c-55db-447f-8015-5fee9f5f721c"
+                  "subContentId": "49e93eaa-32d7-4452-8fe2-366a8cded5a3"
                 },
                 {
                   "params": {
@@ -11916,7 +11885,7 @@
                     "changes": [],
                     "extraTitle": "إذا أراد شخص تعلم قراءة القرآن دون الاستماع إلى قارئ، ما النصيحة التي تقدمها له بناءً على فهم الحروف المقطعة؟"
                   },
-                  "subContentId": "c4076001-e26d-4d21-9593-9a2a04a14d9f"
+                  "subContentId": "d117a044-6e3d-42bd-acec-11ec8d0f5f26"
                 },
                 {
                   "params": {
@@ -12017,7 +11986,7 @@
                     "changes": [],
                     "extraTitle": "إذا قال شخص إن الحروف المقطعة تشبه كلمات السر التي لا معنى لها، كيف ترد عليه؟"
                   },
-                  "subContentId": "1127dc56-3829-4ae2-931d-b779102be4fa"
+                  "subContentId": "50956579-476d-41f4-a996-979f8e3c3bb3"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -12071,23 +12040,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "f20109c1-dd5e-49c5-8c00-2a1fe10b82a1"
+            "subContentId": "c05e0e27-4098-4d3a-b560-f5f4a783f5d8"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "77551368-f6a5-4872-b92c-c3f29150cd76",
+          "id": "a766699a-f062-4e8b-ac48-458540c26369",
           "type": "stage",
           "label": "6-Scenario-based Question Set",
           "telemetry": {
-            "x": "85.28",
-            "y": "55.06",
+            "x": "77.20",
+            "y": "52.22",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            40,
             32
           ],
           "canBeStartStage": false,
@@ -12204,7 +12172,7 @@
                     "changes": [],
                     "extraTitle": "إذا سألك شخص عن معنى الحروف المقطعة في القرآن ولم تجد تفسيرًا واضحًا، ما هو الرد الصحيح؟"
                   },
-                  "subContentId": "f6bc18a3-8aaa-4f30-81fe-3aaa3f388518"
+                  "subContentId": "0ebece8d-8398-41d3-9e21-bb63e8d1b3ce"
                 },
                 {
                   "params": {
@@ -12305,7 +12273,7 @@
                     "changes": [],
                     "extraTitle": "شخص يقول إنه لا يستفيد من قراءة القرآن لأنه لا يفهم الحروف المقطعة، كيف ترد عليه؟"
                   },
-                  "subContentId": "01e8f4df-d291-457c-9693-774d768efc5f"
+                  "subContentId": "543a5eb1-cb04-4f09-9af7-b6742bcd2aff"
                 },
                 {
                   "params": {
@@ -12406,7 +12374,7 @@
                     "changes": [],
                     "extraTitle": "إذا طلب منك شخص تفسيرًا لآية متشابهة ولم تجد تفسيرًا واضحًا، ما هو الرد الصحيح؟"
                   },
-                  "subContentId": "59b59603-caab-4e6c-b3d4-52e3969f0452"
+                  "subContentId": "f5e927c5-bceb-467f-9d48-3786603d65ac"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -12460,23 +12428,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "a155098f-7dd5-406a-8549-c61d98d8be15"
+            "subContentId": "4a0bfcaf-d559-4060-8ba8-352906d1b8c4"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "5554d5b9-12f2-4383-9ba6-80d7b188a144",
+          "id": "1313256b-d1b0-41a9-b4ba-47cc673ab45c",
           "type": "stage",
           "label": "6-Scenario-based Question Set",
           "telemetry": {
-            "x": "78.89",
-            "y": "35.84",
+            "x": "87.13",
+            "y": "43.91",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            40,
             33
           ],
           "canBeStartStage": false,
@@ -12593,7 +12560,7 @@
                     "changes": [],
                     "extraTitle": "إذا قال شخص إنه لا يؤمن بالقرآن لأنه نزل على بشر، فما هو الرد الصحيح؟"
                   },
-                  "subContentId": "ab92bb6c-6540-4d47-8341-d8db223bd2b7"
+                  "subContentId": "481bf100-4c26-473a-a0f7-f584f43f6c48"
                 },
                 {
                   "params": {
@@ -12694,7 +12661,7 @@
                     "changes": [],
                     "extraTitle": "إذا قال شخص إنه لا يؤمن بالقرآن لأنه يحتوي على قصص الأنبياء، فما هو الرد الصحيح؟"
                   },
-                  "subContentId": "e5cd86b3-8086-493b-a3db-8d8ad12d88a3"
+                  "subContentId": "7e81b95e-5797-4630-9ab6-89d93b3b2314"
                 },
                 {
                   "params": {
@@ -12795,7 +12762,7 @@
                     "changes": [],
                     "extraTitle": "إذا قال شخص إنه لا يؤمن بالقرآن لأنه مكتوب باللغة العربية، فما هو الرد الصحيح؟"
                   },
-                  "subContentId": "40d9ef45-25b1-4c70-8d31-83a5a131b5d0"
+                  "subContentId": "db8e17cd-b02a-4269-a159-10a97a6b9919"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -12849,23 +12816,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "00fd4d4f-e0de-45c0-9774-6544fe9cb5ca"
+            "subContentId": "73f36a4d-2f56-4999-a25b-ee139397ace9"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "90bc69ba-ec2b-44e9-9e9a-c4c65d3e0edc",
+          "id": "d5b04888-4373-48d9-b8c7-e82df086b573",
           "type": "stage",
           "label": "6-Scenario-based Question Set",
           "telemetry": {
-            "x": "80.36",
-            "y": "26.08",
+            "x": "79.58",
+            "y": "43.12",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            40,
             34
           ],
           "canBeStartStage": false,
@@ -12982,7 +12948,7 @@
                     "changes": [],
                     "extraTitle": "إذا قال شخص إنه يؤمن بالله ولكن لا يرى ضرورة لاتباع القرآن، كيف ترد عليه بناءً على الآيات؟"
                   },
-                  "subContentId": "fd567db7-d390-4a66-a590-a68b55e4b5f7"
+                  "subContentId": "71cab272-2e45-46cf-afe3-0bef43e13c80"
                 },
                 {
                   "params": {
@@ -13083,7 +13049,7 @@
                     "changes": [],
                     "extraTitle": "إذا رأى شخص آيات الكون مثل الشمس والقمر وقال إنها مجرد ظواهر طبيعية، كيف ترد عليه بناءً على الآيات؟"
                   },
-                  "subContentId": "5a8b44a2-1487-4a24-b878-058c9bd1ffc3"
+                  "subContentId": "17da264d-40de-414a-8276-ca66ec570f12"
                 },
                 {
                   "params": {
@@ -13184,7 +13150,7 @@
                     "changes": [],
                     "extraTitle": "إذا قال شخص إن قصص الأنبياء في القرآن لا تنطبق على واقعنا اليوم، كيف ترد عليه؟"
                   },
-                  "subContentId": "2861a188-5cc4-4d21-b7b5-748411f9b59d"
+                  "subContentId": "966a7909-d069-4634-9217-33fbb0563368"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -13238,23 +13204,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "fd89ec07-4df0-4d0a-864e-9de85260170e"
+            "subContentId": "88c32592-21e9-43e9-80ea-f69cc506ed11"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "954c1089-14d6-4b89-9015-d134da5f8d45",
+          "id": "6bb7522f-4001-498c-98ca-7d04c7dfc3b2",
           "type": "stage",
           "label": "6-Scenario-based Question Set",
           "telemetry": {
-            "x": "80.72",
-            "y": "58.41",
+            "x": "85.13",
+            "y": "56.24",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            40,
             35
           ],
           "canBeStartStage": false,
@@ -13371,7 +13336,7 @@
                     "changes": [],
                     "extraTitle": "شخص يريد أن يحقق السعادة في حياته ولكنه لا يعرف الطريق الصحيح. ما هو النصيحة التي يمكن أن تقدمها له بناءً على النص؟"
                   },
-                  "subContentId": "0671e0a6-aca1-4636-b04a-e18ba355b4cb"
+                  "subContentId": "fedc63fa-45d0-4287-8d98-699ee3043f91"
                 },
                 {
                   "params": {
@@ -13472,7 +13437,7 @@
                     "changes": [],
                     "extraTitle": "شخص يعتقد أن بإمكانه تحقيق السعادة من خلال اتباع قوانين البشر. ما هو الرد الصحيح بناءً على النص؟"
                   },
-                  "subContentId": "331ba124-02ad-4317-9552-9c0910ac3af5"
+                  "subContentId": "d6acea16-2762-4548-ba84-9d35b0058d17"
                 },
                 {
                   "params": {
@@ -13573,7 +13538,7 @@
                     "changes": [],
                     "extraTitle": "شخص يريد أن يتقي عذاب الله وغضبه. ما هو الطريق الذي يجب أن يتبعه حسب النص؟"
                   },
-                  "subContentId": "3c09280c-cb86-4b8a-bad8-1a771aa9262c"
+                  "subContentId": "9caf4d6a-9e64-4377-b3c5-8e38b6398278"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -13627,23 +13592,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "9db1fdf1-34a7-482f-b358-bb3f35e34452"
+            "subContentId": "f88769dd-65b9-4971-bd20-ddf5a1aec6f8"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "c292d156-6600-4752-ae99-a3daae969f6d",
+          "id": "c32c88cf-4a62-480a-905f-9f78e052e3b0",
           "type": "stage",
           "label": "6-Scenario-based Question Set",
           "telemetry": {
-            "x": "77.86",
-            "y": "30.56",
+            "x": "83.57",
+            "y": "38.36",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            40,
             36
           ],
           "canBeStartStage": false,
@@ -13760,7 +13724,7 @@
                     "changes": [],
                     "extraTitle": "إذا قال شخص إنه يعلم الغيب لأنه توقع نتيجة تجربة علمية بناءً على مقدمات، كيف ترد عليه؟"
                   },
-                  "subContentId": "9a764a22-ff23-4efa-8f48-b45ed52698e3"
+                  "subContentId": "1e886edb-a0c2-42f2-a17b-8d3d766025b3"
                 },
                 {
                   "params": {
@@ -13861,7 +13825,7 @@
                     "changes": [],
                     "extraTitle": "إذا ادعى شخص أنه يعلم الغيب لأنه توقع نتيجة تجربة علمية بناءً على مقدمات، كيف ترد عليه؟"
                   },
-                  "subContentId": "5fe22c9c-374c-44a6-a589-04a67cbe778c"
+                  "subContentId": "e5d7e886-f8bf-42a4-ac67-4d547c0c1cdd"
                 },
                 {
                   "params": {
@@ -13962,7 +13926,7 @@
                     "changes": [],
                     "extraTitle": "إذا قال شخص إنه يعلم الغيب لأنه توقع نتيجة تجربة علمية بناءً على مقدمات، كيف ترد عليه؟"
                   },
-                  "subContentId": "f039ad46-1d84-48b1-91ef-f0ac5af988f9"
+                  "subContentId": "05eed2e3-52a6-4ce4-bdcb-81e56240c19f"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -14016,23 +13980,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "7db9cdf0-0394-4049-972a-a686f221b294"
+            "subContentId": "e8683fe2-ba5e-47f0-b003-6e88676947aa"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "ce2363c9-fd1f-4f38-bf4c-68c292de1057",
+          "id": "1535ac29-e2fe-481c-be86-dfecb4f8bcdb",
           "type": "stage",
           "label": "6-Scenario-based Question Set",
           "telemetry": {
-            "x": "83.09",
-            "y": "40.10",
+            "x": "87.60",
+            "y": "32.95",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            40,
             37
           ],
           "canBeStartStage": false,
@@ -14149,7 +14112,7 @@
                     "changes": [],
                     "extraTitle": "إذا قال شخص إنه لا يؤمن بالملائكة لأنه لم يرهم، كيف ترد عليه؟"
                   },
-                  "subContentId": "b9edc4f4-dfcd-46c3-bd4e-678fc0f94ece"
+                  "subContentId": "76d85dcc-5b9f-4de5-9ae0-4bacd241f0af"
                 },
                 {
                   "params": {
@@ -14250,7 +14213,7 @@
                     "changes": [],
                     "extraTitle": "إذا قال شخص إنه لا يؤمن باليوم الآخر لأنه لم يره، كيف ترد عليه؟"
                   },
-                  "subContentId": "55b0a0c7-7e8d-4eb5-af46-fd8e03c5103d"
+                  "subContentId": "8892e1c9-7c03-45f8-9db5-322702665815"
                 },
                 {
                   "params": {
@@ -14351,7 +14314,7 @@
                     "changes": [],
                     "extraTitle": "إذا قال شخص إنه لا يؤمن بالله لأنه لم يره، كيف ترد عليه؟"
                   },
-                  "subContentId": "c21b81b0-76d7-4fe4-96b3-1877574359f8"
+                  "subContentId": "e4459a50-535a-40d5-aa3a-599af0229b98"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -14405,23 +14368,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "83e3cee4-5786-47bf-a9ff-6e843ee20baa"
+            "subContentId": "b19a41d6-1530-4f5d-bfb7-86d44b5afd65"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "b51057d6-a8e6-4865-853d-d4fac8504d75",
+          "id": "f31ba1f2-29ab-4e34-a85e-d622e47fc08f",
           "type": "stage",
           "label": "6-Scenario-based Question Set",
           "telemetry": {
-            "x": "84.28",
-            "y": "21.35",
+            "x": "88.07",
+            "y": "25.07",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            40,
             38
           ],
           "canBeStartStage": false,
@@ -14538,7 +14500,7 @@
                     "changes": [],
                     "extraTitle": "شخص يعتقد أن الالتزام بالمنهج الإسلامي يقيد حريته في الحياة. كيف ترد عليه بناءً على الآية: {على هُدًى}؟"
                   },
-                  "subContentId": "cd749966-8aa0-4ba3-8491-63b45b2879a9"
+                  "subContentId": "ec70c526-8144-4435-bbbf-60acce2636de"
                 },
                 {
                   "params": {
@@ -14639,7 +14601,7 @@
                     "changes": [],
                     "extraTitle": "شخص يقول إن الإيمان بالله يكفي دون الالتزام بالعبادات. كيف ترد عليه بناءً على الآية: {وبالآخرة هُمْ يُوقِنُونَ}؟"
                   },
-                  "subContentId": "25355199-94ca-4577-9103-b5d5d8882712"
+                  "subContentId": "9dc21439-e9c2-44da-8b79-8d9ea6715efc"
                 },
                 {
                   "params": {
@@ -14740,7 +14702,7 @@
                     "changes": [],
                     "extraTitle": "شخص يعتقد أن الضلال يرفع الإنسان. كيف ترد عليه بناءً على الآية: {في ضَلاَلٍ مُّبِينٍ}؟"
                   },
-                  "subContentId": "ad9d3717-6d6d-4d0b-b87b-0714c88497a9"
+                  "subContentId": "f3e9fb97-1a98-4740-893c-8d0d9e267bf4"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -14794,23 +14756,22 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "7f85e7ab-d46a-49a5-a5f7-ea9b43a73c71"
+            "subContentId": "c09cb7d6-256a-4bd3-bbf0-55c9e51e67d3"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "938f80e7-439b-422f-ac69-4f11a537d679",
+          "id": "43f271ae-a85a-412b-8699-c8078889992d",
           "type": "stage",
           "label": "6-Scenario-based Question Set",
           "telemetry": {
-            "x": "89.57",
-            "y": "25.03",
+            "x": "79.68",
+            "y": "58.37",
             "width": "4",
             "height": "4"
           },
           "neighbors": [
-            40,
             39
           ],
           "canBeStartStage": false,
@@ -14927,7 +14888,7 @@
                     "changes": [],
                     "extraTitle": "إذا رأيت شخصًا يعتقد أن نجاح الزراعة يعود فقط إلى جهده، كيف ترد عليه بناءً على النص القرآني؟"
                   },
-                  "subContentId": "93d26648-79ac-4d7b-962d-5e4f6220e25b"
+                  "subContentId": "3a7dadb6-8742-49c8-af39-ab9c5ff62ead"
                 },
                 {
                   "params": {
@@ -15028,7 +14989,7 @@
                     "changes": [],
                     "extraTitle": "شخص يعتقد أن الكفر لا يؤثر على المجتمع لأنه مسألة شخصية. كيف ترد عليه؟"
                   },
-                  "subContentId": "43edeeac-125b-4896-80ae-b51f2fb11b15"
+                  "subContentId": "8df54add-f893-47e0-aca9-2a91cff28b52"
                 },
                 {
                   "params": {
@@ -15129,7 +15090,7 @@
                     "changes": [],
                     "extraTitle": "إذا رأيت شخصًا يستخدم الزراعة كدليل على عدم وجود الله، كيف ترد عليه؟"
                   },
-                  "subContentId": "3cfec17b-af26-42b3-9f20-0a88efd8af8d"
+                  "subContentId": "d0fd78b9-5882-42d5-b69b-f36093022986"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -15183,18 +15144,18 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "7abe7532-6c34-493b-abd6-751177a3b75b"
+            "subContentId": "14849c0d-bbba-4b6f-9558-54933aa1c77b"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
         },
         {
-          "id": "575d0d79-1a7f-420c-bb02-003ecc766a53",
+          "id": "b2091b68-a01b-4540-8f4f-8afd8958b970",
           "type": "stage",
           "label": "6-Scenario-based Question Set",
           "telemetry": {
-            "x": "84.33",
-            "y": "48.05",
+            "x": "90.00",
+            "y": "38.10",
             "width": "4",
             "height": "4"
           },
@@ -15313,7 +15274,7 @@
                     "changes": [],
                     "extraTitle": "إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟"
                   },
-                  "subContentId": "96d1eab9-50a9-40bd-a1d4-3f5d1bdee51a"
+                  "subContentId": "cfa3ede3-ecb4-40f2-9a7a-040fc06bbbcf"
                 },
                 {
                   "params": {
@@ -15414,7 +15375,7 @@
                     "changes": [],
                     "extraTitle": "شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟"
                   },
-                  "subContentId": "eb3b1066-61d6-4885-8c59-64940fa5b373"
+                  "subContentId": "080dae73-f072-4887-a0ad-6ade08071fd3"
                 },
                 {
                   "params": {
@@ -15515,7 +15476,7 @@
                     "changes": [],
                     "extraTitle": "إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟"
                   },
-                  "subContentId": "e893bdc0-6465-4702-915d-48d193746e3e"
+                  "subContentId": "595b9275-19c4-4c85-9995-99440219e379"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -15569,7 +15530,7 @@
               "authors": [],
               "changes": []
             },
-            "subContentId": "b6f17483-cafb-46f9-b5fa-fad374a8f51c"
+            "subContentId": "75713781-1939-4596-85c7-427f741f8d08"
           },
           "specialStageExtraLives": 1,
           "specialStageExtraTime": 1
