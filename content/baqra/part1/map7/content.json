@@ -57,40 +57,40 @@
                     },
                     "answers": [
                       {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الآية تشير إلى الطغيان وليس التواضع.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أن الإنسان يتواضع عندما يشعر بالغنى.</p>"
-                      },
-                      {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الآية تشير إلى أن الإنسان يطغى عندما يرى نفسه مستغنيًا عن الله.</p>",
+                          "chosenFeedback": "<p>صحيح! الآية تشير إلى أن أهل الكتاب كانوا ينتظرون الرسالة الجديدة ولكنهم كفروا بها عندما جاءت.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الإنسان يطغى عندما يرى نفسه مستغنيًا عن الله.</p>"
+                        "text": "<p>أن أهل الكتاب كانوا ينتظرون رسالة جديدة ولكنهم كفروا بها عندما جاءت.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الآية تتحدث عن الطغيان وليس زيادة الإيمان.</p>",
+                          "chosenFeedback": "<p>القرآن الكريم جاء مصدقًا لما في التوراة والإنجيل، وليس ليكذبها.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الإنسان يزداد إيمانه عندما يستغني عن الدنيا.</p>"
+                        "text": "<p>أن القرآن الكريم جاء ليكذب ما في التوراة والإنجيل.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الآية تشير إلى تأثير الغنى على الإنسان.</p>",
+                          "chosenFeedback": "<p>أهل الكتاب كانوا يعرفون بوجود رسالة جديدة من كتبهم.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الإنسان لا يتأثر بالغنى أو الفقر.</p>"
+                        "text": "<p>أن أهل الكتاب كانوا يجهلون تمامًا بوجود رسالة جديدة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الله سبحانه وتعالى أرسل الرسالة الخاتمة مع النبي محمد صلى الله عليه وسلم.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن الله سبحانه وتعالى لم يرسل رسالة بعد التوراة والإنجيل.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -138,18 +138,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟</p>"
+                    "question": "<p>ما هو المعنى الذي تشير إليه الآية الكريمة: {وَلَمَّا جَآءَهُمْ كِتَابٌ مِّنْ عِندِ الله مُصَدِّقٌ لِّمَا مَعَهُمْ وَكَانُواْ مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى الذين كَفَرُواْ فَلَمَّا جَآءَهُمْ مَّا عَرَفُواْ كَفَرُواْ بِهِ فَلَعْنَةُ الله عَلَى الكافرين}؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟",
+                    "title": "ما هو المعنى الذي تشير إليه الآية الكريمة: {وَلَمَّا جَآءَهُمْ كِتَابٌ مِّنْ عِندِ الله مُصَدِّقٌ لِّمَا مَعَهُمْ وَكَانُواْ مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى الذين كَفَرُواْ فَلَمَّا جَآءَهُمْ مَّا عَرَفُواْ كَفَرُواْ بِهِ فَلَعْنَةُ الله عَلَى الكافرين}؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟"
+                    "extraTitle": "ما هو المعنى الذي تشير إليه الآية الكريمة: {وَلَمَّا جَآءَهُمْ كِتَابٌ مِّنْ عِندِ الله مُصَدِّقٌ لِّمَا مَعَهُمْ وَكَانُواْ مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى الذين كَفَرُواْ فَلَمَّا جَآءَهُمْ مَّا عَرَفُواْ كَفَرُواْ بِهِ فَلَعْنَةُ الله عَلَى الكافرين}؟"
                   },
-                  "subContentId": "0013e78f-39d5-431e-9f06-7e002617eb8c"
+                  "subContentId": "c71e30b1-ca87-457b-8c79-24cdb28500cd"
                 },
                 {
                   "params": {
@@ -161,37 +161,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الفهم وحده لا يكفي لإخضاع الكون.</p>",
+                          "chosenFeedback": "<p>الإيمان باليوم الآخر ضروري ليكون الإيمان كاملاً.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>قدرته على فهم قوانين الكون.</p>"
+                        "text": "<p>أن الإيمان باليوم الآخر ليس ضروريًا للإيمان بالله.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الأشياء تستجيب للإنسان وفقًا لقوانين وضعها الله.</p>",
+                          "chosenFeedback": "<p>صحيح! الإيمان باليوم الآخر هو جزء أساسي من الإيمان الكامل.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>استجابة الأشياء له وفقًا لقوانين وضعها الله.</p>"
+                        "text": "<p>أن الإيمان باليوم الآخر هو جزء أساسي من الإيمان الكامل.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>القوة الجسدية والعقلية ليست السبب.</p>",
+                          "chosenFeedback": "<p>اليوم الآخر مذكور في القرآن الكريم وليس فقط في التوراة.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>قوته الجسدية والعقلية.</p>"
+                        "text": "<p>أن اليوم الآخر مذكور فقط في التوراة.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الظن بإخضاع الكون لا يرتبط بعدم الإيمان.</p>",
+                          "chosenFeedback": "<p>الإيمان باليوم الآخر مطلوب من جميع المؤمنين وليس فقط الأنبياء.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>عدم إيمانه بوجود الله.</p>"
+                        "text": "<p>أن الإيمان باليوم الآخر يقتصر على الأنبياء فقط.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -239,18 +239,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟</p>"
+                    "question": "<p>ما الذي أكده الله سبحانه وتعالى في القرآن الكريم بخصوص الإيمان باليوم الآخر؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟",
+                    "title": "ما الذي أكده الله سبحانه وتعالى في القرآن الكريم بخصوص الإيمان باليوم الآخر؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟"
+                    "extraTitle": "ما الذي أكده الله سبحانه وتعالى في القرآن الكريم بخصوص الإيمان باليوم الآخر؟"
                   },
-                  "subContentId": "b19d6b27-e769-4ebf-b410-bfe2778933db"
+                  "subContentId": "307bc068-8815-4969-a90f-3aa5fd55a504"
                 },
                 {
                   "params": {
@@ -262,37 +262,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الأشياء لا تعتمد على الإنسان في وجودها.</p>",
+                          "chosenFeedback": "<p>الفلاح يشمل الفوز بالآخرة أيضًا.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الأشياء تعتمد على الإنسان في وجودها.</p>"
+                        "text": "<p>الفلاح هو الفوز بالدنيا فقط.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الفلاح يشمل الفوز بالدنيا أيضًا.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الفلاح هو الفوز بالآخرة فقط.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! ذاتية الأشياء تعني وجودها المستقل الذي لا يتغير.</p>",
+                          "chosenFeedback": "<p>صحيح! الفلاح هو الفوز بالدنيا والآخرة.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الأشياء لها وجود مستقل لا يتغير.</p>"
+                        "text": "<p>الفلاح هو الفوز بالدنيا والآخرة.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الأشياء لا تتغير وفقًا لإرادة الإنسان.</p>",
+                          "chosenFeedback": "<p>الفلاح ليس مقتصرًا على المال والجاه.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الأشياء تتغير وفقًا لإرادة الإنسان.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الأشياء تحتاج إلى خالق.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أن الأشياء لا تحتاج إلى خالق.</p>"
+                        "text": "<p>الفلاح هو الفوز بالمال والجاه.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -340,18 +340,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟</p>"
+                    "question": "<p>ما هو الفلاح الذي ذكره الله سبحانه وتعالى في الآية: {أولئك على هُدًى مِّن رَّبِّهِمْ وأولئك هُمُ المفلحون}؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟",
+                    "title": "ما هو الفلاح الذي ذكره الله سبحانه وتعالى في الآية: {أولئك على هُدًى مِّن رَّبِّهِمْ وأولئك هُمُ المفلحون}؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟"
+                    "extraTitle": "ما هو الفلاح الذي ذكره الله سبحانه وتعالى في الآية: {أولئك على هُدًى مِّن رَّبِّهِمْ وأولئك هُمُ المفلحون}؟"
                   },
-                  "subContentId": "9fc37e9a-87d5-46be-9aa5-91b8d733fb53"
+                  "subContentId": "8ce519bc-56eb-433a-977c-7d5ed875256e"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -451,40 +451,40 @@
                     },
                     "answers": [
                       {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يسيطر على قوانين الكون.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>لأنه يسيطر على قوانين الكون.</p>"
-                      },
-                      {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الأشياء تستجيب للإنسان وفقًا لقوانين وضعها الله.</p>",
+                          "chosenFeedback": "<p>صحيح! استخدام {أولئك} مرتين يؤكد أن الهدى والفلاح مرتبطان ارتباطًا وثيقًا.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأن الأشياء تستجيب له وفقًا لقوانين وضعها الله.</p>"
+                        "text": "<p>لتأكيد أن الهدى والفلاح مرتبطان ارتباطًا وثيقًا.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الاعتقاد بالقدرة على إخضاع الكون لا يرتبط بعدم الإيمان.</p>",
+                          "chosenFeedback": "<p>الكلمتان تشيران إلى الهدى والفلاح وليس إلى الضلال.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنه لا يؤمن بوجود الله.</p>"
+                        "text": "<p>لأن الكلمة الأولى تشير إلى الهدى والثانية إلى الضلال.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يمتلك قوة خارقة.</p>",
+                          "chosenFeedback": "<p>التكرار في القرآن له معنى ودلالة وليس عبثيًا.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنه يمتلك قوة خارقة.</p>"
+                        "text": "<p>لأن الله سبحانه وتعالى أراد التكرار فقط.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الكلمتان تشيران إلى المؤمنين وليس إلى الكافرين.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأن الكلمة الأولى تشير إلى المؤمنين والثانية إلى الكافرين.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -532,119 +532,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟</p>"
+                    "question": "<p>لماذا استخدم الله سبحانه وتعالى كلمة {أولئك} مرتين في الآية: {أولئك على هُدًى مِّن رَّبِّهِمْ وأولئك هُمُ المفلحون}؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟",
+                    "title": "لماذا استخدم الله سبحانه وتعالى كلمة {أولئك} مرتين في الآية: {أولئك على هُدًى مِّن رَّبِّهِمْ وأولئك هُمُ المفلحون}؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟"
+                    "extraTitle": "لماذا استخدم الله سبحانه وتعالى كلمة {أولئك} مرتين في الآية: {أولئك على هُدًى مِّن رَّبِّهِمْ وأولئك هُمُ المفلحون}؟"
                   },
-                  "subContentId": "189dd0af-3191-4222-8711-489472c0c1e6"
-                },
-                {
-                  "params": {
-                    "media": {
-                      "disableImageZooming": false
-                    },
-                    "answers": [
-                      {
-                        "correct": true,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>صحيح! الإنسان يحتاج إلى الآخرين في مراحل حياته المختلفة.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أنه يحتاج إلى الآخرين في طفولته وشيخوخته.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يستطيع التحكم في كل شيء حوله.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أنه يستطيع التحكم في كل شيء حوله.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الإنسان يتأثر بالمرض والشيخوخة.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أنه لا يتأثر بالمرض أو الشيخوخة.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الإنسان يحتاج إلى الله في كل شيء.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أنه يعيش دون حاجة إلى الله.</p>"
-                      }
-                    ],
-                    "overallFeedback": [
-                      {
-                        "from": 0,
-                        "to": 100
-                      }
-                    ],
-                    "behaviour": {
-                      "enableRetry": true,
-                      "enableSolutionsButton": true,
-                      "enableCheckButton": true,
-                      "type": "single",
-                      "singlePoint": true,
-                      "randomAnswers": true,
-                      "showSolutionsRequiresInput": true,
-                      "confirmCheckDialog": false,
-                      "confirmRetryDialog": false,
-                      "autoCheck": true,
-                      "passPercentage": 100,
-                      "showScorePoints": true
-                    },
-                    "UI": {
-                      "checkAnswerButton": "Check",
-                      "submitAnswerButton": "Submit",
-                      "showSolutionButton": "Show solution",
-                      "tryAgainButton": "Retry",
-                      "tipsLabel": "Show tip",
-                      "scoreBarLabel": "You got :num out of :total points",
-                      "tipAvailable": "Tip available",
-                      "feedbackAvailable": "Feedback available",
-                      "readFeedback": "Read feedback",
-                      "wrongAnswer": "Wrong answer",
-                      "correctAnswer": "Correct answer"
-                    },
-                    "confirmCheck": {
-                      "header": "Finish?",
-                      "body": "Are you sure you wish to finish?",
-                      "cancelLabel": "Cancel",
-                      "confirmLabel": "Finish"
-                    },
-                    "confirmRetry": {
-                      "header": "Retry?",
-                      "body": "Are you sure you wish to retry?",
-                      "cancelLabel": "Cancel",
-                      "confirmLabel": "Confirm"
-                    },
-                    "question": "<p>ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟</p>"
-                  },
-                  "library": "H5P.MultiChoice 1.16",
-                  "metadata": {
-                    "contentType": "Multiple Choice",
-                    "license": "U",
-                    "title": "ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟",
-                    "authors": [],
-                    "changes": [],
-                    "extraTitle": "ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟"
-                  },
-                  "subContentId": "9a0792ab-0c95-452f-97fe-eeea881ac392"
+                  "subContentId": "aa0c6e98-5e75-4f29-81d6-df4022d8100d"
                 },
                 {
                   "params": {
@@ -656,37 +555,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>المتغيرات لا تهدف إلى زيادة الغرور.</p>",
+                          "chosenFeedback": "<p>الهدى لا يقيد بل يرفع الإنسان.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لتجعل الإنسان يشعر بالغرور.</p>"
+                        "text": "<p>أن الهدى يقيد حركة الإنسان في الحياة.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! المتغيرات تهدف إلى إنهاء الغرور من نفس الإنسان.</p>",
+                          "chosenFeedback": "<p>صحيح! كلمة {على} تشير إلى أن الهدى يرفع الإنسان ويعلوه.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لتنهي الغرور من نفس الإنسان.</p>"
+                        "text": "<p>أن الهدى يرفع الإنسان ويعلوه.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يمكن أن يعتمد على نفسه فقط.</p>",
+                          "chosenFeedback": "<p>الهدى هو عكس الضلال.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لتجعل الإنسان يعتمد على نفسه فقط.</p>"
+                        "text": "<p>أن الهدى يعني الضلال.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>المتغيرات لا تهدف إلى جعل الإنسان يشعر بالضعف دائمًا.</p>",
+                          "chosenFeedback": "<p>الهدى يعني الارتفاع وليس الانحدار.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لتجعل الإنسان يشعر بالضعف دائمًا.</p>"
+                        "text": "<p>أن الهدى يعني الانحدار.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -734,18 +633,119 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو الغرض من وجود المتغيرات في حياة الإنسان؟</p>"
+                    "question": "<p>ما هو المعنى الذي تشير إليه كلمة {على} في الآية: {على هُدًى}؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو الغرض من وجود المتغيرات في حياة الإنسان؟",
+                    "title": "ما هو المعنى الذي تشير إليه كلمة {على} في الآية: {على هُدًى}؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو الغرض من وجود المتغيرات في حياة الإنسان؟"
+                    "extraTitle": "ما هو المعنى الذي تشير إليه كلمة {على} في الآية: {على هُدًى}؟"
                   },
-                  "subContentId": "20657d42-47a7-4a3c-9ddf-e29e0f76d2f1"
+                  "subContentId": "d9c09fd0-f326-40f2-9209-7936f768c81c"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الهدى يرفع الإنسان وليس العكس.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الهدى يأخذ الإنسان إلى أسفل والضلال يرفعه.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الهدى يرفع الإنسان والضلال يأخذه إلى أسفل.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الهدى يرفع الإنسان والضلال يأخذه إلى أسفل.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هناك فرق كبير بين الهدى والضلال.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الهدى والضلال لا فرق بينهما.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الهدى يرفع الإنسان والضلال يأخذه إلى أسفل.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الهدى والضلال كلاهما يأخذ الإنسان إلى أسفل.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو الفرق بين الهدى والضلال كما ورد في القرآن الكريم؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو الفرق بين الهدى والضلال كما ورد في القرآن الكريم؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو الفرق بين الهدى والضلال كما ورد في القرآن الكريم؟"
+                  },
+                  "subContentId": "4182d349-ac34-455e-8a0d-f788c3503484"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -845,37 +845,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الصنف الأول كفر عن إرادة، والثاني كفر عن استفادة.</p>",
+                          "chosenFeedback": "<p>الهدى والضلال ليسا متساويين في القيمة.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>الصنف الأول كفر عن جهل، والثاني كفر عن علم.</p>"
+                        "text": "<p>أن الهدى والضلال متساويان في القيمة.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الصنف الأول كفر بإرادته، والثاني كفر لأنه مستفيد من الكفر.</p>",
+                          "chosenFeedback": "<p>صحيح! الهدى يرفع الإنسان والضلال يحيط به.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>الصنف الأول كفر عن إرادة، والثاني كفر عن استفادة.</p>"
+                        "text": "<p>أن الهدى يرفع الإنسان والضلال يحيط به.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الكفر لا يرتبط بالضعف أو القوة.</p>",
+                          "chosenFeedback": "<p>الهدى والضلال لهما تأثير كبير على الإنسان.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>الصنف الأول كفر عن ضعف، والثاني كفر عن قوة.</p>"
+                        "text": "<p>أن الهدى والضلال لا تأثير لهما على الإنسان.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الكفر لا يرتبط بالحاجة أو الغنى.</p>",
+                          "chosenFeedback": "<p>الهدى يرفع الإنسان والضلال يأخذه إلى أسفل.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>الصنف الأول كفر عن حاجة، والثاني كفر عن غنى.</p>"
+                        "text": "<p>أن الهدى والضلال كلاهما يأخذ الإنسان إلى أسفل.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -923,18 +923,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟</p>"
+                    "question": "<p>ما هو التفسير الصحيح لقول الله تعالى: {وَإِنَّآ أَوْ إِيَّاكُمْ لعلى هُدًى أَوْ فِي ضَلاَلٍ مُّبِينٍ}؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟",
+                    "title": "ما هو التفسير الصحيح لقول الله تعالى: {وَإِنَّآ أَوْ إِيَّاكُمْ لعلى هُدًى أَوْ فِي ضَلاَلٍ مُّبِينٍ}؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟"
+                    "extraTitle": "ما هو التفسير الصحيح لقول الله تعالى: {وَإِنَّآ أَوْ إِيَّاكُمْ لعلى هُدًى أَوْ فِي ضَلاَلٍ مُّبِينٍ}؟"
                   },
-                  "subContentId": "5ba2a779-0030-4c31-97ce-3633dd034475"
+                  "subContentId": "b7e5dfb1-e777-4df8-bd46-ea6aaf8c955e"
                 },
                 {
                   "params": {
@@ -946,37 +946,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>هم سمعوا عن الإيمان ولكنهم رفضوه.</p>",
+                          "chosenFeedback": "<p>الضلال يأخذ الإنسان إلى أسفل وليس إلى أعلى.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنهم لم يسمعوا عن الإيمان.</p>"
+                        "text": "<p>أن الضلال يرفع الإنسان.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! هم يريدون الاحتفاظ بسلطاتهم الدنيوية.</p>",
+                          "chosenFeedback": "<p>صحيح! كلمة {في} تشير إلى أن الضلال يحيط بالإنسان.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنهم يريدون الاحتفاظ بسلطاتهم الدنيوية.</p>"
+                        "text": "<p>أن الضلال يحيط بالإنسان.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>هم يعرفون بوجود الله ولكنهم يرفضون الإيمان.</p>",
+                          "chosenFeedback": "<p>الضلال له تأثير كبير على الإنسان.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنهم لا يؤمنون بوجود الله.</p>"
+                        "text": "<p>أن الضلال لا تأثير له على الإنسان.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>هم ليسوا في جهل بل يعرفون الحق.</p>",
+                          "chosenFeedback": "<p>الضلال يأخذ الإنسان إلى أسفل وليس إلى أعلى.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنهم يعيشون في جهل.</p>"
+                        "text": "<p>أن الضلال يأخذ الإنسان إلى أعلى.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1024,18 +1024,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟</p>"
+                    "question": "<p>ما هو المعنى الذي تشير إليه كلمة {في} في قول الله تعالى: {في ضَلاَلٍ مُّبِينٍ}؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟",
+                    "title": "ما هو المعنى الذي تشير إليه كلمة {في} في قول الله تعالى: {في ضَلاَلٍ مُّبِينٍ}؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟"
+                    "extraTitle": "ما هو المعنى الذي تشير إليه كلمة {في} في قول الله تعالى: {في ضَلاَلٍ مُّبِينٍ}؟"
                   },
-                  "subContentId": "a5ba6267-19a1-4a23-b3f4-bfb6ca9c21d8"
+                  "subContentId": "c6766c42-8f0d-4b5a-a2cf-9e10b23b6533"
                 },
                 {
                   "params": {
@@ -1047,37 +1047,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الختم على القلب لا يعني عدم استقبال المعلومات.</p>",
+                          "chosenFeedback": "<p>الخطيئة تأخذ الإنسان إلى أسفل وليس إلى أعلى.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن القلب لا يستقبل أي معلومات جديدة.</p>"
+                        "text": "<p>أن الخطيئة ترفع الإنسان.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الختم على القلب يعني أنه لا يخرج منه الكفر ولا يدخله الإيمان.</p>",
+                          "chosenFeedback": "<p>صحيح! الخطيئة تحيط بالإنسان وتسيطر عليه.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن القلب لا يخرج منه الكفر ولا يدخله الإيمان.</p>"
+                        "text": "<p>أن الخطيئة تحيط بالإنسان وتسيطر عليه.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>القلب لا يصبح مغلقًا عن العالم الخارجي.</p>",
+                          "chosenFeedback": "<p>الخطيئة لها تأثير كبير على الإنسان.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن القلب يصبح مغلقًا عن العالم الخارجي.</p>"
+                        "text": "<p>أن الخطيئة لا تأثير لها على الإنسان.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>القلب لا يفقد القدرة على الإحساس.</p>",
+                          "chosenFeedback": "<p>الخطيئة تأخذ الإنسان إلى النار وليس إلى الجنة.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن القلب يفقد القدرة على الإحساس.</p>"
+                        "text": "<p>أن الخطيئة تأخذ الإنسان إلى الجنة.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1125,18 +1125,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو معنى 'الختم على القلب' كما ورد في النص؟</p>"
+                    "question": "<p>ما هو المعنى الذي تشير إليه الآية الكريمة: {بلى مَن كَسَبَ سَيِّئَةً وَأَحَاطَتْ بِهِ خطيائته فأولئك أَصْحَابُ النار هُمْ فِيهَا خَالِدُونَ}؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو معنى 'الختم على القلب' كما ورد في النص؟",
+                    "title": "ما هو المعنى الذي تشير إليه الآية الكريمة: {بلى مَن كَسَبَ سَيِّئَةً وَأَحَاطَتْ بِهِ خطيائته فأولئك أَصْحَابُ النار هُمْ فِيهَا خَالِدُونَ}؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو معنى 'الختم على القلب' كما ورد في النص؟"
+                    "extraTitle": "ما هو المعنى الذي تشير إليه الآية الكريمة: {بلى مَن كَسَبَ سَيِّئَةً وَأَحَاطَتْ بِهِ خطيائته فأولئك أَصْحَابُ النار هُمْ فِيهَا خَالِدُونَ}؟"
                   },
-                  "subContentId": "9b3de70e-0520-40f0-b874-e11e675950fa"
+                  "subContentId": "c233b309-9c2b-41fc-b4c8-a3497afc4b9a"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -1234,40 +1234,40 @@
                     },
                     "answers": [
                       {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>التشجيع وحده لا يكفي، يجب تذكيره بدور الله.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أهنئه على جهده وأشجعه على الاستمرار.</p>"
-                      },
-                      {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! يجب تذكيره بأن الله هو الذي سخر له الأسباب.</p>",
+                          "chosenFeedback": "<p>صحيح! الالتزام بالمنهج الإسلامي يرفع الإنسان ولا يقيده.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أذكره بأن الله هو الذي سخر له الأسباب لتحقيق النجاح.</p>"
+                        "text": "<p>أن الالتزام بالمنهج الإسلامي يرفع الإنسان ولا يقيده.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>النجاح مرتبط بتدخل الله.</p>",
+                          "chosenFeedback": "<p>الالتزام بالمنهج الإسلامي يرفع الإنسان ولا يقيده.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أخبره أن النجاح لا علاقة له بالله.</p>"
+                        "text": "<p>أن الالتزام بالمنهج الإسلامي يقيد الإنسان فقط.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الاعتماد على النفس فقط يغفل دور الله.</p>",
+                          "chosenFeedback": "<p>الالتزام بالمنهج الإسلامي له فوائد عظيمة.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أطلب منه أن يعتمد على نفسه فقط.</p>"
+                        "text": "<p>أن الالتزام بالمنهج الإسلامي لا فائدة منه.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الالتزام بالمنهج الإسلامي يرفع الإنسان ولا يأخذه إلى أسفل.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن الالتزام بالمنهج الإسلامي يأخذ الإنسان إلى أسفل.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1315,18 +1315,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟</p>"
+                    "question": "<p>شخص يعتقد أن الالتزام بالمنهج الإسلامي يقيد حريته في الحياة. كيف ترد عليه بناءً على الآية: {على هُدًى}؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟",
+                    "title": "شخص يعتقد أن الالتزام بالمنهج الإسلامي يقيد حريته في الحياة. كيف ترد عليه بناءً على الآية: {على هُدًى}؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟"
+                    "extraTitle": "شخص يعتقد أن الالتزام بالمنهج الإسلامي يقيد حريته في الحياة. كيف ترد عليه بناءً على الآية: {على هُدًى}؟"
                   },
-                  "subContentId": "871535fe-57b7-40a9-a0e5-f1a934887c4e"
+                  "subContentId": "34f5bfc0-276b-45f4-8dd6-eb6663500e6e"
                 },
                 {
                   "params": {
@@ -1335,40 +1335,40 @@
                     },
                     "answers": [
                       {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>التكنولوجيا هي من صنع البشر ولكن بتسخير الله.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أوافقه على أن البشر هم من صنعوا التكنولوجيا.</p>"
-                      },
-                      {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الله هو الذي سخر القوانين الطبيعية لصنع التكنولوجيا.</p>",
+                          "chosenFeedback": "<p>صحيح! الإيمان بالله واليوم الآخر يكملان بعضهما.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أذكره بأن الله هو الذي سخر القوانين الطبيعية لصنع التكنولوجيا.</p>"
+                        "text": "<p>أن الإيمان بالله واليوم الآخر يكملان بعضهما.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التكنولوجيا مرتبطة بتسخير الله للقوانين.</p>",
+                          "chosenFeedback": "<p>الإيمان بالله يجب أن يكون مقرونًا بالالتزام بالعبادات.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أخبره أن التكنولوجيا لا علاقة لها بالله.</p>"
+                        "text": "<p>أن الإيمان بالله يكفي دون الالتزام بالعبادات.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التوقف عن استخدام التكنولوجيا ليس حلًا.</p>",
+                          "chosenFeedback": "<p>الإيمان باليوم الآخر ضروري ليكون الإيمان كاملاً.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أطلب منه أن يتوقف عن استخدام التكنولوجيا.</p>"
+                        "text": "<p>أن الإيمان باليوم الآخر غير ضروري.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإيمان بالله واليوم الآخر مرتبطان ارتباطًا وثيقًا.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن الإيمان بالله واليوم الآخر لا علاقة بينهما.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1416,18 +1416,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟</p>"
+                    "question": "<p>شخص يقول إن الإيمان بالله يكفي دون الالتزام بالعبادات. كيف ترد عليه بناءً على الآية: {وبالآخرة هُمْ يُوقِنُونَ}؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟",
+                    "title": "شخص يقول إن الإيمان بالله يكفي دون الالتزام بالعبادات. كيف ترد عليه بناءً على الآية: {وبالآخرة هُمْ يُوقِنُونَ}؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟"
+                    "extraTitle": "شخص يقول إن الإيمان بالله يكفي دون الالتزام بالعبادات. كيف ترد عليه بناءً على الآية: {وبالآخرة هُمْ يُوقِنُونَ}؟"
                   },
-                  "subContentId": "dc46e0fe-3fe5-4a24-bded-68b21ce641bd"
+                  "subContentId": "56564b51-8426-4ef9-92c8-8f2d2fd211da"
                 },
                 {
                   "params": {
@@ -1436,40 +1436,40 @@
                     },
                     "answers": [
                       {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>التشجيع وحده لا يكفي، يجب تذكيره بدور الله.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أهنئه على قوته وأشجعه على الاستمرار.</p>"
-                      },
-                      {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! يجب تذكيره بأن القوة الجسدية هي من الله وقد تتغير.</p>",
+                          "chosenFeedback": "<p>صحيح! الضلال يحيط بالإنسان ويأخذه إلى أسفل.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أذكره بأن القوة الجسدية هي من الله وقد تتغير في أي وقت.</p>"
+                        "text": "<p>أن الضلال يحيط بالإنسان ويأخذه إلى أسفل.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>القوة الجسدية مرتبطة بتسخير الله.</p>",
+                          "chosenFeedback": "<p>الضلال يأخذ الإنسان إلى أسفل وليس إلى أعلى.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أخبره أن القوة الجسدية لا علاقة لها بالله.</p>"
+                        "text": "<p>أن الضلال يرفع الإنسان.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الاعتماد على القوة فقط يغفل دور الله.</p>",
+                          "chosenFeedback": "<p>الضلال له تأثير كبير على الإنسان.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أطلب منه أن يعتمد على قوته فقط.</p>"
+                        "text": "<p>أن الضلال لا تأثير له على الإنسان.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الضلال يأخذ الإنسان إلى النار وليس إلى الجنة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن الضلال يأخذ الإنسان إلى الجنة.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1517,18 +1517,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟</p>"
+                    "question": "<p>شخص يعتقد أن الضلال يرفع الإنسان. كيف ترد عليه بناءً على الآية: {في ضَلاَلٍ مُّبِينٍ}؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟",
+                    "title": "شخص يعتقد أن الضلال يرفع الإنسان. كيف ترد عليه بناءً على الآية: {في ضَلاَلٍ مُّبِينٍ}؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟"
+                    "extraTitle": "شخص يعتقد أن الضلال يرفع الإنسان. كيف ترد عليه بناءً على الآية: {في ضَلاَلٍ مُّبِينٍ}؟"
                   },
-                  "subContentId": "e51786fa-5834-40e5-b4da-840eb268c606"
+                  "subContentId": "3ffa5911-c444-459f-b0a5-a9ea8a30cf3b"
                 }
               ],
               "disableBackwardsNavigation": false,

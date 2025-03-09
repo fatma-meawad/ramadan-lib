@@ -60,37 +60,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الآية تشير إلى الطغيان وليس التواضع.</p>",
+                          "chosenFeedback": "<p>الحدث حدث بالفعل، ولكن بفعل النبي وإيصال الله للأثر.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الإنسان يتواضع عندما يشعر بالغنى.</p>"
+                        "text": "<p>أن الحدث لم يحدث أبدًا.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>النبي رمى بالفعل، ولكن الله هو الذي أوصل الحصى إلى أهدافها.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن الحدث حدث بفعل الله فقط دون تدخل النبي.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الآية تشير إلى أن الإنسان يطغى عندما يرى نفسه مستغنيًا عن الله.</p>",
+                          "chosenFeedback": "<p>صحيح! الجهة منفكة تعني أن النبي رمى، ولكن الله هو الذي أوصل الحصى.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الإنسان يطغى عندما يرى نفسه مستغنيًا عن الله.</p>"
+                        "text": "<p>أن الحدث حدث بفعل النبي، ولكن الله هو الذي أوصل الأثر.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الآية تتحدث عن الطغيان وليس زيادة الإيمان.</p>",
+                          "chosenFeedback": "<p>الله هو الذي أوصل الحصى، مما يدل على تدخله في الحدث.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الإنسان يزداد إيمانه عندما يستغني عن الدنيا.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الآية تشير إلى تأثير الغنى على الإنسان.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أن الإنسان لا يتأثر بالغنى أو الفقر.</p>"
+                        "text": "<p>أن الحدث حدث بفعل النبي فقط دون تدخل الله.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -138,18 +138,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟</p>"
+                    "question": "<p>ما المقصود بـ 'الجهة منفكة' في تفسير الآية {وَمَا رَمَيْتَ إِذْ رَمَيْتَ ولكن الله رمى}؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟",
+                    "title": "ما المقصود بـ 'الجهة منفكة' في تفسير الآية {وَمَا رَمَيْتَ إِذْ رَمَيْتَ ولكن الله رمى}؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟"
+                    "extraTitle": "ما المقصود بـ 'الجهة منفكة' في تفسير الآية {وَمَا رَمَيْتَ إِذْ رَمَيْتَ ولكن الله رمى}؟"
                   },
-                  "subContentId": "0013e78f-39d5-431e-9f06-7e002617eb8c"
+                  "subContentId": "fc016697-9ae0-40d1-a31d-af2d6addd2df"
                 },
                 {
                   "params": {
@@ -161,37 +161,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الفهم وحده لا يكفي لإخضاع الكون.</p>",
+                          "chosenFeedback": "<p>الصدقة مهمة، ولكنها ليست أول صفة للمتقين.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>قدرته على فهم قوانين الكون.</p>"
+                        "text": "<p>الصدقة.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الأشياء تستجيب للإنسان وفقًا لقوانين وضعها الله.</p>",
+                          "chosenFeedback": "<p>صحيح! أول صفة للمتقين هي الإيمان بالغيب.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>استجابة الأشياء له وفقًا لقوانين وضعها الله.</p>"
+                        "text": "<p>الإيمان بالغيب.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>القوة الجسدية والعقلية ليست السبب.</p>",
+                          "chosenFeedback": "<p>الصلاة فرض، ولكنها ليست أول صفة للمتقين.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>قوته الجسدية والعقلية.</p>"
+                        "text": "<p>الصلاة.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الظن بإخضاع الكون لا يرتبط بعدم الإيمان.</p>",
+                          "chosenFeedback": "<p>الصيام مهم، ولكنه ليس أول صفة للمتقين.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>عدم إيمانه بوجود الله.</p>"
+                        "text": "<p>الصيام.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -239,18 +239,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟</p>"
+                    "question": "<p>ما هي أول صفة للمتقين كما ذكرت في الآية {الذين يُؤْمِنُونَ بالغيب}؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟",
+                    "title": "ما هي أول صفة للمتقين كما ذكرت في الآية {الذين يُؤْمِنُونَ بالغيب}؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟"
+                    "extraTitle": "ما هي أول صفة للمتقين كما ذكرت في الآية {الذين يُؤْمِنُونَ بالغيب}؟"
                   },
-                  "subContentId": "b19d6b27-e769-4ebf-b410-bfe2778933db"
+                  "subContentId": "9bc7fa11-01fb-4d76-8660-3957e811b84d"
                 },
                 {
                   "params": {
@@ -262,37 +262,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الأشياء لا تعتمد على الإنسان في وجودها.</p>",
+                          "chosenFeedback": "<p>الغيب لا يمكن إدراكه بالحواس الخمس.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الأشياء تعتمد على الإنسان في وجودها.</p>"
+                        "text": "<p>كل ما يمكن إدراكه بالحواس الخمس.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! ذاتية الأشياء تعني وجودها المستقل الذي لا يتغير.</p>",
+                          "chosenFeedback": "<p>صحيح! الغيب هو كل ما غاب عن مدركات الحس.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الأشياء لها وجود مستقل لا يتغير.</p>"
+                        "text": "<p>كل ما غاب عن مدركات الحس ولا يمكن إدراكه بالحواس الظاهرة.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الأشياء لا تتغير وفقًا لإرادة الإنسان.</p>",
+                          "chosenFeedback": "<p>الأدوات العلمية لا تكشف الغيب.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الأشياء تتغير وفقًا لإرادة الإنسان.</p>"
+                        "text": "<p>الأشياء التي يمكن قياسها بالأدوات العلمية.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الأشياء تحتاج إلى خالق.</p>",
+                          "chosenFeedback": "<p>الغيب لا يمكن التنبؤ به بناءً على مقدمات.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الأشياء لا تحتاج إلى خالق.</p>"
+                        "text": "<p>الأحداث التي يمكن التنبؤ بها بناءً على مقدمات.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -340,18 +340,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟</p>"
+                    "question": "<p>ما هو الغيب وفقًا للتعريف الوارد في النص؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟",
+                    "title": "ما هو الغيب وفقًا للتعريف الوارد في النص؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟"
+                    "extraTitle": "ما هو الغيب وفقًا للتعريف الوارد في النص؟"
                   },
-                  "subContentId": "9fc37e9a-87d5-46be-9aa5-91b8d733fb53"
+                  "subContentId": "f303779b-2a8f-4535-8a94-0b316f418ca9"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -454,37 +454,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يسيطر على قوانين الكون.</p>",
+                          "chosenFeedback": "<p>الهداية المباشرة للقلوب هي من الله.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنه يسيطر على قوانين الكون.</p>"
+                        "text": "<p>أن النبي يهدي القلوب مباشرة.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الأشياء تستجيب للإنسان وفقًا لقوانين وضعها الله.</p>",
+                          "chosenFeedback": "<p>صحيح! النبي يدل الناس على الطريق المستقيم من خلال تبليغ القرآن.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأن الأشياء تستجيب له وفقًا لقوانين وضعها الله.</p>"
+                        "text": "<p>أن النبي يدل الناس على الطريق المستقيم من خلال تبليغ القرآن.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الاعتقاد بالقدرة على إخضاع الكون لا يرتبط بعدم الإيمان.</p>",
+                          "chosenFeedback": "<p>الهداية تكون بالقرآن والبيان، وليس بالمعجزات فقط.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنه لا يؤمن بوجود الله.</p>"
+                        "text": "<p>أن الهداية تكون بالمعجزات فقط.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يمتلك قوة خارقة.</p>",
+                          "chosenFeedback": "<p>الهداية تكون بالقرآن، وليس بالرؤى والأحلام.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنه يمتلك قوة خارقة.</p>"
+                        "text": "<p>أن الهداية تكون بالرؤى والأحلام.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -532,119 +532,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟</p>"
+                    "question": "<p>كيف يمكن تفسير قول الله تعالى: {وَإِنَّكَ لتهدي إلى صِرَاطٍ مُّسْتَقِيمٍ} في سياق هداية الدلالة؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟",
+                    "title": "كيف يمكن تفسير قول الله تعالى: {وَإِنَّكَ لتهدي إلى صِرَاطٍ مُّسْتَقِيمٍ} في سياق هداية الدلالة؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟"
+                    "extraTitle": "كيف يمكن تفسير قول الله تعالى: {وَإِنَّكَ لتهدي إلى صِرَاطٍ مُّسْتَقِيمٍ} في سياق هداية الدلالة؟"
                   },
-                  "subContentId": "189dd0af-3191-4222-8711-489472c0c1e6"
-                },
-                {
-                  "params": {
-                    "media": {
-                      "disableImageZooming": false
-                    },
-                    "answers": [
-                      {
-                        "correct": true,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>صحيح! الإنسان يحتاج إلى الآخرين في مراحل حياته المختلفة.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أنه يحتاج إلى الآخرين في طفولته وشيخوخته.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يستطيع التحكم في كل شيء حوله.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أنه يستطيع التحكم في كل شيء حوله.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الإنسان يتأثر بالمرض والشيخوخة.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أنه لا يتأثر بالمرض أو الشيخوخة.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الإنسان يحتاج إلى الله في كل شيء.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أنه يعيش دون حاجة إلى الله.</p>"
-                      }
-                    ],
-                    "overallFeedback": [
-                      {
-                        "from": 0,
-                        "to": 100
-                      }
-                    ],
-                    "behaviour": {
-                      "enableRetry": true,
-                      "enableSolutionsButton": true,
-                      "enableCheckButton": true,
-                      "type": "single",
-                      "singlePoint": true,
-                      "randomAnswers": true,
-                      "showSolutionsRequiresInput": true,
-                      "confirmCheckDialog": false,
-                      "confirmRetryDialog": false,
-                      "autoCheck": true,
-                      "passPercentage": 100,
-                      "showScorePoints": true
-                    },
-                    "UI": {
-                      "checkAnswerButton": "Check",
-                      "submitAnswerButton": "Submit",
-                      "showSolutionButton": "Show solution",
-                      "tryAgainButton": "Retry",
-                      "tipsLabel": "Show tip",
-                      "scoreBarLabel": "You got :num out of :total points",
-                      "tipAvailable": "Tip available",
-                      "feedbackAvailable": "Feedback available",
-                      "readFeedback": "Read feedback",
-                      "wrongAnswer": "Wrong answer",
-                      "correctAnswer": "Correct answer"
-                    },
-                    "confirmCheck": {
-                      "header": "Finish?",
-                      "body": "Are you sure you wish to finish?",
-                      "cancelLabel": "Cancel",
-                      "confirmLabel": "Finish"
-                    },
-                    "confirmRetry": {
-                      "header": "Retry?",
-                      "body": "Are you sure you wish to retry?",
-                      "cancelLabel": "Cancel",
-                      "confirmLabel": "Confirm"
-                    },
-                    "question": "<p>ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟</p>"
-                  },
-                  "library": "H5P.MultiChoice 1.16",
-                  "metadata": {
-                    "contentType": "Multiple Choice",
-                    "license": "U",
-                    "title": "ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟",
-                    "authors": [],
-                    "changes": [],
-                    "extraTitle": "ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟"
-                  },
-                  "subContentId": "9a0792ab-0c95-452f-97fe-eeea881ac392"
+                  "subContentId": "9e3e02f4-10bc-496c-94cf-034ac11fd540"
                 },
                 {
                   "params": {
@@ -656,37 +555,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>المتغيرات لا تهدف إلى زيادة الغرور.</p>",
+                          "chosenFeedback": "<p>الغيب لا يمكن اكتشافه بالبحث العلمي.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لتجعل الإنسان يشعر بالغرور.</p>"
+                        "text": "<p>الغيب يمكن اكتشافه بالبحث العلمي.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! المتغيرات تهدف إلى إنهاء الغرور من نفس الإنسان.</p>",
+                          "chosenFeedback": "<p>صحيح! العلم المكتسب يعتمد على مقدمات، بينما الغيب ليس له مقدمات.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لتنهي الغرور من نفس الإنسان.</p>"
+                        "text": "<p>العلم المكتسب يعتمد على مقدمات وقوانين، بينما الغيب ليس له مقدمات.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يمكن أن يعتمد على نفسه فقط.</p>",
+                          "chosenFeedback": "<p>الغيب لا يمكن إدراكه بالحواس الخمس.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لتجعل الإنسان يعتمد على نفسه فقط.</p>"
+                        "text": "<p>الغيب يمكن إدراكه بالحواس الخمس.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>المتغيرات لا تهدف إلى جعل الإنسان يشعر بالضعف دائمًا.</p>",
+                          "chosenFeedback": "<p>هناك فرق واضح بين الغيب والعلم المكتسب.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لتجعل الإنسان يشعر بالضعف دائمًا.</p>"
+                        "text": "<p>لا يوجد فرق بين الغيب والعلم المكتسب.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -734,18 +633,119 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو الغرض من وجود المتغيرات في حياة الإنسان؟</p>"
+                    "question": "<p>ما الفرق بين الغيب والعلم المكتسب وفقًا للنص؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو الغرض من وجود المتغيرات في حياة الإنسان؟",
+                    "title": "ما الفرق بين الغيب والعلم المكتسب وفقًا للنص؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو الغرض من وجود المتغيرات في حياة الإنسان؟"
+                    "extraTitle": "ما الفرق بين الغيب والعلم المكتسب وفقًا للنص؟"
                   },
-                  "subContentId": "20657d42-47a7-4a3c-9ddf-e29e0f76d2f1"
+                  "subContentId": "84d12d71-67b1-4986-b567-18b3c324175a"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الهداية المباشرة للقلوب هي من الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن النبي يهدي القلوب مباشرة.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! النبي يدل الناس على الطريق المستقيم، ولكن الهداية الحقيقية من الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن النبي يدل الناس على الطريق المستقيم، ولكن الهداية الحقيقية من الله.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>للنبي دور في الدلالة على الطريق المستقيم.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن النبي لا دور له في الهداية.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الهداية تكون بالقرآن والبيان، وليس بالمعجزات فقط.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن الهداية تكون بالمعجزات فقط.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو دور النبي في الهداية وفقًا للآية {إِنَّكَ لاَ تَهْدِي مَنْ أَحْبَبْتَ ولكن الله يَهْدِي مَن يَشَآءُ}؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو دور النبي في الهداية وفقًا للآية {إِنَّكَ لاَ تَهْدِي مَنْ أَحْبَبْتَ ولكن الله يَهْدِي مَن يَشَآءُ}؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو دور النبي في الهداية وفقًا للآية {إِنَّكَ لاَ تَهْدِي مَنْ أَحْبَبْتَ ولكن الله يَهْدِي مَن يَشَآءُ}؟"
+                  },
+                  "subContentId": "e0429a07-feda-45ea-b635-0a758b545e84"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -842,40 +842,40 @@
                     },
                     "answers": [
                       {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الصنف الأول كفر عن إرادة، والثاني كفر عن استفادة.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>الصنف الأول كفر عن جهل، والثاني كفر عن علم.</p>"
-                      },
-                      {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الصنف الأول كفر بإرادته، والثاني كفر لأنه مستفيد من الكفر.</p>",
+                          "chosenFeedback": "<p>صحيح! هناك حواس باطنة تدرك أشياء لا تدركها الحواس الظاهرة.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>الصنف الأول كفر عن إرادة، والثاني كفر عن استفادة.</p>"
+                        "text": "<p>لأن هناك حواس باطنة تدرك أشياء لا تدركها الحواس الظاهرة.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الكفر لا يرتبط بالضعف أو القوة.</p>",
+                          "chosenFeedback": "<p>الغيب لا يمكن إدراكه بأي وسيلة، ولكن هذا ليس الخطأ في القول.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>الصنف الأول كفر عن ضعف، والثاني كفر عن قوة.</p>"
+                        "text": "<p>لأن الغيب لا يمكن إدراكه بأي وسيلة.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الكفر لا يرتبط بالحاجة أو الغنى.</p>",
+                          "chosenFeedback": "<p>الحواس الظاهرة لا تكفي لإدراك كل شيء.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>الصنف الأول كفر عن حاجة، والثاني كفر عن غنى.</p>"
+                        "text": "<p>لأن الحواس الظاهرة تكفي لإدراك كل شيء.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الغيب لا يمكن إدراكه بالبحث العلمي.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأن الغيب يمكن إدراكه بالبحث العلمي.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -923,18 +923,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟</p>"
+                    "question": "<p>ما هو الخطأ في القول بأن ما لا يدرك بالحواس البشرية الظاهرة هو غيب؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟",
+                    "title": "ما هو الخطأ في القول بأن ما لا يدرك بالحواس البشرية الظاهرة هو غيب؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟"
+                    "extraTitle": "ما هو الخطأ في القول بأن ما لا يدرك بالحواس البشرية الظاهرة هو غيب؟"
                   },
-                  "subContentId": "5ba2a779-0030-4c31-97ce-3633dd034475"
+                  "subContentId": "dbaadbde-177f-4d40-bc70-77cee682858a"
                 },
                 {
                   "params": {
@@ -946,37 +946,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>هم سمعوا عن الإيمان ولكنهم رفضوه.</p>",
+                          "chosenFeedback": "<p>الغيب لا يمكن اكتشافه بالبحث العلمي.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنهم لم يسمعوا عن الإيمان.</p>"
+                        "text": "<p>الغيب يمكن اكتشافه بالبحث العلمي.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! هم يريدون الاحتفاظ بسلطاتهم الدنيوية.</p>",
+                          "chosenFeedback": "<p>صحيح! العلم المكتسب يعتمد على مقدمات، بينما الغيب ليس له مقدمات.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنهم يريدون الاحتفاظ بسلطاتهم الدنيوية.</p>"
+                        "text": "<p>العلم المكتسب يعتمد على مقدمات وقوانين، بينما الغيب ليس له مقدمات.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>هم يعرفون بوجود الله ولكنهم يرفضون الإيمان.</p>",
+                          "chosenFeedback": "<p>الغيب لا يمكن إدراكه بالحواس الخمس.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنهم لا يؤمنون بوجود الله.</p>"
+                        "text": "<p>الغيب يمكن إدراكه بالحواس الخمس.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>هم ليسوا في جهل بل يعرفون الحق.</p>",
+                          "chosenFeedback": "<p>هناك فرق واضح بين الغيب والعلم المكتسب.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنهم يعيشون في جهل.</p>"
+                        "text": "<p>لا يوجد فرق بين الغيب والعلم المكتسب.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1024,18 +1024,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟</p>"
+                    "question": "<p>ما هو الفرق بين الغيب والعلم المكتسب وفقًا للنص؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟",
+                    "title": "ما هو الفرق بين الغيب والعلم المكتسب وفقًا للنص؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟"
+                    "extraTitle": "ما هو الفرق بين الغيب والعلم المكتسب وفقًا للنص؟"
                   },
-                  "subContentId": "a5ba6267-19a1-4a23-b3f4-bfb6ca9c21d8"
+                  "subContentId": "c1c93ae9-4b8b-45e0-8114-d7185ccd4bb6"
                 },
                 {
                   "params": {
@@ -1044,40 +1044,40 @@
                     },
                     "answers": [
                       {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الختم على القلب لا يعني عدم استقبال المعلومات.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أن القلب لا يستقبل أي معلومات جديدة.</p>"
-                      },
-                      {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الختم على القلب يعني أنه لا يخرج منه الكفر ولا يدخله الإيمان.</p>",
+                          "chosenFeedback": "<p>صحيح! العلماء يعتمدون على مقدمات وقوانين، مما يعني أنهم لم يطلعوا على الغيب.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن القلب لا يخرج منه الكفر ولا يدخله الإيمان.</p>"
+                        "text": "<p>لأنهم يعتمدون على مقدمات وقوانين للوصول إلى النتائج.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>القلب لا يصبح مغلقًا عن العالم الخارجي.</p>",
+                          "chosenFeedback": "<p>الغيب لا يمكن اكتشافه بأي وسيلة، ولكن هذا ليس الخطأ في القول.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن القلب يصبح مغلقًا عن العالم الخارجي.</p>"
+                        "text": "<p>لأن الغيب لا يمكن اكتشافه بأي وسيلة.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>القلب لا يفقد القدرة على الإحساس.</p>",
+                          "chosenFeedback": "<p>الحواس الظاهرة لا تكفي لإدراك كل شيء.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن القلب يفقد القدرة على الإحساس.</p>"
+                        "text": "<p>لأن الحواس الظاهرة تكفي لإدراك كل شيء.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الغيب لا يمكن إدراكه بالبحث العلمي.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأن الغيب يمكن إدراكه بالبحث العلمي.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1125,18 +1125,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو معنى 'الختم على القلب' كما ورد في النص؟</p>"
+                    "question": "<p>ما هو الخطأ في القول بأن العلماء الذين يكتشفون أسرار الكون قد أطلعوا على الغيب؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو معنى 'الختم على القلب' كما ورد في النص؟",
+                    "title": "ما هو الخطأ في القول بأن العلماء الذين يكتشفون أسرار الكون قد أطلعوا على الغيب؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو معنى 'الختم على القلب' كما ورد في النص؟"
+                    "extraTitle": "ما هو الخطأ في القول بأن العلماء الذين يكتشفون أسرار الكون قد أطلعوا على الغيب؟"
                   },
-                  "subContentId": "9b3de70e-0520-40f0-b874-e11e675950fa"
+                  "subContentId": "e34b60a8-8eea-424d-b819-37c460b3f4f5"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -1237,37 +1237,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التشجيع وحده لا يكفي، يجب تذكيره بدور الله.</p>",
+                          "chosenFeedback": "<p>التوقع بناءً على مقدمات ليس اطلاعًا على الغيب.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أهنئه على جهده وأشجعه على الاستمرار.</p>"
+                        "text": "<p>تقول له إنه قد أطلع على الغيب.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! يجب تذكيره بأن الله هو الذي سخر له الأسباب.</p>",
+                          "chosenFeedback": "<p>صحيح! الاعتماد على مقدمات وقوانين يعني أن هذا ليس غيبًا.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أذكره بأن الله هو الذي سخر له الأسباب لتحقيق النجاح.</p>"
+                        "text": "<p>تقول له إنه اعتمد على مقدمات وقوانين، وهذا ليس غيبًا.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>النجاح مرتبط بتدخل الله.</p>",
+                          "chosenFeedback": "<p>الحواس الظاهرة لا تكفي لإدراك الغيب.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أخبره أن النجاح لا علاقة له بالله.</p>"
+                        "text": "<p>تقول له إن الحواس الظاهرة تكفي لإدراك الغيب.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الاعتماد على النفس فقط يغفل دور الله.</p>",
+                          "chosenFeedback": "<p>الغيب لا يمكن إدراكه بالبحث العلمي.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أطلب منه أن يعتمد على نفسه فقط.</p>"
+                        "text": "<p>تقول له إن الغيب يمكن إدراكه بالبحث العلمي.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1315,18 +1315,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟</p>"
+                    "question": "<p>إذا قال شخص إنه يعلم الغيب لأنه توقع نتيجة تجربة علمية بناءً على مقدمات، كيف ترد عليه؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟",
+                    "title": "إذا قال شخص إنه يعلم الغيب لأنه توقع نتيجة تجربة علمية بناءً على مقدمات، كيف ترد عليه؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟"
+                    "extraTitle": "إذا قال شخص إنه يعلم الغيب لأنه توقع نتيجة تجربة علمية بناءً على مقدمات، كيف ترد عليه؟"
                   },
-                  "subContentId": "871535fe-57b7-40a9-a0e5-f1a934887c4e"
+                  "subContentId": "a6d42766-8687-4c61-ab9f-075bf0cc16e6"
                 },
                 {
                   "params": {
@@ -1338,37 +1338,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التكنولوجيا هي من صنع البشر ولكن بتسخير الله.</p>",
+                          "chosenFeedback": "<p>التوقع بناءً على مقدمات ليس اطلاعًا على الغيب.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أوافقه على أن البشر هم من صنعوا التكنولوجيا.</p>"
+                        "text": "<p>تقول له إنه قد أطلع على الغيب.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الله هو الذي سخر القوانين الطبيعية لصنع التكنولوجيا.</p>",
+                          "chosenFeedback": "<p>صحيح! الاعتماد على مقدمات وقوانين يعني أن هذا ليس غيبًا.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أذكره بأن الله هو الذي سخر القوانين الطبيعية لصنع التكنولوجيا.</p>"
+                        "text": "<p>تقول له إنه اعتمد على مقدمات وقوانين، وهذا ليس غيبًا.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التكنولوجيا مرتبطة بتسخير الله للقوانين.</p>",
+                          "chosenFeedback": "<p>الحواس الظاهرة لا تكفي لإدراك الغيب.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أخبره أن التكنولوجيا لا علاقة لها بالله.</p>"
+                        "text": "<p>تقول له إن الحواس الظاهرة تكفي لإدراك الغيب.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التوقف عن استخدام التكنولوجيا ليس حلًا.</p>",
+                          "chosenFeedback": "<p>الغيب لا يمكن إدراكه بالبحث العلمي.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أطلب منه أن يتوقف عن استخدام التكنولوجيا.</p>"
+                        "text": "<p>تقول له إن الغيب يمكن إدراكه بالبحث العلمي.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1416,18 +1416,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟</p>"
+                    "question": "<p>إذا ادعى شخص أنه يعلم الغيب لأنه توقع نتيجة تجربة علمية بناءً على مقدمات، كيف ترد عليه؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟",
+                    "title": "إذا ادعى شخص أنه يعلم الغيب لأنه توقع نتيجة تجربة علمية بناءً على مقدمات، كيف ترد عليه؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟"
+                    "extraTitle": "إذا ادعى شخص أنه يعلم الغيب لأنه توقع نتيجة تجربة علمية بناءً على مقدمات، كيف ترد عليه؟"
                   },
-                  "subContentId": "dc46e0fe-3fe5-4a24-bded-68b21ce641bd"
+                  "subContentId": "eefd5746-cf95-45b1-9e99-c8871c4fd323"
                 },
                 {
                   "params": {
@@ -1439,37 +1439,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التشجيع وحده لا يكفي، يجب تذكيره بدور الله.</p>",
+                          "chosenFeedback": "<p>التوقع بناءً على مقدمات ليس اطلاعًا على الغيب.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أهنئه على قوته وأشجعه على الاستمرار.</p>"
+                        "text": "<p>تقول له إنه قد أطلع على الغيب.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! يجب تذكيره بأن القوة الجسدية هي من الله وقد تتغير.</p>",
+                          "chosenFeedback": "<p>صحيح! الاعتماد على مقدمات وقوانين يعني أن هذا ليس غيبًا.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أذكره بأن القوة الجسدية هي من الله وقد تتغير في أي وقت.</p>"
+                        "text": "<p>تقول له إنه اعتمد على مقدمات وقوانين، وهذا ليس غيبًا.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>القوة الجسدية مرتبطة بتسخير الله.</p>",
+                          "chosenFeedback": "<p>الحواس الظاهرة لا تكفي لإدراك الغيب.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أخبره أن القوة الجسدية لا علاقة لها بالله.</p>"
+                        "text": "<p>تقول له إن الحواس الظاهرة تكفي لإدراك الغيب.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الاعتماد على القوة فقط يغفل دور الله.</p>",
+                          "chosenFeedback": "<p>الغيب لا يمكن إدراكه بالبحث العلمي.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أطلب منه أن يعتمد على قوته فقط.</p>"
+                        "text": "<p>تقول له إن الغيب يمكن إدراكه بالبحث العلمي.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1517,18 +1517,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟</p>"
+                    "question": "<p>إذا قال شخص إنه يعلم الغيب لأنه توقع نتيجة تجربة علمية بناءً على مقدمات، كيف ترد عليه؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟",
+                    "title": "إذا قال شخص إنه يعلم الغيب لأنه توقع نتيجة تجربة علمية بناءً على مقدمات، كيف ترد عليه؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟"
+                    "extraTitle": "إذا قال شخص إنه يعلم الغيب لأنه توقع نتيجة تجربة علمية بناءً على مقدمات، كيف ترد عليه؟"
                   },
-                  "subContentId": "e51786fa-5834-40e5-b4da-840eb268c606"
+                  "subContentId": "2a52b8c3-8c07-44f7-a3bb-e0bbc564381a"
                 }
               ],
               "disableBackwardsNavigation": false,

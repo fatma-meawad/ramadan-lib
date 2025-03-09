@@ -60,37 +60,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الآية تشير إلى الطغيان وليس التواضع.</p>",
+                          "chosenFeedback": "<p>الحروف المقطعة لا تشير إلى أسماء السور.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الإنسان يتواضع عندما يشعر بالغنى.</p>"
+                        "text": "<p>حروف تشير إلى أسماء السور.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الحروف المقطعة تنطق بأسمائها وليس بمسمياتها.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>حروف تنطق بمسمياتها وليس بأسمائها.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الآية تشير إلى أن الإنسان يطغى عندما يرى نفسه مستغنيًا عن الله.</p>",
+                          "chosenFeedback": "<p>صحيح! الحروف المقطعة تنطق بأسمائها بشكل منفصل.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الإنسان يطغى عندما يرى نفسه مستغنيًا عن الله.</p>"
+                        "text": "<p>حروف تنطق بأسمائها بشكل منفصل.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الآية تتحدث عن الطغيان وليس زيادة الإيمان.</p>",
+                          "chosenFeedback": "<p>الحروف المقطعة لها معنى في سياقها القرآني.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الإنسان يزداد إيمانه عندما يستغني عن الدنيا.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الآية تشير إلى تأثير الغنى على الإنسان.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أن الإنسان لا يتأثر بالغنى أو الفقر.</p>"
+                        "text": "<p>حروف لا معنى لها في اللغة العربية.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -138,18 +138,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟</p>"
+                    "question": "<p>ما المقصود بالحروف المقطعة في بداية بعض سور القرآن؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟",
+                    "title": "ما المقصود بالحروف المقطعة في بداية بعض سور القرآن؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟"
+                    "extraTitle": "ما المقصود بالحروف المقطعة في بداية بعض سور القرآن؟"
                   },
-                  "subContentId": "0013e78f-39d5-431e-9f06-7e002617eb8c"
+                  "subContentId": "177ada58-ed9e-4785-9dc2-5246441b2d8d"
                 },
                 {
                   "params": {
@@ -161,37 +161,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الفهم وحده لا يكفي لإخضاع الكون.</p>",
+                          "chosenFeedback": "<p>الرسول صلى الله عليه وسلم كان أميًا ولم يكن يعرف أسماء الحروف.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>قدرته على فهم قوانين الكون.</p>"
+                        "text": "<p>لأنه كان يعرف أسماء الحروف بطلاقة.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الأشياء تستجيب للإنسان وفقًا لقوانين وضعها الله.</p>",
+                          "chosenFeedback": "<p>صحيح! نطقه بالحروف المقطعة دليل على أن القرآن موحى به من الله.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>استجابة الأشياء له وفقًا لقوانين وضعها الله.</p>"
+                        "text": "<p>لأنه كان أميًا ولم يكن يعرف أسماء الحروف.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>القوة الجسدية والعقلية ليست السبب.</p>",
+                          "chosenFeedback": "<p>الرسول صلى الله عليه وسلم لم يخترع أسماء للحروف.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>قوته الجسدية والعقلية.</p>"
+                        "text": "<p>لأنه اخترع أسماء جديدة للحروف.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الظن بإخضاع الكون لا يرتبط بعدم الإيمان.</p>",
+                          "chosenFeedback": "<p>الرسول صلى الله عليه وسلم لم يتعلم أسماء الحروف.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>عدم إيمانه بوجود الله.</p>"
+                        "text": "<p>لأنه تعلم أسماء الحروف في وقت لاحق.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -239,18 +239,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟</p>"
+                    "question": "<p>لماذا يعتبر نطق الرسول صلى الله عليه وسلم بالحروف المقطعة إعجازًا؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟",
+                    "title": "لماذا يعتبر نطق الرسول صلى الله عليه وسلم بالحروف المقطعة إعجازًا؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟"
+                    "extraTitle": "لماذا يعتبر نطق الرسول صلى الله عليه وسلم بالحروف المقطعة إعجازًا؟"
                   },
-                  "subContentId": "b19d6b27-e769-4ebf-b410-bfe2778933db"
+                  "subContentId": "881f3965-a23c-4cef-a8f6-832a3d327858"
                 },
                 {
                   "params": {
@@ -262,37 +262,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الأشياء لا تعتمد على الإنسان في وجودها.</p>",
+                          "chosenFeedback": "<p>العكس هو الصحيح.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الأشياء تعتمد على الإنسان في وجودها.</p>"
+                        "text": "<p>في بداية السور تنطق بمسمياتها، وفي الآيات الأخرى بأسمائها.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! ذاتية الأشياء تعني وجودها المستقل الذي لا يتغير.</p>",
+                          "chosenFeedback": "<p>صحيح! الحروف المقطعة في بداية السور تنطق بأسمائها، وفي الآيات الأخرى بمسمياتها.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الأشياء لها وجود مستقل لا يتغير.</p>"
+                        "text": "<p>في بداية السور تنطق بأسمائها، وفي الآيات الأخرى بمسمياتها.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الأشياء لا تتغير وفقًا لإرادة الإنسان.</p>",
+                          "chosenFeedback": "<p>يوجد فرق واضح في النطق.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الأشياء تتغير وفقًا لإرادة الإنسان.</p>"
+                        "text": "<p>لا يوجد فرق في النطق بينهما.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الأشياء تحتاج إلى خالق.</p>",
+                          "chosenFeedback": "<p>النطق ليس عشوائيًا بل له قواعد محددة.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الأشياء لا تحتاج إلى خالق.</p>"
+                        "text": "<p>في بداية السور تنطق بشكل عشوائي.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -340,18 +340,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟</p>"
+                    "question": "<p>ما الفرق بين نطق الحروف المقطعة في بداية السور ونطقها في الآيات الأخرى؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟",
+                    "title": "ما الفرق بين نطق الحروف المقطعة في بداية السور ونطقها في الآيات الأخرى؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟"
+                    "extraTitle": "ما الفرق بين نطق الحروف المقطعة في بداية السور ونطقها في الآيات الأخرى؟"
                   },
-                  "subContentId": "9fc37e9a-87d5-46be-9aa5-91b8d733fb53"
+                  "subContentId": "9bf3cd89-39df-420c-aa70-0c631843a2e3"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -454,37 +454,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يسيطر على قوانين الكون.</p>",
+                          "chosenFeedback": "<p>الوقف ليس مرتبطًا بتسهيل القراءة.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنه يسيطر على قوانين الكون.</p>"
+                        "text": "<p>لتسهيل قراءة القرآن على المبتدئين.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإعجاز البلاغي لا يرتبط بالوقف.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لإظهار الإعجاز البلاغي في القرآن.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الأشياء تستجيب للإنسان وفقًا لقوانين وضعها الله.</p>",
+                          "chosenFeedback": "<p>صحيح! الوقف في الحروف المقطعة يميزها عن باقي الآيات.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأن الأشياء تستجيب له وفقًا لقوانين وضعها الله.</p>"
+                        "text": "<p>لتمييزها عن باقي آيات القرآن المبنية على الوصل.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الاعتقاد بالقدرة على إخضاع الكون لا يرتبط بعدم الإيمان.</p>",
+                          "chosenFeedback": "<p>الوقف ليس له علاقة بالموسيقى.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنه لا يؤمن بوجود الله.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يمتلك قوة خارقة.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>لأنه يمتلك قوة خارقة.</p>"
+                        "text": "<p>لإضفاء طابع موسيقي على القرآن.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -532,119 +532,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟</p>"
+                    "question": "<p>ما الحكمة من بناء الحروف المقطعة في بداية السور على الوقف؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟",
+                    "title": "ما الحكمة من بناء الحروف المقطعة في بداية السور على الوقف؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟"
+                    "extraTitle": "ما الحكمة من بناء الحروف المقطعة في بداية السور على الوقف؟"
                   },
-                  "subContentId": "189dd0af-3191-4222-8711-489472c0c1e6"
-                },
-                {
-                  "params": {
-                    "media": {
-                      "disableImageZooming": false
-                    },
-                    "answers": [
-                      {
-                        "correct": true,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>صحيح! الإنسان يحتاج إلى الآخرين في مراحل حياته المختلفة.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أنه يحتاج إلى الآخرين في طفولته وشيخوخته.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يستطيع التحكم في كل شيء حوله.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أنه يستطيع التحكم في كل شيء حوله.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الإنسان يتأثر بالمرض والشيخوخة.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أنه لا يتأثر بالمرض أو الشيخوخة.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الإنسان يحتاج إلى الله في كل شيء.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أنه يعيش دون حاجة إلى الله.</p>"
-                      }
-                    ],
-                    "overallFeedback": [
-                      {
-                        "from": 0,
-                        "to": 100
-                      }
-                    ],
-                    "behaviour": {
-                      "enableRetry": true,
-                      "enableSolutionsButton": true,
-                      "enableCheckButton": true,
-                      "type": "single",
-                      "singlePoint": true,
-                      "randomAnswers": true,
-                      "showSolutionsRequiresInput": true,
-                      "confirmCheckDialog": false,
-                      "confirmRetryDialog": false,
-                      "autoCheck": true,
-                      "passPercentage": 100,
-                      "showScorePoints": true
-                    },
-                    "UI": {
-                      "checkAnswerButton": "Check",
-                      "submitAnswerButton": "Submit",
-                      "showSolutionButton": "Show solution",
-                      "tryAgainButton": "Retry",
-                      "tipsLabel": "Show tip",
-                      "scoreBarLabel": "You got :num out of :total points",
-                      "tipAvailable": "Tip available",
-                      "feedbackAvailable": "Feedback available",
-                      "readFeedback": "Read feedback",
-                      "wrongAnswer": "Wrong answer",
-                      "correctAnswer": "Correct answer"
-                    },
-                    "confirmCheck": {
-                      "header": "Finish?",
-                      "body": "Are you sure you wish to finish?",
-                      "cancelLabel": "Cancel",
-                      "confirmLabel": "Finish"
-                    },
-                    "confirmRetry": {
-                      "header": "Retry?",
-                      "body": "Are you sure you wish to retry?",
-                      "cancelLabel": "Cancel",
-                      "confirmLabel": "Confirm"
-                    },
-                    "question": "<p>ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟</p>"
-                  },
-                  "library": "H5P.MultiChoice 1.16",
-                  "metadata": {
-                    "contentType": "Multiple Choice",
-                    "license": "U",
-                    "title": "ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟",
-                    "authors": [],
-                    "changes": [],
-                    "extraTitle": "ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟"
-                  },
-                  "subContentId": "9a0792ab-0c95-452f-97fe-eeea881ac392"
+                  "subContentId": "f67c680f-0dc6-492d-8e56-32da29ad7900"
                 },
                 {
                   "params": {
@@ -656,37 +555,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>المتغيرات لا تهدف إلى زيادة الغرور.</p>",
+                          "chosenFeedback": "<p>الحروف المقطعة لا تخضع لقواعد نحوية.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لتجعل الإنسان يشعر بالغرور.</p>"
+                        "text": "<p>أنها تخضع لقواعد نحوية محددة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>التنوع في الإعجاز لا يفسر اختلاف عدد الحروف.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنها تعكس تنوعًا في الإعجاز القرآني.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>لا يوجد ارتباط بين الحروف المقطعة وموضوع السورة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنها مرتبطة بموضوع السورة.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! المتغيرات تهدف إلى إنهاء الغرور من نفس الإنسان.</p>",
+                          "chosenFeedback": "<p>صحيح! الحروف المقطعة تعكس خصوصية كل سورة دون قاعدة عامة.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لتنهي الغرور من نفس الإنسان.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يمكن أن يعتمد على نفسه فقط.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>لتجعل الإنسان يعتمد على نفسه فقط.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>المتغيرات لا تهدف إلى جعل الإنسان يشعر بالضعف دائمًا.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>لتجعل الإنسان يشعر بالضعف دائمًا.</p>"
+                        "text": "<p>أنها لا تخضع لقاعدة محددة وتعكس خصوصية كل سورة.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -734,18 +633,119 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو الغرض من وجود المتغيرات في حياة الإنسان؟</p>"
+                    "question": "<p>ما الذي يدل عليه اختلاف عدد الحروف المقطعة في بداية السور؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو الغرض من وجود المتغيرات في حياة الإنسان؟",
+                    "title": "ما الذي يدل عليه اختلاف عدد الحروف المقطعة في بداية السور؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو الغرض من وجود المتغيرات في حياة الإنسان؟"
+                    "extraTitle": "ما الذي يدل عليه اختلاف عدد الحروف المقطعة في بداية السور؟"
                   },
-                  "subContentId": "20657d42-47a7-4a3c-9ddf-e29e0f76d2f1"
+                  "subContentId": "07891ee3-b349-4b8e-a2b4-3dd481253481"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>العكس هو الصحيح.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>حروف المبنى لها معنى، وحروف المعنى لا معنى لها.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! حروف المبنى تدل على الصوت، وحروف المعنى لها دلالات لغوية.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>حروف المبنى تدل على الصوت فقط، وحروف المعنى لها دلالات لغوية.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>حروف المبنى تستخدم في اللغة بشكل عام.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>حروف المبنى تستخدم في الشعر فقط.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>حروف المعنى تستخدم في اللغة بشكل عام.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>حروف المعنى تستخدم في القرآن فقط.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما الفرق بين حروف المبنى وحروف المعنى؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما الفرق بين حروف المبنى وحروف المعنى؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما الفرق بين حروف المبنى وحروف المعنى؟"
+                  },
+                  "subContentId": "7b99ed66-50ee-4cbb-99aa-8b22b132cfa4"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -842,40 +842,40 @@
                     },
                     "answers": [
                       {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الصنف الأول كفر عن إرادة، والثاني كفر عن استفادة.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>الصنف الأول كفر عن جهل، والثاني كفر عن علم.</p>"
-                      },
-                      {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الصنف الأول كفر بإرادته، والثاني كفر لأنه مستفيد من الكفر.</p>",
+                          "chosenFeedback": "<p>صحيح! وجودها في القرآن يدل على أنها تحمل معنى خاصًا.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>الصنف الأول كفر عن إرادة، والثاني كفر عن استفادة.</p>"
+                        "text": "<p>وجودها في القرآن يدل على أنها تحمل معنى خاصًا.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الكفر لا يرتبط بالضعف أو القوة.</p>",
+                          "chosenFeedback": "<p>عدم وجود تفسير لا يعني أنها بلا معنى.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>الصنف الأول كفر عن ضعف، والثاني كفر عن قوة.</p>"
+                        "text": "<p>عدم وجود تفسير لها يدل على أنها بلا معنى.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الكفر لا يرتبط بالحاجة أو الغنى.</p>",
+                          "chosenFeedback": "<p>الحروف المقطعة فريدة في القرآن.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>الصنف الأول كفر عن حاجة، والثاني كفر عن غنى.</p>"
+                        "text": "<p>تشابهها مع الحروف في اللغات الأخرى.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الحروف المقطعة مذكورة في القرآن وليس في الأحاديث.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>عدم ذكرها في الأحاديث النبوية.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -923,18 +923,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟</p>"
+                    "question": "<p>ما الدليل على أن الحروف المقطعة ليست مجرد رموز بلا معنى؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟",
+                    "title": "ما الدليل على أن الحروف المقطعة ليست مجرد رموز بلا معنى؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟"
+                    "extraTitle": "ما الدليل على أن الحروف المقطعة ليست مجرد رموز بلا معنى؟"
                   },
-                  "subContentId": "5ba2a779-0030-4c31-97ce-3633dd034475"
+                  "subContentId": "8c2980be-5c64-42f2-a01a-c19df3e34fc6"
                 },
                 {
                   "params": {
@@ -946,37 +946,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>هم سمعوا عن الإيمان ولكنهم رفضوه.</p>",
+                          "chosenFeedback": "<p>الحديث يؤكد أن لها ثوابًا.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنهم لم يسمعوا عن الإيمان.</p>"
+                        "text": "<p>أنها لا تحمل أي ثواب لأنها بلا معنى.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! هم يريدون الاحتفاظ بسلطاتهم الدنيوية.</p>",
+                          "chosenFeedback": "<p>صحيح! الحديث يؤكد أن قراءة الحروف المقطعة تحمل ثوابًا مضاعفًا.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنهم يريدون الاحتفاظ بسلطاتهم الدنيوية.</p>"
+                        "text": "<p>أنها تحمل ثوابًا مضاعفًا لكل حرف.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>هم يعرفون بوجود الله ولكنهم يرفضون الإيمان.</p>",
+                          "chosenFeedback": "<p>الحديث لا يشير إلى تفاوت في الثواب.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنهم لا يؤمنون بوجود الله.</p>"
+                        "text": "<p>أنها تحمل ثوابًا أقل من الآيات الأخرى.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>هم ليسوا في جهل بل يعرفون الحق.</p>",
+                          "chosenFeedback": "<p>الثواب لا يرتبط بفهم المعنى.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنهم يعيشون في جهل.</p>"
+                        "text": "<p>أنها تحمل ثوابًا فقط إذا فهم معناها.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1024,18 +1024,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟</p>"
+                    "question": "<p>ما الذي يمكن استنتاجه من حديث الرسول صلى الله عليه وسلم عن ثواب قراءة الحروف المقطعة؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟",
+                    "title": "ما الذي يمكن استنتاجه من حديث الرسول صلى الله عليه وسلم عن ثواب قراءة الحروف المقطعة؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟"
+                    "extraTitle": "ما الذي يمكن استنتاجه من حديث الرسول صلى الله عليه وسلم عن ثواب قراءة الحروف المقطعة؟"
                   },
-                  "subContentId": "a5ba6267-19a1-4a23-b3f4-bfb6ca9c21d8"
+                  "subContentId": "0d5684bf-07d3-4c5d-9a78-1e4a19e5e3df"
                 },
                 {
                   "params": {
@@ -1047,37 +1047,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الختم على القلب لا يعني عدم استقبال المعلومات.</p>",
+                          "chosenFeedback": "<p>لا يوجد ارتباط بين الحروف المقطعة وترتيب النزول.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن القلب لا يستقبل أي معلومات جديدة.</p>"
+                        "text": "<p>أنها تخضع لترتيب زمني لنزول السور.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإعجاز العددي ليس هو الغرض الرئيسي.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنها تعكس إعجازًا عدديًا في القرآن.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>لا يوجد ارتباط بين الحروف المقطعة وموضوع السورة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنها مرتبطة بموضوع السورة.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الختم على القلب يعني أنه لا يخرج منه الكفر ولا يدخله الإيمان.</p>",
+                          "chosenFeedback": "<p>صحيح! التنوع يعكس إعجازًا قرآنيًا دون قاعدة محددة.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن القلب لا يخرج منه الكفر ولا يدخله الإيمان.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>القلب لا يصبح مغلقًا عن العالم الخارجي.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أن القلب يصبح مغلقًا عن العالم الخارجي.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>القلب لا يفقد القدرة على الإحساس.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أن القلب يفقد القدرة على الإحساس.</p>"
+                        "text": "<p>أنها تعكس تنوعًا في الإعجاز القرآني دون قاعدة محددة.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1125,18 +1125,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو معنى 'الختم على القلب' كما ورد في النص؟</p>"
+                    "question": "<p>ما الذي يدل عليه تنوع الحروف المقطعة في بداية السور من حيث العدد والترتيب؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو معنى 'الختم على القلب' كما ورد في النص؟",
+                    "title": "ما الذي يدل عليه تنوع الحروف المقطعة في بداية السور من حيث العدد والترتيب؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو معنى 'الختم على القلب' كما ورد في النص؟"
+                    "extraTitle": "ما الذي يدل عليه تنوع الحروف المقطعة في بداية السور من حيث العدد والترتيب؟"
                   },
-                  "subContentId": "9b3de70e-0520-40f0-b874-e11e675950fa"
+                  "subContentId": "0e6e559c-e08e-44ba-9268-767320c6c36e"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -1237,37 +1237,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التشجيع وحده لا يكفي، يجب تذكيره بدور الله.</p>",
+                          "chosenFeedback": "<p>عدم فهم المعنى لا يعني أنه لا يوجد معنى.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أهنئه على جهده وأشجعه على الاستمرار.</p>"
+                        "text": "<p>أوافق لأن المعنى غير واضح.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! يجب تذكيره بأن الله هو الذي سخر له الأسباب.</p>",
+                          "chosenFeedback": "<p>صحيح! الحروف المقطعة جزء من الإعجاز القرآني ولها حكمة عند الله.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أذكره بأن الله هو الذي سخر له الأسباب لتحقيق النجاح.</p>"
+                        "text": "<p>أرفض لأنها جزء من الإعجاز القرآني ولها حكمة عند الله.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>النجاح مرتبط بتدخل الله.</p>",
+                          "chosenFeedback": "<p>القرآن ليس مجرد زخرفة لغوية.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أخبره أن النجاح لا علاقة له بالله.</p>"
+                        "text": "<p>أقول إنها مجرد زخرفة لغوية.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الاعتماد على النفس فقط يغفل دور الله.</p>",
+                          "chosenFeedback": "<p>الحروف المقطعة ليست مرتبطة بثقافة العرب فقط.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أطلب منه أن يعتمد على نفسه فقط.</p>"
+                        "text": "<p>أقول إنها مرتبطة بثقافة العرب فقط.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1315,18 +1315,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟</p>"
+                    "question": "<p>إذا قال شخص إن الحروف المقطعة في القرآن لا معنى لها لأنها غير مفهومة، كيف ترد عليه؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟",
+                    "title": "إذا قال شخص إن الحروف المقطعة في القرآن لا معنى لها لأنها غير مفهومة، كيف ترد عليه؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟"
+                    "extraTitle": "إذا قال شخص إن الحروف المقطعة في القرآن لا معنى لها لأنها غير مفهومة، كيف ترد عليه؟"
                   },
-                  "subContentId": "871535fe-57b7-40a9-a0e5-f1a934887c4e"
+                  "subContentId": "76c6b7eb-2a0d-4a80-b33b-21c721b0b6f7"
                 },
                 {
                   "params": {
@@ -1338,37 +1338,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التكنولوجيا هي من صنع البشر ولكن بتسخير الله.</p>",
+                          "chosenFeedback": "<p>القراءة من الكتب لا تكفي لمعرفة النطق الصحيح.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أوافقه على أن البشر هم من صنعوا التكنولوجيا.</p>"
+                        "text": "<p>يمكنه تعلم القرآن من الكتب فقط.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الله هو الذي سخر القوانين الطبيعية لصنع التكنولوجيا.</p>",
+                          "chosenFeedback": "<p>صحيح! الاستماع إلى قارئ ضروري لفهم نطق الحروف المقطعة.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أذكره بأن الله هو الذي سخر القوانين الطبيعية لصنع التكنولوجيا.</p>"
+                        "text": "<p>يجب أن يستمع إلى قارئ ليعرف كيفية نطق الحروف المقطعة.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التكنولوجيا مرتبطة بتسخير الله للقوانين.</p>",
+                          "chosenFeedback": "<p>النطق ليس واضحًا دائمًا في الكتب.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أخبره أن التكنولوجيا لا علاقة لها بالله.</p>"
+                        "text": "<p>لا داعي للاستماع لأن النطق واضح في الكتب.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التوقف عن استخدام التكنولوجيا ليس حلًا.</p>",
+                          "chosenFeedback": "<p>الترجمة لا تغني عن الاستماع للنطق الصحيح.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أطلب منه أن يتوقف عن استخدام التكنولوجيا.</p>"
+                        "text": "<p>يمكنه الاعتماد على الترجمة فقط.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1416,18 +1416,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟</p>"
+                    "question": "<p>إذا أراد شخص تعلم قراءة القرآن دون الاستماع إلى قارئ، ما النصيحة التي تقدمها له بناءً على فهم الحروف المقطعة؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟",
+                    "title": "إذا أراد شخص تعلم قراءة القرآن دون الاستماع إلى قارئ، ما النصيحة التي تقدمها له بناءً على فهم الحروف المقطعة؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟"
+                    "extraTitle": "إذا أراد شخص تعلم قراءة القرآن دون الاستماع إلى قارئ، ما النصيحة التي تقدمها له بناءً على فهم الحروف المقطعة؟"
                   },
-                  "subContentId": "dc46e0fe-3fe5-4a24-bded-68b21ce641bd"
+                  "subContentId": "6685351f-b131-4d44-93fd-56210333f057"
                 },
                 {
                   "params": {
@@ -1439,37 +1439,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التشجيع وحده لا يكفي، يجب تذكيره بدور الله.</p>",
+                          "chosenFeedback": "<p>عدم فهم المعنى لا يعني أنها بلا معنى.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أهنئه على قوته وأشجعه على الاستمرار.</p>"
+                        "text": "<p>أوافق لأنها غير مفهومة.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! يجب تذكيره بأن القوة الجسدية هي من الله وقد تتغير.</p>",
+                          "chosenFeedback": "<p>صحيح! الحروف المقطعة تحمل معنى عند الله وليست مجرد رموز.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أذكره بأن القوة الجسدية هي من الله وقد تتغير في أي وقت.</p>"
+                        "text": "<p>أرفض لأنها تحمل معنى عند الله وليست مجرد رموز.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>القوة الجسدية مرتبطة بتسخير الله.</p>",
+                          "chosenFeedback": "<p>الحروف المقطعة ليست رموزًا رياضية.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أخبره أن القوة الجسدية لا علاقة لها بالله.</p>"
+                        "text": "<p>أقول إنها تشبه الرموز الرياضية.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الاعتماد على القوة فقط يغفل دور الله.</p>",
+                          "chosenFeedback": "<p>الحروف المقطعة ليست مرتبطة باللغة العبرية.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أطلب منه أن يعتمد على قوته فقط.</p>"
+                        "text": "<p>أقول إنها مرتبطة باللغة العبرية.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1517,18 +1517,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟</p>"
+                    "question": "<p>إذا قال شخص إن الحروف المقطعة تشبه كلمات السر التي لا معنى لها، كيف ترد عليه؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟",
+                    "title": "إذا قال شخص إن الحروف المقطعة تشبه كلمات السر التي لا معنى لها، كيف ترد عليه؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟"
+                    "extraTitle": "إذا قال شخص إن الحروف المقطعة تشبه كلمات السر التي لا معنى لها، كيف ترد عليه؟"
                   },
-                  "subContentId": "e51786fa-5834-40e5-b4da-840eb268c606"
+                  "subContentId": "41629e98-a8d0-4eee-af4a-8039c1f735a9"
                 }
               ],
               "disableBackwardsNavigation": false,

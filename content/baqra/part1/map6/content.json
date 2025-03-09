@@ -60,37 +60,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الآية تشير إلى الطغيان وليس التواضع.</p>",
+                          "chosenFeedback": "<p>الغيب يتعلق بما لا يمكن رؤيته أو إدراكه بالحواس.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الإنسان يتواضع عندما يشعر بالغنى.</p>"
+                        "text": "<p>كل ما يمكن رؤيته بالعين المجردة.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الآية تشير إلى أن الإنسان يطغى عندما يرى نفسه مستغنيًا عن الله.</p>",
+                          "chosenFeedback": "<p>صحيح! الغيب هو ما لا يعلمه إلا الله سبحانه وتعالى.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الإنسان يطغى عندما يرى نفسه مستغنيًا عن الله.</p>"
+                        "text": "<p>كل ما لا يعلمه إلا الله سبحانه وتعالى.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الآية تتحدث عن الطغيان وليس زيادة الإيمان.</p>",
+                          "chosenFeedback": "<p>العلم الحديث يكتشف بعض الأمور، لكن الغيب يبقى خاصًا بالله.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الإنسان يزداد إيمانه عندما يستغني عن الدنيا.</p>"
+                        "text": "<p>الأمور التي يمكن إثباتها بالعلم الحديث.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الآية تشير إلى تأثير الغنى على الإنسان.</p>",
+                          "chosenFeedback": "<p>الأحداث التاريخية ليست بالضرورة غيبًا.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الإنسان لا يتأثر بالغنى أو الفقر.</p>"
+                        "text": "<p>الأحداث التاريخية التي وقعت في الماضي.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -138,18 +138,119 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟</p>"
+                    "question": "<p>ما هو الغيب وفقًا للآيات المذكورة؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟",
+                    "title": "ما هو الغيب وفقًا للآيات المذكورة؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟"
+                    "extraTitle": "ما هو الغيب وفقًا للآيات المذكورة؟"
                   },
-                  "subContentId": "0013e78f-39d5-431e-9f06-7e002617eb8c"
+                  "subContentId": "0cdbafa0-e60c-483c-ab11-abefe40d78dc"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! قمة الإيمان بالغيب تشمل الإيمان بالله وملائكته وكتبه ورسله واليوم الآخر.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الإيمان بالله وملائكته وكتبه ورسله واليوم الآخر.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإيمان بالعلم الحديث مهم، لكنه لا يشمل كل جوانب الغيب.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الإيمان بالعلم الحديث فقط.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإيمان بالغيب يتجاوز الأمور المادية.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الإيمان بالأمور المادية التي يمكن رؤيتها.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإيمان بالتاريخ جزء من المعرفة، وليس من الغيب.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الإيمان بالتاريخ والأحداث الماضية.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هي قمة الإيمان بالغيب؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هي قمة الإيمان بالغيب؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هي قمة الإيمان بالغيب؟"
+                  },
+                  "subContentId": "f6271e39-17cc-40e1-9024-8226bd167504"
                 },
                 {
                   "params": {
@@ -161,37 +262,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الفهم وحده لا يكفي لإخضاع الكون.</p>",
+                          "chosenFeedback": "<p>المؤمنون لا يرون الملائكة أو اليوم الآخر مباشرة.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>قدرته على فهم قوانين الكون.</p>"
+                        "text": "<p>رؤيتهم مباشرة.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الأشياء تستجيب للإنسان وفقًا لقوانين وضعها الله.</p>",
+                          "chosenFeedback": "<p>صحيح! نؤمن بهم لأن الله أخبرنا عنهم.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>استجابة الأشياء له وفقًا لقوانين وضعها الله.</p>"
+                        "text": "<p>إخبار الله لنا عنهم.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>القوة الجسدية والعقلية ليست السبب.</p>",
+                          "chosenFeedback": "<p>العلم الحديث لا يمكنه إثبات وجود الملائكة أو اليوم الآخر.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>قوته الجسدية والعقلية.</p>"
+                        "text": "<p>إثبات العلم الحديث لوجودهم.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الظن بإخضاع الكون لا يرتبط بعدم الإيمان.</p>",
+                          "chosenFeedback": "<p>التجارب الشخصية ليست أساسًا للإيمان بالغيب.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>عدم إيمانه بوجود الله.</p>"
+                        "text": "<p>التجارب الشخصية.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -239,119 +340,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟</p>"
+                    "question": "<p>ما الذي يجعلنا نؤمن بالملائكة واليوم الآخر؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟",
+                    "title": "ما الذي يجعلنا نؤمن بالملائكة واليوم الآخر؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟"
+                    "extraTitle": "ما الذي يجعلنا نؤمن بالملائكة واليوم الآخر؟"
                   },
-                  "subContentId": "b19d6b27-e769-4ebf-b410-bfe2778933db"
-                },
-                {
-                  "params": {
-                    "media": {
-                      "disableImageZooming": false
-                    },
-                    "answers": [
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الأشياء لا تعتمد على الإنسان في وجودها.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أن الأشياء تعتمد على الإنسان في وجودها.</p>"
-                      },
-                      {
-                        "correct": true,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>صحيح! ذاتية الأشياء تعني وجودها المستقل الذي لا يتغير.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أن الأشياء لها وجود مستقل لا يتغير.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الأشياء لا تتغير وفقًا لإرادة الإنسان.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أن الأشياء تتغير وفقًا لإرادة الإنسان.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الأشياء تحتاج إلى خالق.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أن الأشياء لا تحتاج إلى خالق.</p>"
-                      }
-                    ],
-                    "overallFeedback": [
-                      {
-                        "from": 0,
-                        "to": 100
-                      }
-                    ],
-                    "behaviour": {
-                      "enableRetry": true,
-                      "enableSolutionsButton": true,
-                      "enableCheckButton": true,
-                      "type": "single",
-                      "singlePoint": true,
-                      "randomAnswers": true,
-                      "showSolutionsRequiresInput": true,
-                      "confirmCheckDialog": false,
-                      "confirmRetryDialog": false,
-                      "autoCheck": true,
-                      "passPercentage": 100,
-                      "showScorePoints": true
-                    },
-                    "UI": {
-                      "checkAnswerButton": "Check",
-                      "submitAnswerButton": "Submit",
-                      "showSolutionButton": "Show solution",
-                      "tryAgainButton": "Retry",
-                      "tipsLabel": "Show tip",
-                      "scoreBarLabel": "You got :num out of :total points",
-                      "tipAvailable": "Tip available",
-                      "feedbackAvailable": "Feedback available",
-                      "readFeedback": "Read feedback",
-                      "wrongAnswer": "Wrong answer",
-                      "correctAnswer": "Correct answer"
-                    },
-                    "confirmCheck": {
-                      "header": "Finish?",
-                      "body": "Are you sure you wish to finish?",
-                      "cancelLabel": "Cancel",
-                      "confirmLabel": "Finish"
-                    },
-                    "confirmRetry": {
-                      "header": "Retry?",
-                      "body": "Are you sure you wish to retry?",
-                      "cancelLabel": "Cancel",
-                      "confirmLabel": "Confirm"
-                    },
-                    "question": "<p>ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟</p>"
-                  },
-                  "library": "H5P.MultiChoice 1.16",
-                  "metadata": {
-                    "contentType": "Multiple Choice",
-                    "license": "U",
-                    "title": "ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟",
-                    "authors": [],
-                    "changes": [],
-                    "extraTitle": "ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟"
-                  },
-                  "subContentId": "9fc37e9a-87d5-46be-9aa5-91b8d733fb53"
+                  "subContentId": "b17a202d-7c71-4f72-b6d2-0e7a532eb006"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -451,40 +451,40 @@
                     },
                     "answers": [
                       {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يسيطر على قوانين الكون.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>لأنه يسيطر على قوانين الكون.</p>"
-                      },
-                      {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الأشياء تستجيب للإنسان وفقًا لقوانين وضعها الله.</p>",
+                          "chosenFeedback": "<p>صحيح! الله أكبر من أن يدرك بحواس البشر المحدودة.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأن الأشياء تستجيب له وفقًا لقوانين وضعها الله.</p>"
+                        "text": "<p>لأن الله أكبر من أن يدرك بحواس البشر.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الاعتقاد بالقدرة على إخضاع الكون لا يرتبط بعدم الإيمان.</p>",
+                          "chosenFeedback": "<p>حواس الإنسان محدودة ولا يمكنها إدراك كل شيء.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنه لا يؤمن بوجود الله.</p>"
+                        "text": "<p>لأن حواس الإنسان قادرة على إدراك كل شيء.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يمتلك قوة خارقة.</p>",
+                          "chosenFeedback": "<p>الله موجود في كل مكان، لكنه ليس ماديًا.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنه يمتلك قوة خارقة.</p>"
+                        "text": "<p>لأن الله غير موجود في الكون المادي.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإنسان يحتاج إلى الإيمان بالله، لكن ليس بإدراكه بحواسه.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأن الإنسان لا يحتاج إلى إدراك الله.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -532,119 +532,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟</p>"
+                    "question": "<p>لماذا لا يمكن للإنسان أن يدرك الله بحواسه؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟",
+                    "title": "لماذا لا يمكن للإنسان أن يدرك الله بحواسه؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟"
+                    "extraTitle": "لماذا لا يمكن للإنسان أن يدرك الله بحواسه؟"
                   },
-                  "subContentId": "189dd0af-3191-4222-8711-489472c0c1e6"
-                },
-                {
-                  "params": {
-                    "media": {
-                      "disableImageZooming": false
-                    },
-                    "answers": [
-                      {
-                        "correct": true,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>صحيح! الإنسان يحتاج إلى الآخرين في مراحل حياته المختلفة.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أنه يحتاج إلى الآخرين في طفولته وشيخوخته.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يستطيع التحكم في كل شيء حوله.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أنه يستطيع التحكم في كل شيء حوله.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الإنسان يتأثر بالمرض والشيخوخة.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أنه لا يتأثر بالمرض أو الشيخوخة.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الإنسان يحتاج إلى الله في كل شيء.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أنه يعيش دون حاجة إلى الله.</p>"
-                      }
-                    ],
-                    "overallFeedback": [
-                      {
-                        "from": 0,
-                        "to": 100
-                      }
-                    ],
-                    "behaviour": {
-                      "enableRetry": true,
-                      "enableSolutionsButton": true,
-                      "enableCheckButton": true,
-                      "type": "single",
-                      "singlePoint": true,
-                      "randomAnswers": true,
-                      "showSolutionsRequiresInput": true,
-                      "confirmCheckDialog": false,
-                      "confirmRetryDialog": false,
-                      "autoCheck": true,
-                      "passPercentage": 100,
-                      "showScorePoints": true
-                    },
-                    "UI": {
-                      "checkAnswerButton": "Check",
-                      "submitAnswerButton": "Submit",
-                      "showSolutionButton": "Show solution",
-                      "tryAgainButton": "Retry",
-                      "tipsLabel": "Show tip",
-                      "scoreBarLabel": "You got :num out of :total points",
-                      "tipAvailable": "Tip available",
-                      "feedbackAvailable": "Feedback available",
-                      "readFeedback": "Read feedback",
-                      "wrongAnswer": "Wrong answer",
-                      "correctAnswer": "Correct answer"
-                    },
-                    "confirmCheck": {
-                      "header": "Finish?",
-                      "body": "Are you sure you wish to finish?",
-                      "cancelLabel": "Cancel",
-                      "confirmLabel": "Finish"
-                    },
-                    "confirmRetry": {
-                      "header": "Retry?",
-                      "body": "Are you sure you wish to retry?",
-                      "cancelLabel": "Cancel",
-                      "confirmLabel": "Confirm"
-                    },
-                    "question": "<p>ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟</p>"
-                  },
-                  "library": "H5P.MultiChoice 1.16",
-                  "metadata": {
-                    "contentType": "Multiple Choice",
-                    "license": "U",
-                    "title": "ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟",
-                    "authors": [],
-                    "changes": [],
-                    "extraTitle": "ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟"
-                  },
-                  "subContentId": "9a0792ab-0c95-452f-97fe-eeea881ac392"
+                  "subContentId": "7e875945-6537-4120-b866-db13f69ea6eb"
                 },
                 {
                   "params": {
@@ -656,37 +555,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>المتغيرات لا تهدف إلى زيادة الغرور.</p>",
+                          "chosenFeedback": "<p>الروح لا تُرى مباشرة.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لتجعل الإنسان يشعر بالغرور.</p>"
+                        "text": "<p>رؤية الروح مباشرة.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! المتغيرات تهدف إلى إنهاء الغرور من نفس الإنسان.</p>",
+                          "chosenFeedback": "<p>صحيح! نعرف وجود الروح من خلال آثارها في إحياء الجسد.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لتنهي الغرور من نفس الإنسان.</p>"
+                        "text": "<p>آثار الروح في إحياء الجسد.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يمكن أن يعتمد على نفسه فقط.</p>",
+                          "chosenFeedback": "<p>العلم الحديث لا يمكنه إثبات وجود الروح بشكل مباشر.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لتجعل الإنسان يعتمد على نفسه فقط.</p>"
+                        "text": "<p>إثبات العلم الحديث لوجود الروح.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>المتغيرات لا تهدف إلى جعل الإنسان يشعر بالضعف دائمًا.</p>",
+                          "chosenFeedback": "<p>التجارب الشخصية ليست دليلًا كافيًا.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لتجعل الإنسان يشعر بالضعف دائمًا.</p>"
+                        "text": "<p>التجارب الشخصية فقط.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -734,18 +633,119 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو الغرض من وجود المتغيرات في حياة الإنسان؟</p>"
+                    "question": "<p>ما الذي يدل على وجود الروح في الجسد؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو الغرض من وجود المتغيرات في حياة الإنسان؟",
+                    "title": "ما الذي يدل على وجود الروح في الجسد؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو الغرض من وجود المتغيرات في حياة الإنسان؟"
+                    "extraTitle": "ما الذي يدل على وجود الروح في الجسد؟"
                   },
-                  "subContentId": "20657d42-47a7-4a3c-9ddf-e29e0f76d2f1"
+                  "subContentId": "00a7feab-a7ab-4af3-ae7f-9d99c51b241a"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الفوضى لا تدل على وجود خالق.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الفوضى وعدم النظام في الكون.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! النظام الدقيق والتناسق في الكون يدلان على وجود خالق.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>النظام الدقيق والتناسق في الكون.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المصادفات لا يمكن أن تخلق نظامًا دقيقًا.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>المصادفات العشوائية.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هناك أدلة كثيرة على وجود خالق.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>عدم وجود أي دليل على وجود خالق.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما الذي يدل على أن الكون له خالق؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما الذي يدل على أن الكون له خالق؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما الذي يدل على أن الكون له خالق؟"
+                  },
+                  "subContentId": "0889c38e-ea66-4347-bb65-088960c9710d"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -845,37 +845,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الصنف الأول كفر عن إرادة، والثاني كفر عن استفادة.</p>",
+                          "chosenFeedback": "<p>هناك فرق واضح بين الوجود والإدراك.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>الصنف الأول كفر عن جهل، والثاني كفر عن علم.</p>"
+                        "text": "<p>لا يوجد فرق بينهما.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الصنف الأول كفر بإرادته، والثاني كفر لأنه مستفيد من الكفر.</p>",
+                          "chosenFeedback": "<p>صحيح! الوجود يعني أن الشيء موجود، والإدراك يعني معرفة وجوده.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>الصنف الأول كفر عن إرادة، والثاني كفر عن استفادة.</p>"
+                        "text": "<p>الوجود يعني أن الشيء موجود، والإدراك يعني معرفة وجوده.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الكفر لا يرتبط بالضعف أو القوة.</p>",
+                          "chosenFeedback": "<p>الإدراك لا يسبق الوجود دائمًا.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>الصنف الأول كفر عن ضعف، والثاني كفر عن قوة.</p>"
+                        "text": "<p>الإدراك يسبق الوجود دائمًا.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الكفر لا يرتبط بالحاجة أو الغنى.</p>",
+                          "chosenFeedback": "<p>الوجود لا يعتمد على الإدراك فقط.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>الصنف الأول كفر عن حاجة، والثاني كفر عن غنى.</p>"
+                        "text": "<p>الوجود يعتمد على الإدراك فقط.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -923,18 +923,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟</p>"
+                    "question": "<p>ما هو الفرق بين وجود الشيء وإدراك وجوده؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟",
+                    "title": "ما هو الفرق بين وجود الشيء وإدراك وجوده؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟"
+                    "extraTitle": "ما هو الفرق بين وجود الشيء وإدراك وجوده؟"
                   },
-                  "subContentId": "5ba2a779-0030-4c31-97ce-3633dd034475"
+                  "subContentId": "42a711ba-9fe8-4db9-b629-fd641a65ddbb"
                 },
                 {
                   "params": {
@@ -946,37 +946,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>هم سمعوا عن الإيمان ولكنهم رفضوه.</p>",
+                          "chosenFeedback": "<p>الرسل لا يعلمون الغيب كله.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنهم لم يسمعوا عن الإيمان.</p>"
+                        "text": "<p>الرسل يعلمون الغيب كله.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! هم يريدون الاحتفاظ بسلطاتهم الدنيوية.</p>",
+                          "chosenFeedback": "<p>صحيح! الرسل يعلمون الغيب فقط إذا أخبرهم الله به.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنهم يريدون الاحتفاظ بسلطاتهم الدنيوية.</p>"
+                        "text": "<p>الرسل يعلمون الغيب فقط إذا أخبرهم الله به.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>هم يعرفون بوجود الله ولكنهم يرفضون الإيمان.</p>",
+                          "chosenFeedback": "<p>الرسل يعلمون الغيب إذا أخبرهم الله به.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنهم لا يؤمنون بوجود الله.</p>"
+                        "text": "<p>الرسل لا يعلمون الغيب مطلقًا.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>هم ليسوا في جهل بل يعرفون الحق.</p>",
+                          "chosenFeedback": "<p>العلم الحديث لا علاقة له بمعرفة الرسل للغيب.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنهم يعيشون في جهل.</p>"
+                        "text": "<p>الرسل يعلمون الغيب من خلال العلم الحديث.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1024,18 +1024,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟</p>"
+                    "question": "<p>ما الذي يدل على أن الرسل لا يعلمون الغيب؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟",
+                    "title": "ما الذي يدل على أن الرسل لا يعلمون الغيب؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟"
+                    "extraTitle": "ما الذي يدل على أن الرسل لا يعلمون الغيب؟"
                   },
-                  "subContentId": "a5ba6267-19a1-4a23-b3f4-bfb6ca9c21d8"
+                  "subContentId": "6e129130-d60c-4aea-93bc-d273105b73af"
                 },
                 {
                   "params": {
@@ -1047,37 +1047,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الختم على القلب لا يعني عدم استقبال المعلومات.</p>",
+                          "chosenFeedback": "<p>الفوضى لا تدل على وجود خالق.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن القلب لا يستقبل أي معلومات جديدة.</p>"
+                        "text": "<p>الفوضى وعدم النظام في الكون.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الختم على القلب يعني أنه لا يخرج منه الكفر ولا يدخله الإيمان.</p>",
+                          "chosenFeedback": "<p>صحيح! النظام الدقيق والتناسق في الكون يدلان على وجود خالق.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن القلب لا يخرج منه الكفر ولا يدخله الإيمان.</p>"
+                        "text": "<p>النظام الدقيق والتناسق في الكون.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>القلب لا يصبح مغلقًا عن العالم الخارجي.</p>",
+                          "chosenFeedback": "<p>المصادفات لا يمكن أن تخلق نظامًا دقيقًا.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن القلب يصبح مغلقًا عن العالم الخارجي.</p>"
+                        "text": "<p>المصادفات العشوائية.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>القلب لا يفقد القدرة على الإحساس.</p>",
+                          "chosenFeedback": "<p>هناك أدلة كثيرة على وجود خالق.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن القلب يفقد القدرة على الإحساس.</p>"
+                        "text": "<p>عدم وجود أي دليل على وجود خالق.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1125,18 +1125,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو معنى 'الختم على القلب' كما ورد في النص؟</p>"
+                    "question": "<p>ما الذي يدل على أن الكون لم يوجد بالصدفة؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو معنى 'الختم على القلب' كما ورد في النص؟",
+                    "title": "ما الذي يدل على أن الكون لم يوجد بالصدفة؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو معنى 'الختم على القلب' كما ورد في النص؟"
+                    "extraTitle": "ما الذي يدل على أن الكون لم يوجد بالصدفة؟"
                   },
-                  "subContentId": "9b3de70e-0520-40f0-b874-e11e675950fa"
+                  "subContentId": "aba8b999-ad1f-44c0-b9a6-dfcedf7a3a5e"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -1237,37 +1237,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التشجيع وحده لا يكفي، يجب تذكيره بدور الله.</p>",
+                          "chosenFeedback": "<p>المؤمنون لا يرون الملائكة مباشرة.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أهنئه على جهده وأشجعه على الاستمرار.</p>"
+                        "text": "<p>نؤمن بالملائكة لأننا نراهم مباشرة.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! يجب تذكيره بأن الله هو الذي سخر له الأسباب.</p>",
+                          "chosenFeedback": "<p>صحيح! نؤمن بالملائكة لأن الله أخبرنا عنهم.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أذكره بأن الله هو الذي سخر له الأسباب لتحقيق النجاح.</p>"
+                        "text": "<p>نؤمن بالملائكة لأن الله أخبرنا عنهم.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>النجاح مرتبط بتدخل الله.</p>",
+                          "chosenFeedback": "<p>العلم الحديث لا يمكنه إثبات وجود الملائكة.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أخبره أن النجاح لا علاقة له بالله.</p>"
+                        "text": "<p>نؤمن بالملائكة لأن العلم أثبت وجودهم.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الاعتماد على النفس فقط يغفل دور الله.</p>",
+                          "chosenFeedback": "<p>الأحلام ليست دليلًا على وجود الملائكة.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أطلب منه أن يعتمد على نفسه فقط.</p>"
+                        "text": "<p>نؤمن بالملائكة لأنهم يظهرون في الأحلام.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1315,18 +1315,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟</p>"
+                    "question": "<p>إذا قال شخص إنه لا يؤمن بالملائكة لأنه لم يرهم، كيف ترد عليه؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟",
+                    "title": "إذا قال شخص إنه لا يؤمن بالملائكة لأنه لم يرهم، كيف ترد عليه؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟"
+                    "extraTitle": "إذا قال شخص إنه لا يؤمن بالملائكة لأنه لم يرهم، كيف ترد عليه؟"
                   },
-                  "subContentId": "871535fe-57b7-40a9-a0e5-f1a934887c4e"
+                  "subContentId": "1bba17a3-412f-4f90-a4c8-0f0f1f57667a"
                 },
                 {
                   "params": {
@@ -1338,37 +1338,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التكنولوجيا هي من صنع البشر ولكن بتسخير الله.</p>",
+                          "chosenFeedback": "<p>المؤمنون لا يرون اليوم الآخر مباشرة.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أوافقه على أن البشر هم من صنعوا التكنولوجيا.</p>"
+                        "text": "<p>نؤمن باليوم الآخر لأننا نراه مباشرة.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الله هو الذي سخر القوانين الطبيعية لصنع التكنولوجيا.</p>",
+                          "chosenFeedback": "<p>صحيح! نؤمن باليوم الآخر لأن الله أخبرنا عنه.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أذكره بأن الله هو الذي سخر القوانين الطبيعية لصنع التكنولوجيا.</p>"
+                        "text": "<p>نؤمن باليوم الآخر لأن الله أخبرنا عنه.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التكنولوجيا مرتبطة بتسخير الله للقوانين.</p>",
+                          "chosenFeedback": "<p>العلم الحديث لا يمكنه إثبات وجود اليوم الآخر.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أخبره أن التكنولوجيا لا علاقة لها بالله.</p>"
+                        "text": "<p>نؤمن باليوم الآخر لأن العلم أثبت وجوده.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التوقف عن استخدام التكنولوجيا ليس حلًا.</p>",
+                          "chosenFeedback": "<p>الأحلام ليست دليلًا على وجود اليوم الآخر.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أطلب منه أن يتوقف عن استخدام التكنولوجيا.</p>"
+                        "text": "<p>نؤمن باليوم الآخر لأنه يظهر في الأحلام.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1416,18 +1416,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟</p>"
+                    "question": "<p>إذا قال شخص إنه لا يؤمن باليوم الآخر لأنه لم يره، كيف ترد عليه؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟",
+                    "title": "إذا قال شخص إنه لا يؤمن باليوم الآخر لأنه لم يره، كيف ترد عليه؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟"
+                    "extraTitle": "إذا قال شخص إنه لا يؤمن باليوم الآخر لأنه لم يره، كيف ترد عليه؟"
                   },
-                  "subContentId": "dc46e0fe-3fe5-4a24-bded-68b21ce641bd"
+                  "subContentId": "1f79f4f4-4b73-458e-8c8d-c5a4c4428dcc"
                 },
                 {
                   "params": {
@@ -1439,37 +1439,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التشجيع وحده لا يكفي، يجب تذكيره بدور الله.</p>",
+                          "chosenFeedback": "<p>المؤمنون لا يرون الله مباشرة.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أهنئه على قوته وأشجعه على الاستمرار.</p>"
+                        "text": "<p>نؤمن بالله لأننا نراه مباشرة.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! يجب تذكيره بأن القوة الجسدية هي من الله وقد تتغير.</p>",
+                          "chosenFeedback": "<p>صحيح! نؤمن بالله لأن الله أخبرنا عنه.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أذكره بأن القوة الجسدية هي من الله وقد تتغير في أي وقت.</p>"
+                        "text": "<p>نؤمن بالله لأن الله أخبرنا عنه.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>القوة الجسدية مرتبطة بتسخير الله.</p>",
+                          "chosenFeedback": "<p>العلم الحديث لا يمكنه إثبات وجود الله.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أخبره أن القوة الجسدية لا علاقة لها بالله.</p>"
+                        "text": "<p>نؤمن بالله لأن العلم أثبت وجوده.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الاعتماد على القوة فقط يغفل دور الله.</p>",
+                          "chosenFeedback": "<p>الأحلام ليست دليلًا على وجود الله.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أطلب منه أن يعتمد على قوته فقط.</p>"
+                        "text": "<p>نؤمن بالله لأنه يظهر في الأحلام.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1517,18 +1517,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟</p>"
+                    "question": "<p>إذا قال شخص إنه لا يؤمن بالله لأنه لم يره، كيف ترد عليه؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟",
+                    "title": "إذا قال شخص إنه لا يؤمن بالله لأنه لم يره، كيف ترد عليه؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟"
+                    "extraTitle": "إذا قال شخص إنه لا يؤمن بالله لأنه لم يره، كيف ترد عليه؟"
                   },
-                  "subContentId": "e51786fa-5834-40e5-b4da-840eb268c606"
+                  "subContentId": "bae1a8a2-b1ae-4d60-90e0-7ed52f04fe35"
                 }
               ],
               "disableBackwardsNavigation": false,

@@ -57,40 +57,40 @@
                     },
                     "answers": [
                       {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الآية تشير إلى الطغيان وليس التواضع.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أن الإنسان يتواضع عندما يشعر بالغنى.</p>"
-                      },
-                      {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الآية تشير إلى أن الإنسان يطغى عندما يرى نفسه مستغنيًا عن الله.</p>",
+                          "chosenFeedback": "<p>صحيح! هذه الآية تؤكد أن الله هو الذي أنزل الذكر وهو الذي يحفظه.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الإنسان يطغى عندما يرى نفسه مستغنيًا عن الله.</p>"
+                        "text": "<p>{إِنَّا نَحْنُ نَزَّلْنَا الذكر وَإِنَّا لَهُ لَحَافِظُونَ}</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الآية تتحدث عن الطغيان وليس زيادة الإيمان.</p>",
+                          "chosenFeedback": "<p>هذه الآية تشير إلى أن القرآن هدى للمتقين، لكنها لا تتحدث عن حفظه.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الإنسان يزداد إيمانه عندما يستغني عن الدنيا.</p>"
+                        "text": "<p>{لاَ رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ}</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الآية تشير إلى تأثير الغنى على الإنسان.</p>",
+                          "chosenFeedback": "<p>هذه الآية تبدأ سورة الكهف وتتحدث عن إنزال الكتاب، لكنها لا تتحدث عن حفظه.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الإنسان لا يتأثر بالغنى أو الفقر.</p>"
+                        "text": "<p>{الحمد لِلَّهِ الذي أَنْزَلَ على عَبْدِهِ الكتاب}</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذه الآية تأمر النبي صلى الله عليه وسلم بتلاوة ما أوحي إليه، لكنها لا تتحدث عن حفظ القرآن.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>{واتل مَآ أُوْحِيَ إِلَيْكَ مِن كِتَابِ رَبِّكَ}</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -138,18 +138,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟</p>"
+                    "question": "<p>ما هي الآية التي تؤكد حفظ القرآن الكريم؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟",
+                    "title": "ما هي الآية التي تؤكد حفظ القرآن الكريم؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟"
+                    "extraTitle": "ما هي الآية التي تؤكد حفظ القرآن الكريم؟"
                   },
-                  "subContentId": "0013e78f-39d5-431e-9f06-7e002617eb8c"
+                  "subContentId": "9a3bd08b-2267-4c51-89ff-fd5fa7a46881"
                 },
                 {
                   "params": {
@@ -161,37 +161,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الفهم وحده لا يكفي لإخضاع الكون.</p>",
+                          "chosenFeedback": "<p>القصص جزء من الإعجاز، لكن الإعجاز يشمل أكثر من ذلك.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>قدرته على فهم قوانين الكون.</p>"
+                        "text": "<p>أنه يحتوي على قصص الأنبياء فقط.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الأشياء تستجيب للإنسان وفقًا لقوانين وضعها الله.</p>",
+                          "chosenFeedback": "<p>صحيح! القرآن يحتوي على علم لم تكن تعلمه البشرية، وهذا جزء من إعجازه.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>استجابة الأشياء له وفقًا لقوانين وضعها الله.</p>"
+                        "text": "<p>أنه يحتوي على علم لم تكن تعلمه البشرية.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>القوة الجسدية والعقلية ليست السبب.</p>",
+                          "chosenFeedback": "<p>اللغة الفصيحة جزء من الإعجاز، لكن الإعجاز يشمل أكثر من ذلك.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>قوته الجسدية والعقلية.</p>"
+                        "text": "<p>أنه مكتوب بلغة عربية فصيحة.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الظن بإخضاع الكون لا يرتبط بعدم الإيمان.</p>",
+                          "chosenFeedback": "<p>الأوامر والنواهي جزء من القرآن، لكنها لا تشكل الإعجاز بمفردها.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>عدم إيمانه بوجود الله.</p>"
+                        "text": "<p>أنه يحتوي على أوامر ونواهي.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -239,18 +239,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟</p>"
+                    "question": "<p>ما هو المقصود بالإعجاز في القرآن الكريم؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟",
+                    "title": "ما هو المقصود بالإعجاز في القرآن الكريم؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟"
+                    "extraTitle": "ما هو المقصود بالإعجاز في القرآن الكريم؟"
                   },
-                  "subContentId": "b19d6b27-e769-4ebf-b410-bfe2778933db"
+                  "subContentId": "553293fb-9367-4378-a260-0f26955bbe3f"
                 },
                 {
                   "params": {
@@ -262,37 +262,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الأشياء لا تعتمد على الإنسان في وجودها.</p>",
+                          "chosenFeedback": "<p>الصلاة فرض، لكنها ليست أول أساسيات المنهج.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الأشياء تعتمد على الإنسان في وجودها.</p>"
+                        "text": "<p>الصلاة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الصيام فرض، لكنه ليس أول أساسيات المنهج.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الصيام.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! ذاتية الأشياء تعني وجودها المستقل الذي لا يتغير.</p>",
+                          "chosenFeedback": "<p>صحيح! أول أساسيات المنهج هو الإيمان بأن الله واحد لا شريك له.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الأشياء لها وجود مستقل لا يتغير.</p>"
+                        "text": "<p>الإيمان بأن الله واحد لا شريك له.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الأشياء لا تتغير وفقًا لإرادة الإنسان.</p>",
+                          "chosenFeedback": "<p>الزكاة فرض، لكنها ليست أول أساسيات المنهج.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أن الأشياء تتغير وفقًا لإرادة الإنسان.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الأشياء تحتاج إلى خالق.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أن الأشياء لا تحتاج إلى خالق.</p>"
+                        "text": "<p>الزكاة.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -340,18 +340,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟</p>"
+                    "question": "<p>ما هو أول أساسيات المنهج الذي جاء به القرآن؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟",
+                    "title": "ما هو أول أساسيات المنهج الذي جاء به القرآن؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟"
+                    "extraTitle": "ما هو أول أساسيات المنهج الذي جاء به القرآن؟"
                   },
-                  "subContentId": "9fc37e9a-87d5-46be-9aa5-91b8d733fb53"
+                  "subContentId": "ef3d096e-99fd-4e79-927d-55a2e0aa6d17"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -454,37 +454,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يسيطر على قوانين الكون.</p>",
+                          "chosenFeedback": "<p>القصص جزء من الإعجاز، لكن الإعجاز يشمل أكثر من ذلك.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنه يسيطر على قوانين الكون.</p>"
+                        "text": "<p>لأنه يحتوي على قصص الأنبياء.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الأشياء تستجيب للإنسان وفقًا لقوانين وضعها الله.</p>",
+                          "chosenFeedback": "<p>صحيح! القرآن يحتوي على علم لم تكن تعلمه البشرية، وهذا جزء من إعجازه.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأن الأشياء تستجيب له وفقًا لقوانين وضعها الله.</p>"
+                        "text": "<p>لأنه يحتوي على علم لم تكن تعلمه البشرية.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الاعتقاد بالقدرة على إخضاع الكون لا يرتبط بعدم الإيمان.</p>",
+                          "chosenFeedback": "<p>اللغة الفصيحة جزء من الإعجاز، لكن الإعجاز يشمل أكثر من ذلك.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنه لا يؤمن بوجود الله.</p>"
+                        "text": "<p>لأنه مكتوب بلغة عربية فصيحة.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يمتلك قوة خارقة.</p>",
+                          "chosenFeedback": "<p>الأوامر والنواهي جزء من القرآن، لكنها لا تشكل الإعجاز بمفردها.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنه يمتلك قوة خارقة.</p>"
+                        "text": "<p>لأنه يحتوي على أوامر ونواهي.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -532,18 +532,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟</p>"
+                    "question": "<p>لماذا يعتبر القرآن معجزة؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟",
+                    "title": "لماذا يعتبر القرآن معجزة؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟"
+                    "extraTitle": "لماذا يعتبر القرآن معجزة؟"
                   },
-                  "subContentId": "189dd0af-3191-4222-8711-489472c0c1e6"
+                  "subContentId": "fa13940b-327e-41cd-b864-b466ab3062b0"
                 },
                 {
                   "params": {
@@ -555,37 +555,37 @@
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الإنسان يحتاج إلى الآخرين في مراحل حياته المختلفة.</p>",
+                          "chosenFeedback": "<p>صحيح! جميع الرسل السابقين كانوا بشراً، وهذا رد على من يعتقد أن القرآن ليس من عند الله لأنه نزل على بشر.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أنه يحتاج إلى الآخرين في طفولته وشيخوخته.</p>"
+                        "text": "<p>أن جميع الرسل السابقين كانوا بشراً.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يستطيع التحكم في كل شيء حوله.</p>",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست الرد على الاعتقاد بأن القرآن ليس من عند الله.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أنه يستطيع التحكم في كل شيء حوله.</p>"
+                        "text": "<p>أن القرآن مكتوب بالحروف العربية.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الإنسان يتأثر بالمرض والشيخوخة.</p>",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست الرد على الاعتقاد بأن القرآن ليس من عند الله.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أنه لا يتأثر بالمرض أو الشيخوخة.</p>"
+                        "text": "<p>أن القرآن يحتوي على قصص الأنبياء.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الإنسان يحتاج إلى الله في كل شيء.</p>",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست الرد على الاعتقاد بأن القرآن ليس من عند الله.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أنه يعيش دون حاجة إلى الله.</p>"
+                        "text": "<p>أن القرآن يحتوي على أوامر ونواهي.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -633,18 +633,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟</p>"
+                    "question": "<p>ما هو الرد على من يعتقد أن القرآن ليس من عند الله لأنه نزل على بشر؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟",
+                    "title": "ما هو الرد على من يعتقد أن القرآن ليس من عند الله لأنه نزل على بشر؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟"
+                    "extraTitle": "ما هو الرد على من يعتقد أن القرآن ليس من عند الله لأنه نزل على بشر؟"
                   },
-                  "subContentId": "9a0792ab-0c95-452f-97fe-eeea881ac392"
+                  "subContentId": "4bfd8ab6-71d0-4aeb-8ac7-693ffecd0e32"
                 },
                 {
                   "params": {
@@ -656,37 +656,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>المتغيرات لا تهدف إلى زيادة الغرور.</p>",
+                          "chosenFeedback": "<p>هذا غير صحيح، القرآن لا يحتوي على شكوك.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لتجعل الإنسان يشعر بالغرور.</p>"
+                        "text": "<p>أن القرآن يحتوي على شكوك.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! المتغيرات تهدف إلى إنهاء الغرور من نفس الإنسان.</p>",
+                          "chosenFeedback": "<p>صحيح! القرآن هدى للمتقين.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لتنهي الغرور من نفس الإنسان.</p>"
+                        "text": "<p>أن القرآن هدى للمتقين.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الإنسان لا يمكن أن يعتمد على نفسه فقط.</p>",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست المقصود بالآية.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لتجعل الإنسان يعتمد على نفسه فقط.</p>"
+                        "text": "<p>أن القرآن يحتوي على قصص الأنبياء.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>المتغيرات لا تهدف إلى جعل الإنسان يشعر بالضعف دائمًا.</p>",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست المقصود بالآية.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لتجعل الإنسان يشعر بالضعف دائمًا.</p>"
+                        "text": "<p>أن القرآن يحتوي على أوامر ونواهي.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -734,18 +734,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو الغرض من وجود المتغيرات في حياة الإنسان؟</p>"
+                    "question": "<p>ما هو المقصود بقوله تعالى: {لاَ رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ}؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو الغرض من وجود المتغيرات في حياة الإنسان؟",
+                    "title": "ما هو المقصود بقوله تعالى: {لاَ رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ}؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو الغرض من وجود المتغيرات في حياة الإنسان؟"
+                    "extraTitle": "ما هو المقصود بقوله تعالى: {لاَ رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ}؟"
                   },
-                  "subContentId": "20657d42-47a7-4a3c-9ddf-e29e0f76d2f1"
+                  "subContentId": "c220a1aa-e814-465c-8b9e-d1eae18522c8"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -842,40 +842,40 @@
                     },
                     "answers": [
                       {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الصنف الأول كفر عن إرادة، والثاني كفر عن استفادة.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>الصنف الأول كفر عن جهل، والثاني كفر عن علم.</p>"
-                      },
-                      {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الصنف الأول كفر بإرادته، والثاني كفر لأنه مستفيد من الكفر.</p>",
+                          "chosenFeedback": "<p>صحيح! القرآن محفوظ من التحريف، بينما الكتب السماوية السابقة حُرِّفَت.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>الصنف الأول كفر عن إرادة، والثاني كفر عن استفادة.</p>"
+                        "text": "<p>القرآن محفوظ من التحريف.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الكفر لا يرتبط بالضعف أو القوة.</p>",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست الفرق الرئيسي.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>الصنف الأول كفر عن ضعف، والثاني كفر عن قوة.</p>"
+                        "text": "<p>القرآن يحتوي على قصص الأنبياء.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الكفر لا يرتبط بالحاجة أو الغنى.</p>",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست الفرق الرئيسي.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>الصنف الأول كفر عن حاجة، والثاني كفر عن غنى.</p>"
+                        "text": "<p>القرآن مكتوب باللغة العربية.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست الفرق الرئيسي.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>القرآن يحتوي على أوامر ونواهي.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -923,18 +923,119 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟</p>"
+                    "question": "<p>ما هو الفرق بين القرآن والكتب السماوية السابقة؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟",
+                    "title": "ما هو الفرق بين القرآن والكتب السماوية السابقة؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟"
+                    "extraTitle": "ما هو الفرق بين القرآن والكتب السماوية السابقة؟"
                   },
-                  "subContentId": "5ba2a779-0030-4c31-97ce-3633dd034475"
+                  "subContentId": "737482c8-e831-45d5-82a4-709ff6336270"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! القرآن محفوظ من التحريف، ولا يمكن لأحد أن يبدل كلماته.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن القرآن محفوظ من التحريف.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست المقصود بالآية.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن القرآن يحتوي على قصص الأنبياء.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست المقصود بالآية.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن القرآن مكتوب باللغة العربية.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست المقصود بالآية.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن القرآن يحتوي على أوامر ونواهي.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو المقصود بقوله تعالى: {واتل مَآ أُوْحِيَ إِلَيْكَ مِن كِتَابِ رَبِّكَ لاَ مُبَدِّلَ لِكَلِمَاتِهِ وَلَن تَجِدَ مِن دُونِهِ مُلْتَحَداً}؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو المقصود بقوله تعالى: {واتل مَآ أُوْحِيَ إِلَيْكَ مِن كِتَابِ رَبِّكَ لاَ مُبَدِّلَ لِكَلِمَاتِهِ وَلَن تَجِدَ مِن دُونِهِ مُلْتَحَداً}؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو المقصود بقوله تعالى: {واتل مَآ أُوْحِيَ إِلَيْكَ مِن كِتَابِ رَبِّكَ لاَ مُبَدِّلَ لِكَلِمَاتِهِ وَلَن تَجِدَ مِن دُونِهِ مُلْتَحَداً}؟"
+                  },
+                  "subContentId": "5efd3dc7-e3df-47fe-8180-4ab4bcedaeea"
                 },
                 {
                   "params": {
@@ -946,37 +1047,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>هم سمعوا عن الإيمان ولكنهم رفضوه.</p>",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست المقصود بالآية.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنهم لم يسمعوا عن الإيمان.</p>"
+                        "text": "<p>أن القرآن محفوظ من التحريف.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست المقصود بالآية.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن القرآن يحتوي على قصص الأنبياء.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست المقصود بالآية.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن القرآن مكتوب باللغة العربية.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! هم يريدون الاحتفاظ بسلطاتهم الدنيوية.</p>",
+                          "chosenFeedback": "<p>صحيح! القرآن يجب أن يبلغ للناس.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>لأنهم يريدون الاحتفاظ بسلطاتهم الدنيوية.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>هم يعرفون بوجود الله ولكنهم يرفضون الإيمان.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>لأنهم لا يؤمنون بوجود الله.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>هم ليسوا في جهل بل يعرفون الحق.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>لأنهم يعيشون في جهل.</p>"
+                        "text": "<p>أن القرآن يجب أن يبلغ للناس.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1024,119 +1125,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟</p>"
+                    "question": "<p>ما هو المقصود بقوله تعالى: {المص كِتَابٌ أُنزِلَ إِلَيْكَ فَلاَ يَكُنْ فِي صَدْرِكَ حَرَجٌ مِّنْهُ لِتُنذِرَ بِهِ وذكرى لِلْمُؤْمِنِينَ}؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟",
+                    "title": "ما هو المقصود بقوله تعالى: {المص كِتَابٌ أُنزِلَ إِلَيْكَ فَلاَ يَكُنْ فِي صَدْرِكَ حَرَجٌ مِّنْهُ لِتُنذِرَ بِهِ وذكرى لِلْمُؤْمِنِينَ}؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟"
+                    "extraTitle": "ما هو المقصود بقوله تعالى: {المص كِتَابٌ أُنزِلَ إِلَيْكَ فَلاَ يَكُنْ فِي صَدْرِكَ حَرَجٌ مِّنْهُ لِتُنذِرَ بِهِ وذكرى لِلْمُؤْمِنِينَ}؟"
                   },
-                  "subContentId": "a5ba6267-19a1-4a23-b3f4-bfb6ca9c21d8"
-                },
-                {
-                  "params": {
-                    "media": {
-                      "disableImageZooming": false
-                    },
-                    "answers": [
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>الختم على القلب لا يعني عدم استقبال المعلومات.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أن القلب لا يستقبل أي معلومات جديدة.</p>"
-                      },
-                      {
-                        "correct": true,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>صحيح! الختم على القلب يعني أنه لا يخرج منه الكفر ولا يدخله الإيمان.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أن القلب لا يخرج منه الكفر ولا يدخله الإيمان.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>القلب لا يصبح مغلقًا عن العالم الخارجي.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أن القلب يصبح مغلقًا عن العالم الخارجي.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>القلب لا يفقد القدرة على الإحساس.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أن القلب يفقد القدرة على الإحساس.</p>"
-                      }
-                    ],
-                    "overallFeedback": [
-                      {
-                        "from": 0,
-                        "to": 100
-                      }
-                    ],
-                    "behaviour": {
-                      "enableRetry": true,
-                      "enableSolutionsButton": true,
-                      "enableCheckButton": true,
-                      "type": "single",
-                      "singlePoint": true,
-                      "randomAnswers": true,
-                      "showSolutionsRequiresInput": true,
-                      "confirmCheckDialog": false,
-                      "confirmRetryDialog": false,
-                      "autoCheck": true,
-                      "passPercentage": 100,
-                      "showScorePoints": true
-                    },
-                    "UI": {
-                      "checkAnswerButton": "Check",
-                      "submitAnswerButton": "Submit",
-                      "showSolutionButton": "Show solution",
-                      "tryAgainButton": "Retry",
-                      "tipsLabel": "Show tip",
-                      "scoreBarLabel": "You got :num out of :total points",
-                      "tipAvailable": "Tip available",
-                      "feedbackAvailable": "Feedback available",
-                      "readFeedback": "Read feedback",
-                      "wrongAnswer": "Wrong answer",
-                      "correctAnswer": "Correct answer"
-                    },
-                    "confirmCheck": {
-                      "header": "Finish?",
-                      "body": "Are you sure you wish to finish?",
-                      "cancelLabel": "Cancel",
-                      "confirmLabel": "Finish"
-                    },
-                    "confirmRetry": {
-                      "header": "Retry?",
-                      "body": "Are you sure you wish to retry?",
-                      "cancelLabel": "Cancel",
-                      "confirmLabel": "Confirm"
-                    },
-                    "question": "<p>ما هو معنى 'الختم على القلب' كما ورد في النص؟</p>"
-                  },
-                  "library": "H5P.MultiChoice 1.16",
-                  "metadata": {
-                    "contentType": "Multiple Choice",
-                    "license": "U",
-                    "title": "ما هو معنى 'الختم على القلب' كما ورد في النص؟",
-                    "authors": [],
-                    "changes": [],
-                    "extraTitle": "ما هو معنى 'الختم على القلب' كما ورد في النص؟"
-                  },
-                  "subContentId": "9b3de70e-0520-40f0-b874-e11e675950fa"
+                  "subContentId": "cfa335e3-76c4-42d6-96b9-583c55f3a82e"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -1234,40 +1234,40 @@
                     },
                     "answers": [
                       {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>التشجيع وحده لا يكفي، يجب تذكيره بدور الله.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أهنئه على جهده وأشجعه على الاستمرار.</p>"
-                      },
-                      {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! يجب تذكيره بأن الله هو الذي سخر له الأسباب.</p>",
+                          "chosenFeedback": "<p>صحيح! جميع الرسل السابقين كانوا بشراً، وهذا رد على من يعتقد أن القرآن ليس من عند الله لأنه نزل على بشر.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أذكره بأن الله هو الذي سخر له الأسباب لتحقيق النجاح.</p>"
+                        "text": "<p>أن جميع الرسل السابقين كانوا بشراً.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>النجاح مرتبط بتدخل الله.</p>",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست الرد على الاعتقاد بأن القرآن ليس من عند الله.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أخبره أن النجاح لا علاقة له بالله.</p>"
+                        "text": "<p>أن القرآن مكتوب بالحروف العربية.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الاعتماد على النفس فقط يغفل دور الله.</p>",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست الرد على الاعتقاد بأن القرآن ليس من عند الله.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أطلب منه أن يعتمد على نفسه فقط.</p>"
+                        "text": "<p>أن القرآن يحتوي على قصص الأنبياء.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست الرد على الاعتقاد بأن القرآن ليس من عند الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن القرآن يحتوي على أوامر ونواهي.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1315,18 +1315,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟</p>"
+                    "question": "<p>إذا قال شخص إنه لا يؤمن بالقرآن لأنه نزل على بشر، فما هو الرد الصحيح؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟",
+                    "title": "إذا قال شخص إنه لا يؤمن بالقرآن لأنه نزل على بشر، فما هو الرد الصحيح؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟"
+                    "extraTitle": "إذا قال شخص إنه لا يؤمن بالقرآن لأنه نزل على بشر، فما هو الرد الصحيح؟"
                   },
-                  "subContentId": "871535fe-57b7-40a9-a0e5-f1a934887c4e"
+                  "subContentId": "98c6af26-339c-49d5-a862-65edd5bc91d1"
                 },
                 {
                   "params": {
@@ -1338,37 +1338,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التكنولوجيا هي من صنع البشر ولكن بتسخير الله.</p>",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست الرد على الاعتقاد بأن القرآن ليس من عند الله لأنه يحتوي على قصص الأنبياء.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أوافقه على أن البشر هم من صنعوا التكنولوجيا.</p>"
+                        "text": "<p>أن جميع الرسل السابقين كانوا بشراً.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست الرد على الاعتقاد بأن القرآن ليس من عند الله لأنه يحتوي على قصص الأنبياء.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن القرآن مكتوب بالحروف العربية.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! الله هو الذي سخر القوانين الطبيعية لصنع التكنولوجيا.</p>",
+                          "chosenFeedback": "<p>صحيح! القرآن يحتوي على علم لم تكن تعلمه البشرية، وهذا جزء من إعجازه.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أذكره بأن الله هو الذي سخر القوانين الطبيعية لصنع التكنولوجيا.</p>"
+                        "text": "<p>أن القرآن يحتوي على علم لم تكن تعلمه البشرية.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التكنولوجيا مرتبطة بتسخير الله للقوانين.</p>",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست الرد على الاعتقاد بأن القرآن ليس من عند الله لأنه يحتوي على قصص الأنبياء.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أخبره أن التكنولوجيا لا علاقة لها بالله.</p>"
-                      },
-                      {
-                        "correct": false,
-                        "tipsAndFeedback": {
-                          "tip": "",
-                          "chosenFeedback": "<p>التوقف عن استخدام التكنولوجيا ليس حلًا.</p>",
-                          "notChosenFeedback": ""
-                        },
-                        "text": "<p>أطلب منه أن يتوقف عن استخدام التكنولوجيا.</p>"
+                        "text": "<p>أن القرآن يحتوي على أوامر ونواهي.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1416,18 +1416,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟</p>"
+                    "question": "<p>إذا قال شخص إنه لا يؤمن بالقرآن لأنه يحتوي على قصص الأنبياء، فما هو الرد الصحيح؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟",
+                    "title": "إذا قال شخص إنه لا يؤمن بالقرآن لأنه يحتوي على قصص الأنبياء، فما هو الرد الصحيح؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟"
+                    "extraTitle": "إذا قال شخص إنه لا يؤمن بالقرآن لأنه يحتوي على قصص الأنبياء، فما هو الرد الصحيح؟"
                   },
-                  "subContentId": "dc46e0fe-3fe5-4a24-bded-68b21ce641bd"
+                  "subContentId": "0c3db6d1-d950-44f8-85b7-42c87dcff7ed"
                 },
                 {
                   "params": {
@@ -1439,37 +1439,37 @@
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>التشجيع وحده لا يكفي، يجب تذكيره بدور الله.</p>",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست الرد على الاعتقاد بأن القرآن ليس من عند الله لأنه مكتوب باللغة العربية.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أهنئه على قوته وأشجعه على الاستمرار.</p>"
+                        "text": "<p>أن جميع الرسل السابقين كانوا بشراً.</p>"
                       },
                       {
                         "correct": true,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>صحيح! يجب تذكيره بأن القوة الجسدية هي من الله وقد تتغير.</p>",
+                          "chosenFeedback": "<p>صحيح! القرآن مكتوب بالحروف العربية التي يعرفها الناس جميعاً، ومع ذلك فإنه معجز.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أذكره بأن القوة الجسدية هي من الله وقد تتغير في أي وقت.</p>"
+                        "text": "<p>أن القرآن مكتوب بالحروف العربية التي يعرفها الناس جميعاً.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>القوة الجسدية مرتبطة بتسخير الله.</p>",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست الرد على الاعتقاد بأن القرآن ليس من عند الله لأنه مكتوب باللغة العربية.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أخبره أن القوة الجسدية لا علاقة لها بالله.</p>"
+                        "text": "<p>أن القرآن يحتوي على علم لم تكن تعلمه البشرية.</p>"
                       },
                       {
                         "correct": false,
                         "tipsAndFeedback": {
                           "tip": "",
-                          "chosenFeedback": "<p>الاعتماد على القوة فقط يغفل دور الله.</p>",
+                          "chosenFeedback": "<p>هذه حقيقة، لكنها ليست الرد على الاعتقاد بأن القرآن ليس من عند الله لأنه مكتوب باللغة العربية.</p>",
                           "notChosenFeedback": ""
                         },
-                        "text": "<p>أطلب منه أن يعتمد على قوته فقط.</p>"
+                        "text": "<p>أن القرآن يحتوي على أوامر ونواهي.</p>"
                       }
                     ],
                     "overallFeedback": [
@@ -1517,18 +1517,18 @@
                       "cancelLabel": "Cancel",
                       "confirmLabel": "Confirm"
                     },
-                    "question": "<p>إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟</p>"
+                    "question": "<p>إذا قال شخص إنه لا يؤمن بالقرآن لأنه مكتوب باللغة العربية، فما هو الرد الصحيح؟</p>"
                   },
                   "library": "H5P.MultiChoice 1.16",
                   "metadata": {
                     "contentType": "Multiple Choice",
                     "license": "U",
-                    "title": "إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟",
+                    "title": "إذا قال شخص إنه لا يؤمن بالقرآن لأنه مكتوب باللغة العربية، فما هو الرد الصحيح؟",
                     "authors": [],
                     "changes": [],
-                    "extraTitle": "إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟"
+                    "extraTitle": "إذا قال شخص إنه لا يؤمن بالقرآن لأنه مكتوب باللغة العربية، فما هو الرد الصحيح؟"
                   },
-                  "subContentId": "e51786fa-5834-40e5-b4da-840eb268c606"
+                  "subContentId": "9dd417dd-a4e9-471e-971d-320b69568516"
                 }
               ],
               "disableBackwardsNavigation": false,
