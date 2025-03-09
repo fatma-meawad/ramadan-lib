@@ -12,11 +12,11 @@ function loadContent(item_title, s_title, title, link, summary, keywords, htmlPa
      <h3>${item_title}</h3>
         <h4>${s_title}</h5>
         <h5>${title}</h5>
-        <p>🔗 <a href="${link}" target="_blank">رابط القراءة</a></p>
-        <p>📂 <a href="${summary}" target="_blank">تحميل الملخص</a></p>
+        <iframe src="${htmlPath}" width="50%" height="400px" style="border:none; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;"></iframe>
         <h3>الأيات و الأحاديت: </h3>
         <ul>${keywords}</ul>
-        <iframe src="${htmlPath}" width="50%" height="400px" style="border:none; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;"></iframe>
+           <p>🔗 <a href="${link}" target="_blank">رابط القراءة</a></p>
+        <p>📂 <a href="${summary}" target="_blank">تحميل الملخص</a></p>
 
     `;
 }
