@@ -4,37 +4,25 @@ const sidebar = document.getElementById("sidebar-content");
 sidebar.innerHTML = ""; // Clear previous content
 
 // Function to dynamically load H5P content
-function loadContent(item_title, s_title, title, link, summary, keywords, htmlPath, markdownPath) {
+function loadContent(item_title, s_title, title, summary, keywords, htmlPath) {
     const contentArea = document.getElementById("content-area");
+
+
     contentArea.innerHTML = `
+
      
         <h4>${item_title} - ${s_title}</h4>
         <h5>${title}</h5>
         <h5>الأسئلة</h5>
     
-            <iframe id="content-iframe" src="${htmlPath}" width="100%" style="border:none; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;"></iframe>
-              <div id="markdown-content" class="markdown-content">جارٍ تحميل المحتوى...</div>
+        <iframe id="content-iframe" src="${htmlPath}" width="100%" height="400px"  style="border:none; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;"></iframe>
+
+           <h3>الأيات و الأحاديث: </h3>
+        <ul>${keywords}</ul>
+        <h3>ملخص:</h3>
+        <ul>${summary}</ul>
     `;
 
-
-    // Automatically adjust iframe height
-
-    // Load and render Markdown content
-    if (markdownPath) {
-        fetch(markdownPath)
-            .then(response => response.text())
-            .then(markdown => {
-                if (window.marked) {
-                    document.getElementById("markdown-content").innerHTML = marked.parse(markdown);
-                } else {
-                    document.getElementById("markdown-content").innerHTML = `<pre>${markdown}</pre>`;
-                }
-            })
-            .catch(error => {
-                console.error("Error loading markdown:", error);
-                document.getElementById("markdown-content").innerHTML = "❌ فشل تحميل المحتوى.";
-            });
-    }
 }
 
 
@@ -45,11 +33,12 @@ data.forEach(item => {
         let subsectionsHTML = "";
 
         section.subsections.forEach(subsection => {
-            let keywordsList = subsection.keywords.map(keyword => `< li > ${keyword}</li > `).join("");
+            let keywordsFormatted = subsection.keywords.map(k => `<li>${k}</li>`).join("");
+            let summaryFormatted = subsection.summary.map(s => `<li>${s}</li>`).join("");
 
             subsectionsHTML += `
             <div class="sub-expandable-section" >
-                <button class="final-btn" onclick="loadContent('${item.title}','${section.title}','${subsection.title}', '${subsection.link}', '${subsection.summary_file}', '${keywordsList}', 'h5p.html?map=${subsection.link}', '${subsection.markdownPath}')"> ${subsection.title}</button>
+                <button class="final-btn" onclick="loadContent('${item.title}','${section.title}','${subsection.title}', '${summaryFormatted}', '${keywordsFormatted}', 'h5p.html?map=${subsection.link}')"> ${subsection.title}</button>
                 </div >
             `;
         });
