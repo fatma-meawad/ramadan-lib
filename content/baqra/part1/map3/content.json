@@ -6,7 +6,7 @@
   "gamemapSteps": {
     "backgroundImageSettings": {
       "backgroundImage": {
-        "path": "../../../images/Fatiha3.png",
+        "path": "../../../images/Fatiha4.png",
         "mime": "image/png",
         "copyright": {
           "license": "U"
@@ -28,7 +28,7 @@
           },
           "telemetry": {
             "x": "14.693316575417404",
-            "y": "44.33311905659123",
+            "y": "22.166559528295615",
             "width": "4.375",
             "height": "12.257495284039955"
           },
@@ -149,7 +149,7 @@
                     "changes": [],
                     "extraTitle": "ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟"
                   },
-                  "subContentId": "81d5e625-85b4-4410-b5cc-a5b0656c5202"
+                  "subContentId": "0013e78f-39d5-431e-9f06-7e002617eb8c"
                 },
                 {
                   "params": {
@@ -250,7 +250,7 @@
                     "changes": [],
                     "extraTitle": "ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟"
                   },
-                  "subContentId": "5ed13cb6-88fd-4df2-8545-4bdd1a6fba62"
+                  "subContentId": "b19d6b27-e769-4ebf-b410-bfe2778933db"
                 },
                 {
                   "params": {
@@ -351,7 +351,7 @@
                     "changes": [],
                     "extraTitle": "ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟"
                   },
-                  "subContentId": "a9409b1c-f1a2-42ab-bbc9-cbb1630a8c0f"
+                  "subContentId": "9fc37e9a-87d5-46be-9aa5-91b8d733fb53"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -420,8 +420,8 @@
             }
           },
           "telemetry": {
-            "x": "38.42867412032244",
-            "y": "85.49958675199737",
+            "x": "31.647143393206715",
+            "y": "22.166559528295615",
             "width": "4.375",
             "height": "12.257495284039955"
           },
@@ -543,7 +543,7 @@
                     "changes": [],
                     "extraTitle": "لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟"
                   },
-                  "subContentId": "16b4185a-5162-46d7-8387-f0b326c917cb"
+                  "subContentId": "189dd0af-3191-4222-8711-489472c0c1e6"
                 },
                 {
                   "params": {
@@ -644,7 +644,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟"
                   },
-                  "subContentId": "f91f2782-2ad9-4d71-bbe9-348dfda6b8c2"
+                  "subContentId": "9a0792ab-0c95-452f-97fe-eeea881ac392"
                 },
                 {
                   "params": {
@@ -745,7 +745,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الغرض من وجود المتغيرات في حياة الإنسان؟"
                   },
-                  "subContentId": "aebf8c68-df8b-4ff3-92e5-0fb72ce97821"
+                  "subContentId": "20657d42-47a7-4a3c-9ddf-e29e0f76d2f1"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -811,8 +811,8 @@
             "dom": {}
           },
           "telemetry": {
-            "x": "47.81288852519791",
-            "y": "43.87233961702518",
+            "x": "49.731225332181985",
+            "y": "22.166559528295615",
             "width": "4.375",
             "height": "12.257495284039955"
           },
@@ -934,7 +934,7 @@
                     "changes": [],
                     "extraTitle": "ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟"
                   },
-                  "subContentId": "87b97aac-88de-40c2-9a11-f7bcb1c4d1e9"
+                  "subContentId": "5ba2a779-0030-4c31-97ce-3633dd034475"
                 },
                 {
                   "params": {
@@ -1035,7 +1035,7 @@
                     "changes": [],
                     "extraTitle": "ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟"
                   },
-                  "subContentId": "999f3d6c-2687-40e1-80f7-c8731dabebd4"
+                  "subContentId": "a5ba6267-19a1-4a23-b3f4-bfb6ca9c21d8"
                 },
                 {
                   "params": {
@@ -1136,7 +1136,7 @@
                     "changes": [],
                     "extraTitle": "ما هو معنى 'الختم على القلب' كما ورد في النص؟"
                   },
-                  "subContentId": "13a4fd58-4948-43f3-8a63-3a7b5bd78094"
+                  "subContentId": "9b3de70e-0520-40f0-b874-e11e675950fa"
                 }
               ],
               "disableBackwardsNavigation": false,
@@ -1204,8 +1204,8 @@
             }
           },
           "telemetry": {
-            "x": "59.90352142285557",
-            "y": "75.9996326684421",
+            "x": "65.55479702878534",
+            "y": "22.166559528295615",
             "width": "4.375",
             "height": "12.257495284039955"
           },
@@ -1326,7 +1326,7 @@
                     "changes": [],
                     "extraTitle": "إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟"
                   },
-                  "subContentId": "35cb3dfd-bcc5-4ae4-b732-011ca9f9dd02"
+                  "subContentId": "871535fe-57b7-40a9-a0e5-f1a934887c4e"
                 },
                 {
                   "params": {
@@ -1427,7 +1427,7 @@
                     "changes": [],
                     "extraTitle": "شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟"
                   },
-                  "subContentId": "a9ffeb7b-8fca-481e-8540-f04aaabd8e7d"
+                  "subContentId": "dc46e0fe-3fe5-4a24-bded-68b21ce641bd"
                 },
                 {
                   "params": {
@@ -1528,7 +1528,7 @@
                     "changes": [],
                     "extraTitle": "إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟"
                   },
-                  "subContentId": "6ab019fc-6206-4cf9-a548-7a746ad4c915"
+                  "subContentId": "e51786fa-5834-40e5-b4da-840eb268c606"
                 }
               ],
               "disableBackwardsNavigation": false,

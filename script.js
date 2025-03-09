@@ -12,8 +12,8 @@ function loadContent(item_title, s_title, title, link, summary, keywords, htmlPa
         <h5>${title}</h5>
         <h5>الأسئلة</h5>
         
-        <iframe src="${htmlPath}" width="80%" height="400vh"  style="border:none; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;"></iframe>
-        <div id="markdown-content" class="markdown-content">جارٍ تحميل المحتوى...</div>
+        <iframe src="${htmlPath}" width="80%" height="300vh"  style="border:none; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;"></iframe>
+        <div id="markdown-content">جارٍ تحميل المحتوى...</div>
     `;
 
     // Load and render Markdown content
@@ -24,7 +24,7 @@ function loadContent(item_title, s_title, title, link, summary, keywords, htmlPa
                 if (window.marked) {
                     document.getElementById("markdown-content").innerHTML = marked.parse(markdown);
                 } else {
-                    document.getElementById("markdown-content").innerHTML = `${markdown}`;
+                    document.getElementById("markdown-content").innerHTML = `<pre>${markdown}</pre>`;
                 }
             })
             .catch(error => {
