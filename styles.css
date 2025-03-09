@@ -74,7 +74,8 @@ body {
     display: flex;
     width: 100%;
     font-family: "Roboto", Arial, sans-serif;
-    background: #f5f5f5; /* Light Material Background */
+    background: #f5f5f5;
+    /* Light Material Background */
 }
 
 /* Right Sidebar - Material Card Style */
@@ -102,7 +103,8 @@ body {
 }
 
 /* Sidebar Buttons - Material Look */
-.expand-btn, .sub-expand-btn {
+.expand-btn,
+.sub-expand-btn {
     background: white;
     border: none;
     color: #444;
@@ -119,14 +121,34 @@ body {
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
 }
 
-.expand-btn:hover, .sub-expand-btn:hover {
+.final-btn {
+    background: white;
+    border: none;
+    color: #444;
+    font-size: 14px;
+    cursor: pointer;
+    text-align: right;
+    width: 100%;
+    padding: 10px;
+    transition: all 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 5px;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.expand-btn:hover,
+.sub-expand-btn:hover {
     background: #eee;
 }
 
-.expand-btn::after, .sub-expand-btn::after {
-    content: "˯";
+.expand-btn::after,
+.sub-expand-btn::after {
+    content: "-";
     font-family: "Material Icons";
-    font-size: 25px;
+    font-size: 16px;
     transition: transform 0.3s ease;
 }
 
@@ -164,7 +186,7 @@ body {
     cursor: pointer;
     z-index: 1000;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
-    font-size: 20px;
+    font-size: 30px;
     display: none;
 }
 
