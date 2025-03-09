@@ -7,7 +7,7 @@ sidebar.innerHTML = ""; // Clear previous content
 function loadContent(item_title, s_title, title, link, summary, keywords, htmlPath, markdownPath) {
     const contentArea = document.getElementById("content-area");
     contentArea.innerHTML = `
-        <h1> مكتبة رمضان</h1>
+     
         <h4>${item_title} - ${s_title}</h4>
         <h5>${title}</h5>
         <h5>الأسئلة</h5>
