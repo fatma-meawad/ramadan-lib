@@ -6,7 +6,7 @@
   "gamemapSteps": {
     "backgroundImageSettings": {
       "backgroundImage": {
-        "path": "https://fatma-meawad.github.io/ramadan-lib/Asmaa/content/images/greenmap.png",
+        "path": "images/greenmap.png",
         "mime": "image/jpeg",
         "copyright": {
           "license": "U"
