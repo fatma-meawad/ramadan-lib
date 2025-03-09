@@ -1,0 +1,1791 @@
+{
+  "showTitleScreen": false,
+  "titleScreen": {
+    "titleScreenIntroduction": "<p style=\"text-align: center;\"></p>"
+  },
+  "gamemapSteps": {
+    "backgroundImageSettings": {
+      "backgroundImage": {
+        "path": "../images/greenmap.png",
+        "mime": "image/jpeg",
+        "copyright": {
+          "license": "U"
+        },
+        "width": 400,
+        "height": 300
+      }
+    },
+    "gamemap": {
+      "elements": [
+        {
+          "id": "b5c00c98-d9c0-44e9-912b-61fe605ace4e",
+          "type": "stage",
+          "label": "1.5-Beginner Question Set",
+          "telemetry": {
+            "x": "19.08",
+            "y": "20.37",
+            "width": "4",
+            "height": "4"
+          },
+          "neighbors": [
+            1,
+            1
+          ],
+          "canBeStartStage": true,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": true
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الحروف المقطعة لا تشير إلى أسماء السور.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>حروف تشير إلى أسماء السور.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الحروف المقطعة تنطق بأسمائها وليس بمسمياتها.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>حروف تنطق بمسمياتها وليس بأسمائها.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الحروف المقطعة تنطق بأسمائها بشكل منفصل.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>حروف تنطق بأسمائها بشكل منفصل.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الحروف المقطعة لها معنى في سياقها القرآني.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>حروف لا معنى لها في اللغة العربية.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما المقصود بالحروف المقطعة في بداية بعض سور القرآن؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما المقصود بالحروف المقطعة في بداية بعض سور القرآن؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما المقصود بالحروف المقطعة في بداية بعض سور القرآن؟"
+                  },
+                  "subContentId": "b687ccdb-91bc-42ed-ab40-936355adf3ec"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الرسول صلى الله عليه وسلم كان أميًا ولم يكن يعرف أسماء الحروف.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنه كان يعرف أسماء الحروف بطلاقة.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! نطقه بالحروف المقطعة دليل على أن القرآن موحى به من الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنه كان أميًا ولم يكن يعرف أسماء الحروف.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الرسول صلى الله عليه وسلم لم يخترع أسماء للحروف.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنه اخترع أسماء جديدة للحروف.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الرسول صلى الله عليه وسلم لم يتعلم أسماء الحروف.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنه تعلم أسماء الحروف في وقت لاحق.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>لماذا يعتبر نطق الرسول صلى الله عليه وسلم بالحروف المقطعة إعجازًا؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "لماذا يعتبر نطق الرسول صلى الله عليه وسلم بالحروف المقطعة إعجازًا؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "لماذا يعتبر نطق الرسول صلى الله عليه وسلم بالحروف المقطعة إعجازًا؟"
+                  },
+                  "subContentId": "b10ead76-c0f6-459d-b8cd-cc532fe6fc5f"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>العكس هو الصحيح.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>في بداية السور تنطق بمسمياتها، وفي الآيات الأخرى بأسمائها.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الحروف المقطعة في بداية السور تنطق بأسمائها، وفي الآيات الأخرى بمسمياتها.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>في بداية السور تنطق بأسمائها، وفي الآيات الأخرى بمسمياتها.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>يوجد فرق واضح في النطق.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لا يوجد فرق في النطق بينهما.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>النطق ليس عشوائيًا بل له قواعد محددة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>في بداية السور تنطق بشكل عشوائي.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما الفرق بين نطق الحروف المقطعة في بداية السور ونطقها في الآيات الأخرى؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما الفرق بين نطق الحروف المقطعة في بداية السور ونطقها في الآيات الأخرى؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما الفرق بين نطق الحروف المقطعة في بداية السور ونطقها في الآيات الأخرى؟"
+                  },
+                  "subContentId": "ab8cf6f1-850e-4daf-8438-4a67b1bc02f7"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": true,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              },
+              "poolSize": "3"
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "extraTitle": "",
+              "title": "",
+              "authors": [],
+              "changes": []
+            },
+            "subContentId": "81f12bcc-77b9-43b1-8adb-c74d42d3dedc"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        },
+        {
+          "id": "d836794d-e25b-416f-b527-8794dae56888",
+          "label": "End of the beginner level",
+          "content": {
+            "params": {},
+            "dom": {
+              "count": 0
+            }
+          },
+          "telemetry": {
+            "x": "10.99",
+            "y": "44.98",
+            "width": "4",
+            "height": "4"
+          },
+          "neighbors": [
+            2
+          ],
+          "canBeStartStage": false,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": true,
+            "minScore": 1.6
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1,
+          "specialStageType": "extra-life"
+        },
+        {
+          "id": "0b611d8c-95fb-4c50-822a-a4122dce56fb",
+          "type": "stage",
+          "label": "3-Intermediate Question Set",
+          "telemetry": {
+            "x": "37.98",
+            "y": "74.17",
+            "width": "4",
+            "height": "4"
+          },
+          "neighbors": [
+            3,
+            3
+          ],
+          "canBeStartStage": false,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": true
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الوقف ليس مرتبطًا بتسهيل القراءة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لتسهيل قراءة القرآن على المبتدئين.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإعجاز البلاغي لا يرتبط بالوقف.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لإظهار الإعجاز البلاغي في القرآن.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الوقف في الحروف المقطعة يميزها عن باقي الآيات.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لتمييزها عن باقي آيات القرآن المبنية على الوصل.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الوقف ليس له علاقة بالموسيقى.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لإضفاء طابع موسيقي على القرآن.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما الحكمة من بناء الحروف المقطعة في بداية السور على الوقف؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما الحكمة من بناء الحروف المقطعة في بداية السور على الوقف؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما الحكمة من بناء الحروف المقطعة في بداية السور على الوقف؟"
+                  },
+                  "subContentId": "92083016-6e61-4e77-b27e-6b5b76637652"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الحروف المقطعة لا تخضع لقواعد نحوية.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنها تخضع لقواعد نحوية محددة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>التنوع في الإعجاز لا يفسر اختلاف عدد الحروف.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنها تعكس تنوعًا في الإعجاز القرآني.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>لا يوجد ارتباط بين الحروف المقطعة وموضوع السورة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنها مرتبطة بموضوع السورة.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الحروف المقطعة تعكس خصوصية كل سورة دون قاعدة عامة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنها لا تخضع لقاعدة محددة وتعكس خصوصية كل سورة.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما الذي يدل عليه اختلاف عدد الحروف المقطعة في بداية السور؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما الذي يدل عليه اختلاف عدد الحروف المقطعة في بداية السور؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما الذي يدل عليه اختلاف عدد الحروف المقطعة في بداية السور؟"
+                  },
+                  "subContentId": "0c690638-b60b-400b-b3a7-359695c0cb98"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>العكس هو الصحيح.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>حروف المبنى لها معنى، وحروف المعنى لا معنى لها.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! حروف المبنى تدل على الصوت، وحروف المعنى لها دلالات لغوية.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>حروف المبنى تدل على الصوت فقط، وحروف المعنى لها دلالات لغوية.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>حروف المبنى تستخدم في اللغة بشكل عام.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>حروف المبنى تستخدم في الشعر فقط.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>حروف المعنى تستخدم في اللغة بشكل عام.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>حروف المعنى تستخدم في القرآن فقط.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما الفرق بين حروف المبنى وحروف المعنى؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما الفرق بين حروف المبنى وحروف المعنى؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما الفرق بين حروف المبنى وحروف المعنى؟"
+                  },
+                  "subContentId": "15d84c25-20d9-40af-b47d-5dbd26839c7e"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": true,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              },
+              "poolSize": "3"
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "extraTitle": "",
+              "title": "",
+              "authors": [],
+              "changes": []
+            },
+            "subContentId": "aee7e264-7bc7-43b6-935c-a531d149ff83"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        },
+        {
+          "id": "c062e04c-7f4c-41ff-877b-ff0f843489c7",
+          "label": "End of the intermediate level",
+          "content": {
+            "params": {},
+            "dom": {
+              "count": 0
+            }
+          },
+          "telemetry": {
+            "x": "26.49",
+            "y": "80.41",
+            "width": "4",
+            "height": "4"
+          },
+          "neighbors": [
+            4
+          ],
+          "canBeStartStage": false,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": true,
+            "minScore": 1.6
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1,
+          "specialStageType": "extra-life"
+        },
+        {
+          "id": "c41b6de3-f2ef-4390-81c7-a24ab81643df",
+          "type": "stage",
+          "label": "4.5-Advanced Question Set",
+          "telemetry": {
+            "x": "58.68",
+            "y": "84.45",
+            "width": "4",
+            "height": "4"
+          },
+          "neighbors": [
+            5,
+            5
+          ],
+          "canBeStartStage": false,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": true
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! وجودها في القرآن يدل على أنها تحمل معنى خاصًا.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>وجودها في القرآن يدل على أنها تحمل معنى خاصًا.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>عدم وجود تفسير لا يعني أنها بلا معنى.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>عدم وجود تفسير لها يدل على أنها بلا معنى.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الحروف المقطعة فريدة في القرآن.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>تشابهها مع الحروف في اللغات الأخرى.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الحروف المقطعة مذكورة في القرآن وليس في الأحاديث.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>عدم ذكرها في الأحاديث النبوية.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما الدليل على أن الحروف المقطعة ليست مجرد رموز بلا معنى؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما الدليل على أن الحروف المقطعة ليست مجرد رموز بلا معنى؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما الدليل على أن الحروف المقطعة ليست مجرد رموز بلا معنى؟"
+                  },
+                  "subContentId": "193aeb6e-d53d-4dc3-9bcb-2207b1c154e5"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الحديث يؤكد أن لها ثوابًا.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنها لا تحمل أي ثواب لأنها بلا معنى.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الحديث يؤكد أن قراءة الحروف المقطعة تحمل ثوابًا مضاعفًا.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنها تحمل ثوابًا مضاعفًا لكل حرف.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الحديث لا يشير إلى تفاوت في الثواب.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنها تحمل ثوابًا أقل من الآيات الأخرى.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الثواب لا يرتبط بفهم المعنى.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنها تحمل ثوابًا فقط إذا فهم معناها.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما الذي يمكن استنتاجه من حديث الرسول صلى الله عليه وسلم عن ثواب قراءة الحروف المقطعة؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما الذي يمكن استنتاجه من حديث الرسول صلى الله عليه وسلم عن ثواب قراءة الحروف المقطعة؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما الذي يمكن استنتاجه من حديث الرسول صلى الله عليه وسلم عن ثواب قراءة الحروف المقطعة؟"
+                  },
+                  "subContentId": "41a7f44a-ac78-42aa-995a-8ee678432fa9"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>لا يوجد ارتباط بين الحروف المقطعة وترتيب النزول.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنها تخضع لترتيب زمني لنزول السور.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإعجاز العددي ليس هو الغرض الرئيسي.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنها تعكس إعجازًا عدديًا في القرآن.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>لا يوجد ارتباط بين الحروف المقطعة وموضوع السورة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنها مرتبطة بموضوع السورة.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! التنوع يعكس إعجازًا قرآنيًا دون قاعدة محددة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنها تعكس تنوعًا في الإعجاز القرآني دون قاعدة محددة.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما الذي يدل عليه تنوع الحروف المقطعة في بداية السور من حيث العدد والترتيب؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما الذي يدل عليه تنوع الحروف المقطعة في بداية السور من حيث العدد والترتيب؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما الذي يدل عليه تنوع الحروف المقطعة في بداية السور من حيث العدد والترتيب؟"
+                  },
+                  "subContentId": "d53fe36e-f25c-4809-b7ec-56f051765182"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": true,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              },
+              "poolSize": "3"
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "extraTitle": "",
+              "title": "",
+              "authors": [],
+              "changes": []
+            },
+            "subContentId": "2647eae0-2a9f-41ab-b67d-0a87677bfefc"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        },
+        {
+          "id": "3f9445ec-2d0c-4270-b217-5bcb1e5a0da5",
+          "label": "End of the advanced level",
+          "content": {
+            "params": {},
+            "dom": {
+              "count": 0
+            }
+          },
+          "telemetry": {
+            "x": "68.24",
+            "y": "82.02",
+            "width": "4",
+            "height": "4"
+          },
+          "neighbors": [
+            6
+          ],
+          "canBeStartStage": false,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": true,
+            "minScore": 1.6
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1,
+          "specialStageType": "extra-life"
+        },
+        {
+          "id": "0593c678-bd9b-4fc0-bd57-8dfd98863d98",
+          "type": "stage",
+          "label": "6-Scenario-based Question Set",
+          "telemetry": {
+            "x": "86.69",
+            "y": "39.33",
+            "width": "4",
+            "height": "4"
+          },
+          "neighbors": [
+            7,
+            7
+          ],
+          "canBeStartStage": false,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": true
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>عدم فهم المعنى لا يعني أنه لا يوجد معنى.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أوافق لأن المعنى غير واضح.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الحروف المقطعة جزء من الإعجاز القرآني ولها حكمة عند الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أرفض لأنها جزء من الإعجاز القرآني ولها حكمة عند الله.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>القرآن ليس مجرد زخرفة لغوية.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أقول إنها مجرد زخرفة لغوية.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الحروف المقطعة ليست مرتبطة بثقافة العرب فقط.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أقول إنها مرتبطة بثقافة العرب فقط.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>إذا قال شخص إن الحروف المقطعة في القرآن لا معنى لها لأنها غير مفهومة، كيف ترد عليه؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "إذا قال شخص إن الحروف المقطعة في القرآن لا معنى لها لأنها غير مفهومة، كيف ترد عليه؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "إذا قال شخص إن الحروف المقطعة في القرآن لا معنى لها لأنها غير مفهومة، كيف ترد عليه؟"
+                  },
+                  "subContentId": "96e7ce7e-7ac1-4fef-99d3-22b5fdd58267"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>القراءة من الكتب لا تكفي لمعرفة النطق الصحيح.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>يمكنه تعلم القرآن من الكتب فقط.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الاستماع إلى قارئ ضروري لفهم نطق الحروف المقطعة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>يجب أن يستمع إلى قارئ ليعرف كيفية نطق الحروف المقطعة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>النطق ليس واضحًا دائمًا في الكتب.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لا داعي للاستماع لأن النطق واضح في الكتب.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الترجمة لا تغني عن الاستماع للنطق الصحيح.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>يمكنه الاعتماد على الترجمة فقط.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>إذا أراد شخص تعلم قراءة القرآن دون الاستماع إلى قارئ، ما النصيحة التي تقدمها له بناءً على فهم الحروف المقطعة؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "إذا أراد شخص تعلم قراءة القرآن دون الاستماع إلى قارئ، ما النصيحة التي تقدمها له بناءً على فهم الحروف المقطعة؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "إذا أراد شخص تعلم قراءة القرآن دون الاستماع إلى قارئ، ما النصيحة التي تقدمها له بناءً على فهم الحروف المقطعة؟"
+                  },
+                  "subContentId": "c6769906-2784-432a-bb0d-311a5f63e4d5"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>عدم فهم المعنى لا يعني أنها بلا معنى.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أوافق لأنها غير مفهومة.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الحروف المقطعة تحمل معنى عند الله وليست مجرد رموز.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أرفض لأنها تحمل معنى عند الله وليست مجرد رموز.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الحروف المقطعة ليست رموزًا رياضية.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أقول إنها تشبه الرموز الرياضية.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الحروف المقطعة ليست مرتبطة باللغة العبرية.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أقول إنها مرتبطة باللغة العبرية.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>إذا قال شخص إن الحروف المقطعة تشبه كلمات السر التي لا معنى لها، كيف ترد عليه؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "إذا قال شخص إن الحروف المقطعة تشبه كلمات السر التي لا معنى لها، كيف ترد عليه؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "إذا قال شخص إن الحروف المقطعة تشبه كلمات السر التي لا معنى لها، كيف ترد عليه؟"
+                  },
+                  "subContentId": "765efdee-6a4b-4c55-b260-2315abba92ea"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": true,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              },
+              "poolSize": "3"
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "extraTitle": "",
+              "title": "",
+              "authors": [],
+              "changes": []
+            },
+            "subContentId": "76a67874-12dd-435c-8f19-8e662ddf9a33"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        },
+        {
+          "id": "166fe49b-cdaf-47b5-8bfd-94dd24d1b24b",
+          "label": "End of the scenario-based level",
+          "content": {
+            "params": {},
+            "dom": {
+              "count": 0
+            }
+          },
+          "telemetry": {
+            "x": "76.77",
+            "y": "38.08",
+            "width": "4",
+            "height": "4"
+          },
+          "neighbors": [],
+          "canBeStartStage": false,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": true,
+            "minScore": 1.6
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1,
+          "specialStageType": "extra-life"
+        }
+      ]
+    }
+  },
+  "endScreen": {
+    "noSuccess": {
+      "endScreenTextNoSuccess": "<p style=\"text-align: center;\"></p>"
+    },
+    "success": {
+      "endScreenTextSuccess": "<p style=\"text-align: center;\"></p>"
+    },
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100
+      }
+    ]
+  },
+  "visual": {
+    "stages": {
+      "colorStage": "rgb(240, 158, 76)",
+      "colorStageLocked": "rgba(215, 44, 32, 0.9)",
+      "colorStageCleared": "rgba(20, 122, 24, 0.9)"
+    },
+    "paths": {
+      "displayPaths": true,
+      "style": {
+        "colorPath": "rgba(249, 243, 243, 0.83)",
+        "colorPathCleared": "rgba(89, 218, 89, 0.501)",
+        "pathStyle": "dotted",
+        "pathWidth": "0.1"
+      }
+    },
+    "misc": {
+      "useAnimation": true
+    }
+  },
+  "audio": {
+    "backgroundMusic": {
+      "muteDuringExercise": true
+    },
+    "ambient": {}
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "map": {
+      "showLabels": true,
+      "roaming": "success"
+    },
+    "lives": 1
+  },
+  "l10n": {
+    "start": "Start",
+    "continue": "Continue",
+    "restart": "Restart",
+    "showSolutions": "Show solutions",
+    "completedMap": "You have completed the map!",
+    "fullScoreButnoLivesLeft": "You have achieved full score, but lost all your lifes!",
+    "confirmFinishHeader": "Finish map?",
+    "confirmFinishDialog": "If you finish now, you will not be able to explore the map any longer.",
+    "confirmFinishDialogSubmission": "Your score will be submitted.",
+    "confirmFinishDialogQuestion": "Do you really want to finish the map?",
+    "confirmAccessDeniedHeader": "Stage locked",
+    "confirmAccessDeniedDialog": "This stage requires you to meet some goals before it can be opened.",
+    "confirmAccessDeniedMinScore": "You need at least @minScore points.",
+    "yes": "Yes",
+    "no": "No",
+    "confirmGameOverHeader": "Game over!",
+    "confirmGameOverDialog": "You have lost all your lives. Please try again!",
+    "confirmTimeoutHeader": "Time out!",
+    "confirmTimeoutDialog": "You ran out of time.",
+    "confirmTimeoutDialogLostLife": "You ran out of time and lost a life.",
+    "confirmScoreIncompleteHeader": "Not full score!",
+    "confirmIncompleteScoreDialogLostLife": "You did not achieve full score and lost a life.",
+    "confirmFullScoreHeader": "You achieved full score!",
+    "confirmFullScoreDialog": "You have collected enough points to finish this map with a full score, but you are free to explore the rest if you wish to.",
+    "confirmFullScoreDialogLoseLivesAmendmend": "But beware! You may still lose lives!",
+    "ok": "OK",
+    "noBackground": "No background image was set for the map.",
+    "noStages": "No valid stages were set for the map."
+  },
+  "a11y": {
+    "buttonFinish": "Finish the map",
+    "buttonAudioActive": "Mute audio. Currently unmuted.",
+    "buttonAudioInactive": "Unmute audio. Currently muted.",
+    "close": "Close",
+    "yourResult": "You got @score out of @total points",
+    "mapWasOpened": "The map was opened.",
+    "mapSolutionsWasOpened": "The map was opened in solutions mode.",
+    "startScreenWasOpened": "The title screen was opened.",
+    "endScreenWasOpened": "The end screen was opened.",
+    "exerciseLabel": ". Exercise for @stagelabel",
+    "stageButtonLabel": "Stage: @stagelabel",
+    "adjacentStageLabel": "Adjacent stage of @stagelabelOrigin: @stagelabelNeighbor",
+    "locked": "Locked",
+    "cleared": "Cleared",
+    "applicationInstructions": "Use space or enter key to activate current stage. Use arrow keys to select adjacent stage. Use space or enter key on adjacent stage to navigate there.",
+    "applicationDescription": "Map",
+    "movedToStage": "Moved to @stagelabel",
+    "stageUnlocked": "Stage @stagelabel was unlocked.",
+    "toolbarFallbackLabel": "Game Map",
+    "enterFullscreen": "Enter fullscreen mode",
+    "exitFullscreen": "Exit fullscreen mode"
+  },
+  "headline": ""
+}
