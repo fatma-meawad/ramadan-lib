@@ -14,7 +14,7 @@ data.forEach(item => {
 
             subsectionsHTML += `
                 <div class="sub-expandable-section">
-                    <button class="sub-expand-btn" onclick="loadContent('${subsection.title}', '${subsection.link}', '${subsection.summary_file}', '${keywordsList}', './Asmaa')">📖 ${subsection.title}</button>
+                    <button class="sub-expand-btn" onclick="loadContent('${subsection.title}', '${subsection.link}', '${subsection.summary_file}', '${keywordsList}', '/Asmaa')">📖 ${subsection.title}</button>
                 </div>
             `;
         });
@@ -77,12 +77,12 @@ function loadContent(title, link, summary, keywords, h5pPath) {
         h5pContainer.innerHTML = "جارٍ تحميل المحتوى...";
 
         const script = document.createElement("script");
-        script.src = "https://cdn.jsdelivr.net/npm/h5p-standalone@1.3.0";
+        script.src = "https://cdn.jsdelivr.net/npm/h5p-standalone@3.8.0'";
         script.onload = function () {
             new H5PStandalone.H5P(h5pContainer, {
                 h5pJsonPath: h5pPath,
-                frameJs: "https://cdn.jsdelivr.net/npm/h5p-standalone@1.3.0/dist/frame.bundle.js",
-                frameCss: "https://cdn.jsdelivr.net/npm/h5p-standalone@1.3.0/dist/styles/h5p.css",
+                frameJs: "https://cdn.jsdelivr.net/npm/h5p-standalone@3.8.0/dist/frame.bundle.js",
+                frameCss: "https://cdn.jsdelivr.net/npm/h5p-standalone@3.8.0/dist/styles/h5p.css",
             });
         };
         document.body.appendChild(script);
