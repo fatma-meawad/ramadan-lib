@@ -11,7 +11,7 @@ function loadContent(item_title, s_title, title, link, summary, keywords, htmlPa
         <h3>${item_title}</h3>
         <h4>${s_title}</h4>
         <h5>${title}</h5>
-        <iframe src="${htmlPath}" width="90%" height="100vh" style="border:none;align:center; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;"></iframe>
+        <iframe src="${htmlPath}" width="50%" height="300px" style="border:none; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;"></iframe>
         <h3>الأيات و الأحاديث: </h3>
         <ul>${keywords}</ul>
         <p>🔗 <a href="${link}" target="_blank">رابط القراءة</a></p>
@@ -38,7 +38,6 @@ function loadContent(item_title, s_title, title, link, summary, keywords, htmlPa
 }
 
 
-
 data.forEach(item => {
     let sectionsHTML = "";
 
@@ -46,32 +45,32 @@ data.forEach(item => {
         let subsectionsHTML = "";
 
         section.subsections.forEach(subsection => {
-            let keywordsList = subsection.keywords.map(keyword => `<li>${keyword}</li>`).join("");
+            let keywordsList = subsection.keywords.map(keyword => `< li > ${keyword}</li > `).join("");
 
             subsectionsHTML += `
-                <div class="sub-expandable-section">
-                    <button class="final-btn" onclick="loadContent('${item.title}','${section.title}','${subsection.title}', '${subsection.link}', '${subsection.summary_file}', '${keywordsList}', 'h5p.html?map=${subsection.link}')"> ${subsection.title}</button>
-                </div>
+            <div class="sub-expandable-section" >
+                <button class="final-btn" onclick="loadContent('${item.title}','${section.title}','${subsection.title}', '${subsection.link}', '${subsection.summary_file}', '${keywordsList}', 'h5p.html?map=${subsection.link}', '${subsection.markdownPath}')"> ${subsection.title}</button>
+                </div >
             `;
         });
 
         sectionsHTML += `
-            <div class="expandable-section">
+            <div class="expandable-section" >
                 <button class="expand-btn"> 📖 ${section.title}</button>
                 <div class="expand-content">
                     ${subsectionsHTML}
                 </div>
                 
-            </div>
-        `;
+            </div >
+            `;
     });
 
     let sidebarItem = `
-        <div class="sidebar-item">
+            <div class="sidebar-item" >
             <button class="expand-btn">📂 ${item.title}</button>
             <div class="expand-content">${sectionsHTML}</div>
-        </div>
-    `;
+        </div >
+            `;
 
     sidebar.innerHTML += sidebarItem;
 });
