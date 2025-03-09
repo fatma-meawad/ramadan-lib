@@ -10,7 +10,9 @@
         "mime": "image/png",
         "copyright": {
           "license": "U"
-        }
+        },
+        "width": 400,
+        "height": 200
       }
     },
     "gamemap": {
