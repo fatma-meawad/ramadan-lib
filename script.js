@@ -1,5 +1,5 @@
 const sidebar = document.getElementById("sidebar-content");
-const contentArea = document.getElementById("content-area");
+//const contentArea = document.getElementById("content-area");
 
 sidebar.innerHTML = ""; // Clear previous content
 
@@ -14,18 +14,19 @@ function loadContent(title, link, summary, keywords, h5pPath) {
         <ul>${keywords}</ul>
         <div id="h5p-container" class="h5p-frame"></div>
     `;
-    h5pPath="https://fatma-meawad.github.io/ramadan-lib/Asmaa"
+    h5pPath="Asmaa"
     if (h5pPath) {
         const h5pContainer = document.getElementById("h5p-container");
-        h5pContainer.innerHTML = "جارٍ تحميل المحتوى...";
+       // h5pContainer.innerHTML = "جارٍ تحميل المحتوى...";
 
         const script = document.createElement("script");
-        script.src = "https://cdn.jsdelivr.net/npm/h5p-standalone@1.3.0'";
+        //script.src = "https://cdn.jsdelivr.net/npm/h5p-standalone@3.6.0'";
         script.onload = function () {
             new H5PStandalone.H5P(h5pContainer, {
                 h5pJsonPath: h5pPath,
-                frameJs: "https://cdn.jsdelivr.net/npm/h5p-standalone@1.3.0/dist/frame.bundle.js",
-                frameCss: "https://cdn.jsdelivr.net/npm/h5p-standalone@1.3.0/dist/styles/h5p.css",
+                frameJs: "https://cdn.jsdelivr.net/npm/h5p-standalone@3.6.0/dist/frame.bundle.js",
+                frameCss: "https://cdn.jsdelivr.net/npm/h5p-standalone@3.6.0/dist/styles/h5p.css",
+                debug: true
             });
         };
         document.body.appendChild(script);
