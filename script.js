@@ -11,13 +11,11 @@ function loadContent(item_title, s_title, title, link, summary, keywords, htmlPa
         <h4>${item_title} - ${s_title}</h4>
         <h5>${title}</h5>
         <h5>الأسئلة</h5>
-        
- 
+    
             <iframe id="content-iframe" src="${htmlPath}" width="100%" style="border:none; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;"></iframe>
               <div id="markdown-content" class="markdown-content">جارٍ تحميل المحتوى...</div>
     `;
 
-    const iframe = document.getElementById("content-iframe");
 
     // Automatically adjust iframe height
 
