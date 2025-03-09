@@ -12,10 +12,21 @@ function loadContent(item_title, s_title, title, link, summary, keywords, htmlPa
         <h5>${title}</h5>
         <h5>الأسئلة</h5>
         
-        <iframe src="${htmlPath}" width="80%" height="400vh"  style="border:none; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;"></iframe>
-        <div id="markdown-content" class="markdown-content">جارٍ تحميل المحتوى...</div>
+ <div class="iframe-container">
+            <iframe id="content-iframe" src="${htmlPath}" width="100%" style="border:none; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;"></iframe>
+        </div>        <div id="markdown-content" class="markdown-content">جارٍ تحميل المحتوى...</div>
     `;
 
+    const iframe = document.getElementById("content-iframe");
+
+    // Automatically adjust iframe height
+    iframe.onload = function () {
+        setTimeout(() => {
+            if (iframe.contentWindow.document.body) {
+                iframe.style.height = iframe.contentWindow.document.body.scrollHeight + "px";
+            }
+        }, 500);
+    };
     // Load and render Markdown content
     if (markdownPath) {
         fetch(markdownPath)
