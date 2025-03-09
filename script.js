@@ -15,8 +15,6 @@ function loadContent(title, link, summary, keywords, htmlPath) {
         <iframe src="${htmlPath}" width="100%" height="600px" style="border:none; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;"></iframe>
 
     `;
-   
-        document.body.appendChild(script);
     }
 
 
