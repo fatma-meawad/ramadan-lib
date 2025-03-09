@@ -1,0 +1,1695 @@
+{
+  "showTitleScreen": false,
+  "titleScreen": {
+    "titleScreenIntroduction": "<p style=\"text-align:center\"></p>"
+  },
+  "gamemapSteps": {
+    "backgroundImageSettings": {
+      "backgroundImage": {
+        "path": "../../../images/Fatiha6.png",
+        "mime": "image/png",
+        "copyright": {
+          "license": "U"
+        },
+        "width": 52,
+        "height": 52
+      }
+    },
+    "gamemap": {
+      "elements": [
+        {
+          "id": "80673ca2-f4e8-4c7f-b6d5-3574edca2627",
+          "label": "المعرفة الأساسية",
+          "content": {
+            "params": {},
+            "dom": {
+              "count": 0
+            }
+          },
+          "telemetry": {
+            "x": "14.693316575417404",
+            "y": "44.33311905659123",
+            "width": "4.375",
+            "height": "12.257495284039955"
+          },
+          "neighbors": [
+            "1"
+          ],
+          "canBeStartStage": true,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": false
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الآية تشير إلى الطغيان وليس التواضع.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن الإنسان يتواضع عندما يشعر بالغنى.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الآية تشير إلى أن الإنسان يطغى عندما يرى نفسه مستغنيًا عن الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن الإنسان يطغى عندما يرى نفسه مستغنيًا عن الله.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الآية تتحدث عن الطغيان وليس زيادة الإيمان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن الإنسان يزداد إيمانه عندما يستغني عن الدنيا.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الآية تشير إلى تأثير الغنى على الإنسان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن الإنسان لا يتأثر بالغنى أو الفقر.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو المعنى الذي تشير إليه الآية الكريمة: {كَلاَّ إِنَّ الإنسان ليطغى أَن رَّآهُ استغنى}؟"
+                  },
+                  "subContentId": "81d5e625-85b4-4410-b5cc-a5b0656c5202"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الفهم وحده لا يكفي لإخضاع الكون.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>قدرته على فهم قوانين الكون.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الأشياء تستجيب للإنسان وفقًا لقوانين وضعها الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>استجابة الأشياء له وفقًا لقوانين وضعها الله.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>القوة الجسدية والعقلية ليست السبب.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>قوته الجسدية والعقلية.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الظن بإخضاع الكون لا يرتبط بعدم الإيمان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>عدم إيمانه بوجود الله.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما الذي يجعل الإنسان يظن أنه قادر على إخضاع الكون؟"
+                  },
+                  "subContentId": "5ed13cb6-88fd-4df2-8545-4bdd1a6fba62"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الأشياء لا تعتمد على الإنسان في وجودها.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن الأشياء تعتمد على الإنسان في وجودها.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! ذاتية الأشياء تعني وجودها المستقل الذي لا يتغير.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن الأشياء لها وجود مستقل لا يتغير.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الأشياء لا تتغير وفقًا لإرادة الإنسان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن الأشياء تتغير وفقًا لإرادة الإنسان.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الأشياء تحتاج إلى خالق.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن الأشياء لا تحتاج إلى خالق.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو المعنى المقصود بـ 'ذاتية الأشياء' كما ورد في النص؟"
+                  },
+                  "subContentId": "a9409b1c-f1a2-42ab-bbc9-cbb1630a8c0f"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": false,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              },
+              "poolSize": 3
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "title": "Beginner",
+              "authors": [],
+              "changes": [],
+              "extraTitle": "Beginner"
+            },
+            "subContentId": "de162491-8e5e-427c-8c1f-516f54924c08"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        },
+        {
+          "id": "4cb317bc-53d0-40b2-b11b-359aa36361e8",
+          "label": "الفهم التطبيقي",
+          "content": {
+            "params": {},
+            "dom": {
+              "count": 0
+            }
+          },
+          "telemetry": {
+            "x": "38.42867412032244",
+            "y": "85.49958675199737",
+            "width": "4.375",
+            "height": "12.257495284039955"
+          },
+          "neighbors": [
+            "0",
+            "2"
+          ],
+          "canBeStartStage": false,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": false
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإنسان لا يسيطر على قوانين الكون.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنه يسيطر على قوانين الكون.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الأشياء تستجيب للإنسان وفقًا لقوانين وضعها الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأن الأشياء تستجيب له وفقًا لقوانين وضعها الله.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الاعتقاد بالقدرة على إخضاع الكون لا يرتبط بعدم الإيمان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنه لا يؤمن بوجود الله.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإنسان لا يمتلك قوة خارقة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنه يمتلك قوة خارقة.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "لماذا يعتبر الإنسان أنه قادر على إخضاع الكون؟"
+                  },
+                  "subContentId": "16b4185a-5162-46d7-8387-f0b326c917cb"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الإنسان يحتاج إلى الآخرين في مراحل حياته المختلفة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنه يحتاج إلى الآخرين في طفولته وشيخوخته.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإنسان لا يستطيع التحكم في كل شيء حوله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنه يستطيع التحكم في كل شيء حوله.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإنسان يتأثر بالمرض والشيخوخة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنه لا يتأثر بالمرض أو الشيخوخة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإنسان يحتاج إلى الله في كل شيء.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أنه يعيش دون حاجة إلى الله.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو الدليل على أن الإنسان ليس له ذاتية حقيقية؟"
+                  },
+                  "subContentId": "f91f2782-2ad9-4d71-bbe9-348dfda6b8c2"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المتغيرات لا تهدف إلى زيادة الغرور.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لتجعل الإنسان يشعر بالغرور.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! المتغيرات تهدف إلى إنهاء الغرور من نفس الإنسان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لتنهي الغرور من نفس الإنسان.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الإنسان لا يمكن أن يعتمد على نفسه فقط.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لتجعل الإنسان يعتمد على نفسه فقط.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>المتغيرات لا تهدف إلى جعل الإنسان يشعر بالضعف دائمًا.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لتجعل الإنسان يشعر بالضعف دائمًا.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو الغرض من وجود المتغيرات في حياة الإنسان؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو الغرض من وجود المتغيرات في حياة الإنسان؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو الغرض من وجود المتغيرات في حياة الإنسان؟"
+                  },
+                  "subContentId": "aebf8c68-df8b-4ff3-92e5-0fb72ce97821"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": false,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              }
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "title": "الفهم التطبيقي",
+              "authors": [],
+              "changes": [],
+              "extraTitle": "الفهم التطبيقي"
+            },
+            "subContentId": "aff61c90-c525-4200-af1e-02145bbcf26f"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        },
+        {
+          "id": "ba260514-915e-44c3-95bd-a8328ac249b1",
+          "label": "التحليل والتفكير النقدي",
+          "content": {
+            "params": {},
+            "dom": {}
+          },
+          "telemetry": {
+            "x": "47.81288852519791",
+            "y": "43.87233961702518",
+            "width": "4.375",
+            "height": "12.257495284039955"
+          },
+          "neighbors": [
+            "1",
+            "3"
+          ],
+          "canBeStartStage": false,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": false
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الصنف الأول كفر عن إرادة، والثاني كفر عن استفادة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الصنف الأول كفر عن جهل، والثاني كفر عن علم.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الصنف الأول كفر بإرادته، والثاني كفر لأنه مستفيد من الكفر.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الصنف الأول كفر عن إرادة، والثاني كفر عن استفادة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الكفر لا يرتبط بالضعف أو القوة.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الصنف الأول كفر عن ضعف، والثاني كفر عن قوة.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الكفر لا يرتبط بالحاجة أو الغنى.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>الصنف الأول كفر عن حاجة، والثاني كفر عن غنى.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو الفرق بين الصنفين من الكافرين كما ورد في النص؟"
+                  },
+                  "subContentId": "87b97aac-88de-40c2-9a11-f7bcb1c4d1e9"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هم سمعوا عن الإيمان ولكنهم رفضوه.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنهم لم يسمعوا عن الإيمان.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! هم يريدون الاحتفاظ بسلطاتهم الدنيوية.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنهم يريدون الاحتفاظ بسلطاتهم الدنيوية.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هم يعرفون بوجود الله ولكنهم يرفضون الإيمان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنهم لا يؤمنون بوجود الله.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>هم ليسوا في جهل بل يعرفون الحق.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>لأنهم يعيشون في جهل.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو سبب عدم إيمان الصنف الثاني من الكافرين؟"
+                  },
+                  "subContentId": "999f3d6c-2687-40e1-80f7-c8731dabebd4"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الختم على القلب لا يعني عدم استقبال المعلومات.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن القلب لا يستقبل أي معلومات جديدة.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الختم على القلب يعني أنه لا يخرج منه الكفر ولا يدخله الإيمان.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن القلب لا يخرج منه الكفر ولا يدخله الإيمان.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>القلب لا يصبح مغلقًا عن العالم الخارجي.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن القلب يصبح مغلقًا عن العالم الخارجي.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>القلب لا يفقد القدرة على الإحساس.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أن القلب يفقد القدرة على الإحساس.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>ما هو معنى 'الختم على القلب' كما ورد في النص؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "ما هو معنى 'الختم على القلب' كما ورد في النص؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "ما هو معنى 'الختم على القلب' كما ورد في النص؟"
+                  },
+                  "subContentId": "13a4fd58-4948-43f3-8a63-3a7b5bd78094"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": false,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              }
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "title": "Untitled Question Set",
+              "authors": [],
+              "changes": [],
+              "extraTitle": "Untitled Question Set"
+            },
+            "subContentId": "2f596ed4-4a47-4463-a643-03b16009839e"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        },
+        {
+          "id": "00f1ed49-e8b3-4b73-8ed1-bd26e9638794",
+          "label": "التطبيق الواقعي",
+          "content": {
+            "params": {},
+            "dom": {
+              "count": 0
+            }
+          },
+          "telemetry": {
+            "x": "59.90352142285557",
+            "y": "75.9996326684421",
+            "width": "4.375",
+            "height": "12.257495284039955"
+          },
+          "neighbors": [
+            "2"
+          ],
+          "canBeStartStage": false,
+          "time": {},
+          "accessRestrictions": {
+            "openOnScoreSufficient": false
+          },
+          "contentType": {
+            "params": {
+              "introPage": {
+                "showIntroPage": false,
+                "startButtonText": "Start Quiz",
+                "introduction": ""
+              },
+              "progressType": "dots",
+              "passPercentage": 50,
+              "questions": [
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>التشجيع وحده لا يكفي، يجب تذكيره بدور الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أهنئه على جهده وأشجعه على الاستمرار.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! يجب تذكيره بأن الله هو الذي سخر له الأسباب.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أذكره بأن الله هو الذي سخر له الأسباب لتحقيق النجاح.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>النجاح مرتبط بتدخل الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أخبره أن النجاح لا علاقة له بالله.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الاعتماد على النفس فقط يغفل دور الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أطلب منه أن يعتمد على نفسه فقط.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "إذا رأيت شخصًا يعتقد أن نجاحه في العمل هو نتيجة جهده فقط دون تدخل الله، كيف ترد عليه بناءً على النص؟"
+                  },
+                  "subContentId": "35cb3dfd-bcc5-4ae4-b732-011ca9f9dd02"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>التكنولوجيا هي من صنع البشر ولكن بتسخير الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أوافقه على أن البشر هم من صنعوا التكنولوجيا.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! الله هو الذي سخر القوانين الطبيعية لصنع التكنولوجيا.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أذكره بأن الله هو الذي سخر القوانين الطبيعية لصنع التكنولوجيا.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>التكنولوجيا مرتبطة بتسخير الله للقوانين.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أخبره أن التكنولوجيا لا علاقة لها بالله.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>التوقف عن استخدام التكنولوجيا ليس حلًا.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أطلب منه أن يتوقف عن استخدام التكنولوجيا.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "شخص يعتقد أن التكنولوجيا الحديثة هي من صنع البشر فقط دون تدخل الله، كيف ترد عليه؟"
+                  },
+                  "subContentId": "a9ffeb7b-8fca-481e-8540-f04aaabd8e7d"
+                },
+                {
+                  "params": {
+                    "media": {
+                      "disableImageZooming": false
+                    },
+                    "answers": [
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>التشجيع وحده لا يكفي، يجب تذكيره بدور الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أهنئه على قوته وأشجعه على الاستمرار.</p>"
+                      },
+                      {
+                        "correct": true,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>صحيح! يجب تذكيره بأن القوة الجسدية هي من الله وقد تتغير.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أذكره بأن القوة الجسدية هي من الله وقد تتغير في أي وقت.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>القوة الجسدية مرتبطة بتسخير الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أخبره أن القوة الجسدية لا علاقة لها بالله.</p>"
+                      },
+                      {
+                        "correct": false,
+                        "tipsAndFeedback": {
+                          "tip": "",
+                          "chosenFeedback": "<p>الاعتماد على القوة فقط يغفل دور الله.</p>",
+                          "notChosenFeedback": ""
+                        },
+                        "text": "<p>أطلب منه أن يعتمد على قوته فقط.</p>"
+                      }
+                    ],
+                    "overallFeedback": [
+                      {
+                        "from": 0,
+                        "to": 100
+                      }
+                    ],
+                    "behaviour": {
+                      "enableRetry": true,
+                      "enableSolutionsButton": true,
+                      "enableCheckButton": true,
+                      "type": "single",
+                      "singlePoint": true,
+                      "randomAnswers": true,
+                      "showSolutionsRequiresInput": true,
+                      "confirmCheckDialog": false,
+                      "confirmRetryDialog": false,
+                      "autoCheck": true,
+                      "passPercentage": 100,
+                      "showScorePoints": true
+                    },
+                    "UI": {
+                      "checkAnswerButton": "Check",
+                      "submitAnswerButton": "Submit",
+                      "showSolutionButton": "Show solution",
+                      "tryAgainButton": "Retry",
+                      "tipsLabel": "Show tip",
+                      "scoreBarLabel": "You got :num out of :total points",
+                      "tipAvailable": "Tip available",
+                      "feedbackAvailable": "Feedback available",
+                      "readFeedback": "Read feedback",
+                      "wrongAnswer": "Wrong answer",
+                      "correctAnswer": "Correct answer"
+                    },
+                    "confirmCheck": {
+                      "header": "Finish?",
+                      "body": "Are you sure you wish to finish?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Finish"
+                    },
+                    "confirmRetry": {
+                      "header": "Retry?",
+                      "body": "Are you sure you wish to retry?",
+                      "cancelLabel": "Cancel",
+                      "confirmLabel": "Confirm"
+                    },
+                    "question": "<p>إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟</p>"
+                  },
+                  "library": "H5P.MultiChoice 1.16",
+                  "metadata": {
+                    "contentType": "Multiple Choice",
+                    "license": "U",
+                    "title": "إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟",
+                    "authors": [],
+                    "changes": [],
+                    "extraTitle": "إذا رأيت شخصًا يفتخر بقوته الجسدية ويعتقد أنه لا يحتاج إلى الله، كيف ترد عليه؟"
+                  },
+                  "subContentId": "6ab019fc-6206-4cf9-a548-7a746ad4c915"
+                }
+              ],
+              "disableBackwardsNavigation": false,
+              "randomQuestions": false,
+              "endGame": {
+                "showResultPage": true,
+                "showSolutionButton": true,
+                "showRetryButton": true,
+                "noResultMessage": "Finished",
+                "message": "Your result:",
+                "scoreBarLabel": "You got @finals out of @totals points",
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solutionButtonText": "Show solution",
+                "retryButtonText": "Retry",
+                "finishButtonText": "Finish",
+                "submitButtonText": "Submit",
+                "showAnimations": false,
+                "skippable": false,
+                "skipButtonText": "Skip video"
+              },
+              "texts": {
+                "prevButton": "Previous question",
+                "nextButton": "Next question",
+                "finishButton": "Finish",
+                "submitButton": "Submit",
+                "textualProgress": "Question: @current of @total questions",
+                "jumpToQuestion": "Question %d of %total",
+                "questionLabel": "Question",
+                "readSpeakerProgress": "Question @current of @total",
+                "unansweredText": "Unanswered",
+                "answeredText": "Answered",
+                "currentQuestionText": "Current question",
+                "navigationLabel": "Questions"
+              },
+              "override": {
+                "checkButton": true
+              }
+            },
+            "library": "H5P.QuestionSet 1.20",
+            "metadata": {
+              "contentType": "Question Set",
+              "license": "U",
+              "title": "Untitled Question Set",
+              "authors": [],
+              "changes": [],
+              "extraTitle": "Untitled Question Set"
+            },
+            "subContentId": "9e71786a-5a85-48e1-ada9-ebf0db4b03b2"
+          },
+          "specialStageExtraLives": 1,
+          "specialStageExtraTime": 1
+        }
+      ]
+    }
+  },
+  "endScreen": {
+    "noSuccess": {
+      "endScreenTextNoSuccess": "<p style=\"text-align:center\"></p>"
+    },
+    "success": {
+      "endScreenTextSuccess": "<p style=\"text-align:center\"></p>"
+    },
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100
+      }
+    ]
+  },
+  "visual": {
+    "stages": {
+      "colorStage": "rgba(250, 223, 10, 0.7)",
+      "colorStageLocked": "rgba(153, 0, 0, 0.7)",
+      "colorStageCleared": "rgba(0, 130, 0, 0.7)"
+    },
+    "paths": {
+      "displayPaths": true,
+      "style": {
+        "colorPath": "rgba(250, 243, 243, 0.7)",
+        "colorPathCleared": "rgba(14, 15, 14, 0.7)",
+        "pathWidth": "0.2",
+        "pathStyle": "dotted"
+      }
+    },
+    "misc": {
+      "useAnimation": true
+    }
+  },
+  "audio": {
+    "backgroundMusic": {
+      "muteDuringExercise": true
+    },
+    "ambient": {}
+  },
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "map": {
+      "showLabels": true,
+      "roaming": "free"
+    }
+  },
+  "l10n": {
+    "start": "Start",
+    "continue": "Continue",
+    "restart": "Restart",
+    "showSolutions": "Show solutions",
+    "completedMap": "You have completed the map!",
+    "fullScoreButnoLivesLeft": "You have achieved full score, but lost all your lifes!",
+    "fullScoreButTimeout": "You have achieved full score, but ran out of time!",
+    "confirmFinishHeader": "Finish map?",
+    "confirmFinishDialog": "If you finish now, you will not be able to explore the map any longer.",
+    "confirmFinishDialogSubmission": "Your score will be submitted.",
+    "confirmFinishDialogQuestion": "Do you really want to finish the map?",
+    "confirmAccessDeniedHeader": "Stage locked",
+    "confirmAccessDeniedDialog": "This stage requires you to meet some goals before it can be opened.",
+    "confirmAccessDeniedMinScore": "You need at least a certain number of points: @minscore",
+    "yes": "Yes",
+    "no": "No",
+    "confirmGameOverHeader": "Game over!",
+    "confirmGameOverDialog": "You have lost all your lives. Please try again!",
+    "confirmGameOverDialogTimeout": "You have run out of time. Please try again!",
+    "confirmTimeoutHeader": "Time out!",
+    "confirmTimeoutDialog": "You ran out of time.",
+    "confirmTimeoutDialogLostLife": "You ran out of time and lost a life.",
+    "confirmScoreIncompleteHeader": "Not full score!",
+    "confirmIncompleteScoreDialogLostLife": "You did not achieve full score and lost a life.",
+    "confirmFullScoreHeader": "You achieved full score!",
+    "confirmFullScoreDialog": "You have collected enough points to finish this map with a full score, but you are free to explore the rest if you wish to.",
+    "confirmFullScoreDialogLoseLivesAmendmend": "But beware! You may still lose lives!",
+    "ok": "OK",
+    "noBackground": "No background image was set for the map.",
+    "noStages": "No valid stages were set for the map."
+  },
+  "a11y": {
+    "buttonFinish": "Finish the map",
+    "buttonAudioActive": "Mute audio. Currently unmuted.",
+    "buttonAudioInactive": "Unmute audio. Currently muted.",
+    "close": "Close",
+    "yourResult": "You got @score out of @total points",
+    "mapWasOpened": "The map was opened.",
+    "mapSolutionsWasOpened": "The map was opened in solutions mode.",
+    "startScreenWasOpened": "The title screen was opened.",
+    "endScreenWasOpened": "The end screen was opened.",
+    "exerciseLabel": ". Exercise for @stagelabel",
+    "stageButtonLabel": "Stage: @stagelabel",
+    "adjacentStageLabel": "Adjacent stage of @stagelabelOrigin: @stagelabelNeighbor",
+    "locked": "Locked",
+    "cleared": "Cleared",
+    "applicationInstructions": "Use space or enter key to activate current stage. Use arrow keys to select adjacent stage. Use space or enter key on adjacent stage to navigate there.",
+    "applicationDescription": "Map",
+    "movedToStage": "Moved to @stagelabel",
+    "stageUnlocked": "Stage @stagelabel was unlocked.",
+    "toolbarFallbackLabel": "Game Map",
+    "enterFullscreen": "Enter fullscreen mode",
+    "exitFullscreen": "Exit fullscreen mode"
+  },
+  "headline": "📌 **الغيب والإيمان بالله**"
+}

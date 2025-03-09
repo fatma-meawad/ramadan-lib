@@ -4,22 +4,39 @@ const sidebar = document.getElementById("sidebar-content");
 sidebar.innerHTML = ""; // Clear previous content
 
 // Function to dynamically load H5P content
-function loadContent(item_title, s_title, title, link, summary, keywords, htmlPath) {
+function loadContent(item_title, s_title, title, link, summary, keywords, htmlPath, markdownPath) {
     const contentArea = document.getElementById("content-area");
     contentArea.innerHTML = `
-    
-            <h1> مكتبة رمضان</h1>
-     <h3>${item_title}</h3>
-        <h4>${s_title}</h5>
+        <h1> مكتبة رمضان</h1>
+        <h3>${item_title}</h3>
+        <h4>${s_title}</h4>
         <h5>${title}</h5>
-        <iframe src="${htmlPath}" width="50%" height="400px" style="border:none; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;"></iframe>
-        <h3>الأيات و الأحاديت: </h3>
+        <iframe src="${htmlPath}" width="90%" height="100vh" style="border:none;align:center; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;"></iframe>
+        <h3>الأيات و الأحاديث: </h3>
         <ul>${keywords}</ul>
-           <p>🔗 <a href="${link}" target="_blank">رابط القراءة</a></p>
+        <p>🔗 <a href="${link}" target="_blank">رابط القراءة</a></p>
         <p>📂 <a href="${summary}" target="_blank">تحميل الملخص</a></p>
-
+        <div id="markdown-content" class="markdown-content">جارٍ تحميل المحتوى...</div>
     `;
+
+    // Load and render Markdown content
+    if (markdownPath) {
+        fetch(markdownPath)
+            .then(response => response.text())
+            .then(markdown => {
+                if (window.marked) {
+                    document.getElementById("markdown-content").innerHTML = marked.parse(markdown);
+                } else {
+                    document.getElementById("markdown-content").innerHTML = `<pre>${markdown}</pre>`;
+                }
+            })
+            .catch(error => {
+                console.error("Error loading markdown:", error);
+                document.getElementById("markdown-content").innerHTML = "❌ فشل تحميل المحتوى.";
+            });
+    }
 }
+
 
 
 data.forEach(item => {
@@ -44,6 +61,7 @@ data.forEach(item => {
                 <div class="expand-content">
                     ${subsectionsHTML}
                 </div>
+                
             </div>
         `;
     });
