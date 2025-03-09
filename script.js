@@ -11,7 +11,7 @@ function loadContent(item_title, s_title, title, link, summary, keywords, htmlPa
         <h3>${item_title}</h3>
         <h4>${s_title}</h4>
         <h5>${title}</h5>
-        <iframe src="${htmlPath}" width="50%" height="300px" style="border:none; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;"></iframe>
+        <iframe src="${htmlPath}" width="50%" height="400px" style="border:none; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;"></iframe>
         <div id="markdown-content" class="markdown-content">جارٍ تحميل المحتوى...</div>
     `;
 
