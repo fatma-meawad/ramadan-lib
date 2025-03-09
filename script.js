@@ -15,11 +15,11 @@ function loadContent(item_title, s_title, title, summary, keywords, htmlPath) {
         <h5>${title}</h5>
         <h5>الأسئلة</h5>
     
-        <iframe id="content-iframe" src="${htmlPath}" width="100%" height="400px"  style="border:none; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;"></iframe>
+        <iframe id="content-iframe" src="${htmlPath}" width="100%" height="100px"  style="border:none; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;"></iframe>
 
-           <h3>الأيات و الأحاديث: </h3>
+           <h4>الأيات و الأحاديث: </h4>
         <ul>${keywords}</ul>
-        <h3>ملخص:</h3>
+        <h4>ملخص:</h4>
         <ul>${summary}</ul>
     `;
 
