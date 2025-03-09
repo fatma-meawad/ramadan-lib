@@ -6,7 +6,7 @@
   "gamemapSteps": {
     "backgroundImageSettings": {
       "backgroundImage": {
-        "path": "../images/greenmap.png",
+        "path": "images/greenmap.png",
         "mime": "image/jpeg",
         "copyright": {
           "license": "U"
